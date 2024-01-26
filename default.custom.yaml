@@ -1,0 +1,28 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Wed Jan 24 13:54:34 2024"
+  rime_version: 1.8.5
+patch:
+  schema_list:
+    - {schema: luna_pinyin_simp}
+    - {schema: luna_pinyin}
+    - {schema: my_schema}
+  "menu/page_size": 7
+
+  switcher/hotkeys:
+    - F4
+
+  key_binder:
+    bindings:
+      # commonly used paging keys
+      - { when: composing, accept: ISO_Left_Tab, send: Page_Up }
+      - { when: composing, accept: Shift+Tab, send: Page_Up }
+      - { when: composing, accept: Tab, send: Page_Down }
+      - { when: has_menu, accept: minus, send: Page_Up }
+      - { when: has_menu, accept: equal, send: Page_Down }
+      - { when: paging, accept: comma, send: Page_Up }
+      - { when: has_menu, accept: period, send: Page_Down }
+      - { when: paging, accept: bracketleft, send: Page_Up }
+      - { when: has_menu, accept: bracketright, send: Page_Down }

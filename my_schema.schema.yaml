@@ -1,0 +1,157 @@
+# MySchema
+schema:
+  schema_id: my_schema
+  name: 自定义
+  version: "2024.01.26"
+  author:
+    - Leng_yue57 <1210625283@qq.com>
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: ascii_made
+    reset: 0
+    states: ["中", "Ａ"]
+  - name: full_shape
+    states: ["半", "全"]
+  - name: extended_charset
+    reset: 1
+  - name: simplification
+    states: ["繁", "简"]
+  - name: ascii_punct
+    reset: 0
+    states: ["。，", ". , "]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: "'"
+  algebra:
+    __patch:
+      - pinyin:/abbreviation
+      # - pinyin:/spelling_correction
+      # - pinyin:/key_correction
+  algebra:
+    - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
+    - derive/^([jqx])i(.+)$/$1$2/
+    - derive/ui$/uei/
+    - derive/iu$/iou/
+    - derive/^([^jqxy])un$/$1uen/
+    - derive/ing$/ieng/
+    - derive/^ying$/yeng/
+    # 简化输入
+    - derive/yu/v/
+    - derive/([zcs]h)i$/$1/
+
+translator:
+  dictionary: luna_pinyin
+  disable_user_dict_for_patterns:
+    - "^啊*$"
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+    - xform/ieng/ing/
+    - xform/yeng/ying/
+    - xform/([jqx])([aon])/$1i$2/
+    - xform/([jqx])e([^n])/$1ie$2/
+    - xform/([jqx])eng/$1ing/
+    - xform/^v/$1yu/
+    - xform/([^jqxy])v/$1yu/
+    - xform/([zcs]h)([^aoeiu])/$1i$2
+    - xform/([zcs]h)$/$1i
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
+  # 用家自選配置
+  - luna_pinyin.custom:/patch?
+
+# engine:
+#   processors:
+#     - ascii_composer
+#     - key_binder
+#     - speller
+#     - punctuator
+#     - selector
+#     - navigator
+#     - express_editor
+#   segmentors:
+#     - abc_segmentor
+#     - punct_segmentor
+#     - fallback_segmentor
+#   translators:
+#     - echo_translator
+#     - punct_translator
+#     - table_translator
+
+# speller:
+#   algebra:
+#     - 'abbrev/^([a-z]).+$/$1/'
+#     - 'abbrev/^([zcs]h).+$/$1/'
+
+# translator:
+#   dictionary: luna_pinyin
+#   preedit_format:
+#     - "xform/([nl])v/$1ü/"
+#     - "xform/([nl])ue/$1üe/"
+#     - "xform/([jqxy])v/$1u/"
+
+# punctuator:
+#   import_preset: default

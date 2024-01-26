@@ -1,0 +1,24 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Jan 25 08:54:36 2024"
+  rime_version: 1.8.5
+patch:
+  style/color_scheme: MicrosoftDark
+  preset_color_schemes/MicrosoftDark:
+    name: "Microsoft Dark"
+    author: ["Leng_yue57 <1210625283@qq.com>"]
+    text_color: 0xFFFFFF
+    back_color: 0x2C2C2C
+    border_color: 0x222222
+    candidate_text_color: 0xFFFFFF
+    comment_text_color: 0xFFFFFF
+    hilited_back_color: 0x2C2C2C
+    hilited_candidate_back_color: 0xE6BBBD
+    hilited_candidate_text_color: 0xffffff
+    hilited_text_color: 0x808080
+    label_color: 0xffffff
+  style/font_face: "Source Han Sans SC, Microsoft YaHei, UbuntuMono Nerd Font"
+  style/font_point: 12
+    # inline_preedit: true
