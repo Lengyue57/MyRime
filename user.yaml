@@ -1,7 +1,8 @@
 var:
-  last_build_time: 1706268181
+  last_build_time: 1706345773
   option:
     ascii_punct: false
+    extended_charset: true
     full_shape: false
     simplification: true
   previously_selected_schema: my_schema

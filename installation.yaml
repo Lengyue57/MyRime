@@ -1,6 +1,7 @@
-distribution_code_name: Weasel
-distribution_name: "小狼毫"
-distribution_version: 0.15.0.0
+distribution_code_name: "fcitx-rime"
+distribution_name: Rime
+distribution_version: 5.1.4
 install_time: "Fri Jan 12 16:34:56 2024"
 installation_id: "f9363072-f87b-4061-a936-f3d9f49da238"
-rime_version: 1.8.5
+rime_version: 1.9.0
+update_time: "Sat Jan 27 12:01:57 2024"
