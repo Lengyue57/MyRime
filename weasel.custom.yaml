@@ -21,4 +21,4 @@ patch:
     label_color: 0xffffff
   style/font_face: "Source Han Sans SC, Microsoft YaHei, UbuntuMono Nerd Font"
   style/font_point: 12
-  # style/inline_preedit: true
+  style/inline_preedit: true

@@ -2,346 +2,381 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	18
+#@/tick	38
 #@/user_id	f9363072-f87b-4061-a936-f3d9f49da238
-a bei duo 	阿贝多	c=1 d=2e-08 t=18
-a ka na 	阿卡那	c=1 d=2e-08 t=18
-ai hao 	愛好	c=1 d=2e-08 t=18
-ai ren yao sai 	矮人要塞	c=1 d=2e-08 t=18
-ai ren yao sai ma 	矮人要塞吗	c=1 d=2e-08 t=18
-an ju 	暗橘	c=1 d=2e-08 t=18
-ba zhou wei yi quan 	把周围一圈	c=1 d=2e-08 t=18
-bai ji ge 	摆几个	c=1 d=2e-08 t=18
-ban jiao zi fu 	半角字符	c=1 d=2e-08 t=18
-ban yan you xi 	扮演游戏	c=1 d=2e-08 t=18
-bei chong bai 	被崇拜	c=1 d=2e-08 t=18
-bei jing gong an 	北京公安	c=1 d=2e-08 t=18
-beng tie 	崩铁	c=1 d=2e-08 t=18
-bian hao sou suo 	编号搜索	c=1 d=2e-08 t=18
-bian ji qi zu 	编辑器组	c=1 d=2e-08 t=18
-bian jia qiang 	便加强	c=1 d=2e-08 t=18
-biao liang lei xing 	标量类型	c=1 d=2e-08 t=18
-bing qi ku 	兵器库	c=1 d=2e-08 t=18
-bo fang kong jian 	播放控件	c=1 d=2e-08 t=18
-bu gan huo er 	不干活儿	c=1 d=2e-08 t=18
-bu men tong xun 	部门通讯	c=1 d=2e-08 t=18
-bu quan 	補全	c=0 d=0.1 t=15
-bu shi wo xiang yao 	不是我想要	c=1 d=2e-08 t=18
-bu sui ma 	不随吗	c=1 d=2e-08 t=18
-ce shi 	測試	c=1 d=1 t=9
-cen 	岑	c=0 d=0.1 t=9
-cen fu zi 	岑夫子	c=1 d=1 t=10
-cha ma ke 	查马克	c=1 d=2e-08 t=18
-chong man le ai 	充满了爱	c=1 d=2e-08 t=18
-chu shi hua zhong 	初始化中	c=1 d=2e-08 t=18
-chun hua 	唇化	c=1 d=2e-08 t=18
-ci bai di 	辞白帝	c=1 d=2e-08 t=18
-ci fen fa 	此分发	c=1 d=2e-08 t=18
-cong zuo wang you ma 	从左往右吗	c=1 d=2e-08 t=18
-da geng ren 	打更人	c=1 d=2e-08 t=18
-da lie ri 	达列日	c=1 d=2e-08 t=18
-da suan wen ni de 	打算问你的	c=1 d=2e-08 t=18
-dai zu zi zhi qu 	傣族自治区	c=1 d=2e-08 t=18
-dan heng 	丹恒	c=1 d=2e-08 t=18
-dan qiu sheng 	丹丘生	c=1 d=1 t=11
-dan wei ding yi 	单位定义	c=1 d=2e-08 t=18
-dan xia mian de 	但下面的	c=1 d=2e-08 t=18
-deng jiu 	灯就	c=1 d=2e-08 t=18
-deng lu jie mian 	登陆界面	c=1 d=2e-08 t=18
-di bu dao hang 	底部导航	c=1 d=2e-08 t=18
-di di xia de 	地底下的	c=1 d=2e-08 t=18
-di xia na ge 	底下那个	c=1 d=2e-08 t=18
-di xia zhe ge 	地下这个	c=1 d=2e-08 t=18
-di xia zhe ge 	底下这个	c=1 d=2e-08 t=18
-ding yi a 	定义啊	c=1 d=2e-08 t=18
-dou liu ma 	逗留吗	c=1 d=2e-08 t=18
-dou nong guo lai 	都弄过来	c=1 d=2e-08 t=18
-du cha tong bao 	督查通报	c=1 d=2e-08 t=18
-dui die er da lu 	堆叠而大陆	c=1 d=2e-08 t=18
-dui wo ye 	对我也	c=1 d=2e-08 t=18
-dui xiang sheng cun qi 	对象生存期	c=1 d=2e-08 t=18
-dun diao le 	炖掉了	c=1 d=2e-08 t=18
-duo chang ei 	多长诶	c=1 d=2e-08 t=18
-duo jia yi ceng 	多加一层	c=1 d=2e-08 t=18
-fa lv da quan 	法律大全	c=1 d=2e-08 t=18
-fang zheng xing kai 	方正行楷	c=1 d=2e-08 t=18
-fei xie er 	菲谢尔	c=1 d=2e-08 t=18
-fei xie er 	费歇尔	c=1 d=2e-08 t=18
-fen ju wen jian 	分局文件	c=1 d=2e-08 t=18
-fen pei de a 	分配的啊	c=1 d=2e-08 t=18
-feng chui cao di xian niu yang 	风吹草低见牛羊	c=1 d=2e-08 t=18
-feng ge ding 	封个顶	c=1 d=2e-08 t=18
-fu dong le 	浮动了	c=1 d=2e-08 t=18
-fu zi 	夫子	c=0 d=0.1 t=9
-gai 	改	c=2 d=1.96079 t=15
-gan jue bu que ding 	感觉不确定	c=1 d=2e-08 t=18
-gang chuang jian 	刚创建	c=1 d=2e-08 t=18
-ge zhong ban ben 	各种版本	c=1 d=2e-08 t=18
-gei han shu 	给函数	c=1 d=2e-08 t=18
-gen jie kou 	跟接口	c=1 d=2e-08 t=18
-geng qin jin 	更亲近	c=1 d=2e-08 t=18
-gong zuo zhuan lan 	工作专栏	c=1 d=2e-08 t=18
-gong zuo zhuan lan biao ti 	工作专栏标题	c=1 d=2e-08 t=18
-guan diao hou 	关掉后	c=1 d=2e-08 t=18
-guan diao ne 	关掉呢	c=1 d=2e-08 t=18
-guang dong gong an 	广东公安	c=1 d=2e-08 t=18
-guang rong bang de 	光荣榜的	c=1 d=2e-08 t=18
-guang zhui 	光追	c=1 d=2e-08 t=18
-gui dao gong an 	轨道公安	c=1 d=2e-08 t=18
-gui dao gong an dao hang 	轨道公安导航	c=1 d=2e-08 t=18
-gui dao jiao tong zhi an 	轨道交通治安	c=1 d=2e-08 t=18
-gui dao zi xun 	轨道咨询	c=1 d=2e-08 t=18
-gun dao di liao 	滚到底了	c=1 d=2e-08 t=18
-gun dong lan 	滚动栏	c=1 d=2e-08 t=18
-hai mei chi a 	还没吃啊	c=1 d=2e-08 t=18
-hai tu 	骇兔	c=1 d=2e-08 t=18
-hai you zhei ge 	还有这个	c=1 d=2e-08 t=18
-hang zhou gong an 	杭州公安	c=1 d=2e-08 t=18
-hao xiang ye mei zhe wen ti 	好像也没这问题	c=1 d=2e-08 t=18
-he ren lei 	和人类	c=1 d=2e-08 t=18
-hei long jiang sheng gong an ting 	黑龙江省公安厅	c=1 d=2e-08 t=18
-heng xiang nei rong 	横向内容	c=1 d=2e-08 t=18
-hou xuan lan 	候选栏	c=1 d=2e-08 t=18
-hou zhe shuo 	后者说	c=1 d=2e-08 t=18
-hu nan sheng gong an ting 	湖南省公安厅	c=1 d=2e-08 t=18
-huan mo zhe 	唤魔者	c=1 d=2e-08 t=18
-hui kai tou 	会开头	c=1 d=2e-08 t=18
-huo ban men 	活版门	c=1 d=2e-08 t=18
-ji ben 	基本	c=0 d=0.1 t=15
-ji ben bu quan 	基本補全	c=1 d=1 t=16
-ji di da men 	基地大门	c=1 d=2e-08 t=18
-ji lin sheng gong an ting 	吉林省公安厅	c=1 d=2e-08 t=18
-jian ji qi 	剪辑器	c=1 d=2e-08 t=18
-jiang lei xing 	将类型	c=1 d=2e-08 t=18
-jiao jiang jing wu zhan 	椒江警务站	c=1 d=2e-08 t=18
-jing ling ji hu 	精灵几乎	c=1 d=2e-08 t=18
-jing yi jie 	静怡姐	c=1 d=2e-08 t=18
-jiu di ban he qiang 	就地板和墙	c=1 d=2e-08 t=18
-ju ti ke yi 	具体可以	c=1 d=2e-08 t=18
-jue qu ling 	绝区零	c=1 d=2e-08 t=18
-kan tu zai chang 	看屠宰场	c=1 d=2e-08 t=18
-kao fan yi ruan jian 	靠翻译软件	c=1 d=2e-08 t=18
-ke qing 	刻晴	c=1 d=2e-08 t=18
-kou hao na li 	口号哪里	c=1 d=2e-08 t=18
-kou hao shi yao 	口号是要	c=1 d=2e-08 t=18
-kua zhang a 	夸张啊	c=1 d=2e-08 t=18
-kuai dian wo ba 	快点我把	c=1 d=2e-08 t=18
-kun ya 	昆雅	c=1 d=2e-08 t=18
-lai zhe bian hou 	来这边后	c=1 d=2e-08 t=18
-lan deng ma 	蓝灯吗	c=1 d=2e-08 t=18
-lao zhan zai 	老站在	c=1 d=2e-08 t=18
-lei han shu 	类函数	c=1 d=2e-08 t=18
-leng he 	冷褐	c=1 d=2e-08 t=18
-leng yue 	愣岳	c=1 d=2e-08 t=18
-li ke jue ding ji a fu jian 	立刻决定急啊附件	c=1 d=2e-08 t=18
-liang an yuan sheng ti bu zhu 	两岸猿声啼不住	c=1 d=2e-08 t=18
-lie che ban ci 	列车班次	c=1 d=2e-08 t=18
-lu tian le 	露天了	c=1 d=2e-08 t=18
-lu tian le ma 	露天了吗	c=1 d=2e-08 t=18
-lun bo tiao 	轮播条	c=1 d=2e-08 t=18
-man yan ma 	蔓延吗	c=1 d=2e-08 t=18
-mei ri dong tai 	每日动态	c=1 d=2e-08 t=18
-mei zhao dao fang fa 	没找到方法	c=1 d=2e-08 t=18
-mian liang 	面两	c=1 d=2e-08 t=18
-ming 	朙	c=1 d=1 t=12
-ming ming 	名命	c=1 d=2e-08 t=18
-ming yue 	朙月	c=1 d=1 t=5
-mo ren 	默認	c=1 d=1 t=1
-mo rui ya 	莫瑞亚	c=1 d=2e-08 t=18
-na wo zhi hou 	那我之后	c=1 d=2e-08 t=18
-nan dao chu fang 	难道厨房	c=1 d=2e-08 t=18
-nei bu lian jie 	内部链接	c=1 d=2e-08 t=18
-nei cun fen pei 	内存分配	c=1 d=2e-08 t=18
-nei cun ye 	内存页	c=1 d=2e-08 t=18
-neng tiao ma 	能调吗	c=1 d=2e-08 t=18
-neng zuo dao ne 	能做到呢	c=1 d=2e-08 t=18
-ni men gong zuo 	你们工作	c=1 d=2e-08 t=18
-ni men zhi ye 	你们职业	c=1 d=2e-08 t=18
-ni shi 	溺尸	c=1 d=2e-08 t=18
-ning ling hun 	宁灵魂	c=1 d=2e-08 t=18
-ning xia hui zu 	宁夏回族	c=1 d=2e-08 t=18
-nong huo er 	农活儿	c=1 d=2e-08 t=18
-nuo ai er 	诺埃尔	c=1 d=2e-08 t=18
-ou bu shi 	偶不是	c=1 d=2e-08 t=18
-pa e zhi 	怕恶之	c=1 d=2e-08 t=18
-pa ei se 	怕欸色	c=1 d=2e-08 t=18
-pi pian gao 	皮偏高	c=1 d=2e-08 t=18
-pin yin 	拼音	c=2 d=1.96079 t=14
-qi cai jie 	亓才孑	c=1 d=1 t=2
-qi ming qi bu lai le 	起名起不来了	c=1 d=2e-08 t=18
-qi sui 	七歲	c=0 d=0.1 t=3
-qian chuang ge 	前窗格	c=1 d=2e-08 t=18
-qian he 	浅褐	c=1 d=2e-08 t=18
-qian li jiang ling yi ri huan 	千里江陵一日还	c=1 d=2e-08 t=18
-qiang zhi shua xin 	强制刷新	c=1 d=2e-08 t=18
-qie huan jian pan 	切换键盘	c=1 d=2e-08 t=18
-qin shi ming yue han shi guan 	秦时明月汉时关	c=1 d=2e-08 t=18
-qing shu ru guan jian ci sou suo 	请输入关键词搜索	c=1 d=2e-08 t=18
-qing zai ci chu 	请在此处	c=1 d=2e-08 t=18
-qing zhi zhong xin 	情指中心	c=1 d=2e-08 t=18
-qing zuo zi wo jie shao 	请作自我介绍	c=1 d=2e-08 t=18
-qu mo 	祛魔	c=1 d=2e-08 t=18
-qu shou le 	去收了	c=1 d=2e-08 t=18
-quan guo gong an dao hang 	全国公安导航	c=1 d=2e-08 t=18
-quan rong le 	全融了	c=1 d=2e-08 t=18
-quan sheng gong an dao hang 	全省公安导航	c=1 d=2e-08 t=18
-ran dou 	燃豆	c=1 d=2e-08 t=18
-rang tu xiang 	让图像	c=1 d=2e-08 t=18
-shan chu qu 	闪出去	c=1 d=2e-08 t=18
-shang ji wen jian 	上级文件	c=1 d=2e-08 t=18
-shang mian yi ceng 	上面一层	c=1 d=2e-08 t=18
-shang ren mai 	商人买	c=1 d=2e-08 t=18
-shang yue ke liu liang 	上月客流量	c=1 d=2e-08 t=18
-she zhi biao qian 	设置标签	c=1 d=2e-08 t=18
-sheng chan jian she 	生产建设	c=1 d=2e-08 t=18
-shi ge zhong 	是各种	c=1 d=2e-08 t=18
-shi ge zhong 	诗歌中	c=1 d=2e-08 t=18
-shi hui fu 	是回复	c=1 d=2e-08 t=18
-shi jie bing bu shi na me de 	世界并不是那么的	c=1 d=2e-08 t=18
-shi ju kao ji 	市局考绩	c=1 d=2e-08 t=18
-shi ju zhu ye 	市局主页	c=1 d=2e-08 t=18
-shi liu se 	十六色	c=1 d=2e-08 t=18
-shi na ge ma 	是那个吗	c=1 d=2e-08 t=18
-shi nian 	時年	c=0 d=0.1 t=3
-shi nian qi sui 	時年七歲	c=1 d=1 t=4
-shi shi shi shi shi 	施氏食狮史	c=1 d=2e-08 t=18
-shi zhang fa bu 	市长发布	c=1 d=2e-08 t=18
-shi zhang ma 	市长吗	c=1 d=2e-08 t=18
-shou dong geng xin 	手动更新	c=1 d=2e-08 t=18
-shu ju liang ma 	数据量吗	c=1 d=2e-08 t=18
-shu ming sou suo 	署名搜索	c=1 d=2e-08 t=18
-shu ru fa 	輸入法	c=1 d=1 t=8
-shua xin ma 	刷新吗	c=1 d=2e-08 t=18
-shua zi yuan 	刷资源	c=1 d=2e-08 t=18
-shui geng xin 	谁更新	c=1 d=2e-08 t=18
-shui ping chui zhi 	水平垂直	c=1 d=2e-08 t=18
-shui shui shui shui shui 	水水水水水	c=1 d=2e-08 t=18
-shui shui shui shui shui shui 	水水水水水水	c=1 d=2e-08 t=18
-shui shui shui shui shui shui shui 	水水水水水水水	c=1 d=2e-08 t=18
-si mu lin ken 	私募林肯	c=1 d=2e-08 t=18
-sou suo tiao 	搜索条	c=1 d=2e-08 t=18
-suo chang song 	所唱诵	c=1 d=2e-08 t=18
-suo li lue tu 	所里略图	c=1 d=2e-08 t=18
-ta shang lv tu 	踏上旅途	c=1 d=2e-08 t=18
-ta shuo hou tai 	他说后台	c=1 d=2e-08 t=18
-tai zhou huo che zhan 	台州火车站	c=1 d=2e-08 t=18
-tan xing bu ju 	弹性布局	c=1 d=2e-08 t=18
-tao lun bei 	讨论呗	c=1 d=2e-08 t=18
-teng ge wa 	腾格瓦	c=1 d=2e-08 t=18
-ti wa te 	提瓦特	c=1 d=2e-08 t=18
-tian hui qu 	填回去	c=1 d=2e-08 t=18
-tian qi lai ma 	填起来吗	c=1 d=2e-08 t=18
-tiao cha yan jiu 	调差研究	c=1 d=2e-08 t=18
-tiao qi lai 	调起来	c=1 d=2e-08 t=18
-tiao tuo yi dian 	跳脱一点	c=1 d=2e-08 t=18
-tong bu 	同步	c=1 d=1 t=18
-tu xing jia su 	图形加速	c=1 d=2e-08 t=18
-tuan jian gong zuo 	团建工作	c=1 d=2e-08 t=18
-wa chuan 	挖穿	c=1 d=2e-08 t=18
-wa cuo le 	挖错了	c=1 d=2e-08 t=18
-wa di ban 	挖地版	c=1 d=2e-08 t=18
-wai mian hui 	外面会	c=1 d=2e-08 t=18
-wan li chang zheng ren wei huan 	万里长征人未还	c=1 d=2e-08 t=18
-wang cheng nan zhan fang xiang 	王成南站方向	c=1 d=2e-08 t=18
-wang na ge fang xiang gai ne 	往那个方向改呢	c=1 d=2e-08 t=18
-wen ti lai de 	问题来的	c=1 d=2e-08 t=18
-wen zi gun dong 	文字滚动	c=1 d=2e-08 t=18
-wo bu tai jue ding 	我不太决定	c=1 d=2e-08 t=18
-wo de zi ti shi 	我的字体是	c=1 d=2e-08 t=18
-wo dou bu mai de 	我都不买的	c=1 d=2e-08 t=18
-wo huo xu ke yi bang ni kan kan 	我或许可以帮你看看	c=1 d=2e-08 t=18
-wo wen dang mei kan dong 	我文档没看懂	c=1 d=2e-08 t=18
-wo xiu hao 	我修好	c=1 d=2e-08 t=18
-wo zhi zhong guo 	我只种过	c=1 d=2e-08 t=18
-wu yang shi 	无样式	c=1 d=2e-08 t=18
-xi tong wen jian jia 	系统文件夹	c=1 d=2e-08 t=18
-xi zang zang zu zi zhi qu 	西藏藏族自治区	c=1 d=2e-08 t=18
-xian shi hang hao 	显示行号	c=1 d=2e-08 t=18
-xian shi ju qu dao hang 	县市局区导航	c=1 d=2e-08 t=18
-xian shi zhong hao xiang 	现实中好像	c=1 d=2e-08 t=18
-xian zai yong gang 	现在用钢	c=1 d=2e-08 t=18
-xiang cang 	像仓	c=1 d=2e-08 t=18
-xiang da di 	向大地	c=1 d=2e-08 t=18
-xiang tong gui ge 	相同规格	c=1 d=2e-08 t=18
-xiao lv fa 	效率法	c=1 d=2e-08 t=18
-xie shen le 	邪神了	c=1 d=2e-08 t=18
-xin chuang ge 	新窗格	c=1 d=2e-08 t=18
-xin hang 	新行	c=1 d=2e-08 t=18
-xin wen ju jiao 	新闻聚焦	c=1 d=2e-08 t=18
-xing qiong 	星穹	c=1 d=2e-08 t=18
-xing qiong tie dao 	星穹铁道	c=1 d=2e-08 t=18
-xing qu ai hao 	兴趣愛好	c=1 d=2e-08 t=18
-xu lie er 	序列二	c=1 d=2e-08 t=18
-xu ni tian wen guan 	虚拟天文馆	c=1 d=2e-08 t=18
-xu yao kao lv ma 	需要考虑吗	c=1 d=2e-08 t=18
-xuan lei bie 	选类别	c=1 d=2e-08 t=18
-xue ju 	雪居	c=1 d=2e-08 t=18
-xun fang da dui 	巡防大队	c=1 d=2e-08 t=18
-xun huan ne 	循环呢	c=1 d=2e-08 t=18
-yan he zhi beng 	岩壑之崩	c=1 d=2e-08 t=18
-yao sai nei bu 	要塞内部	c=1 d=2e-08 t=18
-yao yi zhe zhong 	要以这种	c=1 d=2e-08 t=18
-ye dou zhao bu dao 	也都找不到	c=1 d=2e-08 t=18
-ye kai le de 	也开了的	c=1 d=2e-08 t=18
-ye mei she 	也没设	c=1 d=2e-08 t=18
-yi an se 	一暗色	c=1 d=2e-08 t=18
-yi ban jiao shen me a 	一般叫什么啊	c=1 d=2e-08 t=18
-yi fu dong hua tu xiang 	一幅动画图象	c=1 d=2e-08 t=18
-yi pian liang pian 	一片两片	c=1 d=2e-08 t=18
-yi shang miao shu 	以上描述	c=1 d=2e-08 t=18
-yi sheng ming 	已声明	c=1 d=2e-08 t=18
-yi tiao jie yi tiao 	一条接一条	c=1 d=2e-08 t=18
-yi wang ju shou 	遗忘巨兽	c=1 d=2e-08 t=18
-yin shan xia 	阴山下	c=1 d=2e-08 t=18
-ying yong dao hang xi tong 	应用导航系统	c=1 d=2e-08 t=18
-you dian que 	有点缺	c=1 d=2e-08 t=18
-you ge ai ren 	有个矮人	c=1 d=2e-08 t=18
-you jie tu ma 	有截图吗	c=1 d=2e-08 t=18
-you la 	优菈	c=1 d=2e-08 t=18
-you lou ti 	有楼梯	c=1 d=2e-08 t=18
-you shi fu 	尤师傅	c=1 d=2e-08 t=18
-you shui de 	有水的	c=1 d=2e-08 t=18
-you tiao xian 	有条线	c=1 d=2e-08 t=18
-you wei shen me 	又为什么	c=1 d=2e-08 t=18
-you yi quan 	又一圈	c=1 d=2e-08 t=18
-yuan fang 	元芳	c=1 d=1 t=3
-yuan shen 	原神	c=1 d=2e-08 t=18
-yuan su zhou qi 	元素周期	c=1 d=2e-08 t=18
-yue 	月	c=1 d=1 t=13
-yue xia feng lai 	月下风来	c=1 d=2e-08 t=18
-yun cheng 	匀称	c=1 d=2e-08 t=18
-yun mo se 	云墨色	c=1 d=2e-08 t=18
-yun zuo gui ze 	运作规则	c=1 d=2e-08 t=18
-za a a a 	咋啊啊啊	c=1 d=2e-08 t=18
-zai gun 	再滚	c=1 d=2e-08 t=18
-zai wai mao shang 	在外貌上	c=1 d=2e-08 t=18
-zao jian ta 	造箭塔	c=1 d=2e-08 t=18
-zao yi gei chu 	早已给出	c=1 d=2e-08 t=18
-zhang xiang jun mei 	长相俊美	c=1 d=2e-08 t=18
-zhao ci bai di cai yun jian 	朝辞白帝彩云间	c=1 d=2e-08 t=18
-zhe duan 	遮断	c=1 d=2e-08 t=18
-zhe ge nian 	这个念	c=1 d=2e-08 t=18
-zhe ge shi shen me dong xi 	这个是什么东西	c=1 d=2e-08 t=18
-zhe li you ge bao cuo 	这里有个报错	c=1 d=2e-08 t=18
-zhe li zhe ge 	这里这个	c=1 d=2e-08 t=18
-zhe shi kou hao 	这是口号	c=1 d=2e-08 t=18
-zhi ban qing kuang 	值班情况	c=1 d=2e-08 t=18
-zhi jie dao yan jiang 	直接到岩浆	c=1 d=2e-08 t=18
-zhi qian di xia 	之前地下	c=1 d=2e-08 t=18
-zhi shao lian xu 	至少连续	c=1 d=2e-08 t=18
-zhi wu ji 	植物集	c=1 d=2e-08 t=18
-zhi xue you yong de 	只学有用的	c=1 d=2e-08 t=18
-zhong duan pei zhi 	终端配置	c=1 d=2e-08 t=18
-zhong jian xian de 	中间线的	c=1 d=2e-08 t=18
-zhong jian xuan zhe 	中间悬着	c=1 d=2e-08 t=18
-zhong zi a 	种子啊	c=1 d=2e-08 t=18
-zhu ling 	猪灵	c=1 d=2e-08 t=18
-zhu mian guan li 	煮面管理	c=1 d=2e-08 t=18
-zhu wei cao 	猪尾草	c=1 d=2e-08 t=18
-zhu zi 	朱紫	c=1 d=2e-08 t=18
-zhuan tou zai kan kan 	转头再看看	c=1 d=2e-08 t=18
-zhuo mian feng ge 	桌面风格	c=1 d=2e-08 t=18
-zi ti jian bian 	字体渐变	c=1 d=2e-08 t=18
-zi yuan su bu shou 	子元素不受	c=1 d=2e-08 t=18
-zu 	足	c=1 d=1 t=17
-zuo ri ke liu liang 	昨日客流量	c=1 d=2e-08 t=18
+a bei duo 	阿贝多	c=1 d=2e-08 t=38
+a ka na 	阿卡那	c=1 d=2e-08 t=38
+ai hao 	愛好	c=1 d=2e-08 t=38
+ai ren yao sai 	矮人要塞	c=2 d=0.913931 t=38
+ai ren yao sai ma 	矮人要塞吗	c=1 d=2e-08 t=38
+an ju 	暗橘	c=1 d=2e-08 t=38
+ba zhou wei yi quan 	把周围一圈	c=1 d=2e-08 t=38
+bai ji ge 	摆几个	c=1 d=2e-08 t=38
+ban jiao zi fu 	半角字符	c=1 d=2e-08 t=38
+ban yan you xi 	扮演游戏	c=1 d=2e-08 t=38
+bei chong bai 	被崇拜	c=1 d=2e-08 t=38
+bei jing gong an 	北京公安	c=1 d=2e-08 t=38
+beng tie 	崩铁	c=1 d=2e-08 t=38
+bian hao sou suo 	编号搜索	c=1 d=2e-08 t=38
+bian ji qi zu 	编辑器组	c=1 d=2e-08 t=38
+bian jia qiang 	便加强	c=1 d=2e-08 t=38
+biao liang lei xing 	标量类型	c=1 d=2e-08 t=38
+bing qi ku 	兵器库	c=1 d=2e-08 t=38
+bo fang kong jian 	播放控件	c=1 d=2e-08 t=38
+bu gan huo er 	不干活儿	c=1 d=2e-08 t=38
+bu guo 	不過	c=0 d=0.1 t=26
+bu guo you duan shi jian mei wan le 	不過有段時間沒玩了	c=1 d=1 t=27
+bu men tong xun 	部门通讯	c=1 d=2e-08 t=38
+bu quan 	補全	c=0 d=0.0985112 t=38
+bu shi wo xiang yao 	不是我想要	c=1 d=2e-08 t=38
+bu sui ma 	不随吗	c=1 d=2e-08 t=38
+bu zu 	補足	c=0 d=0.1 t=35
+ce shi 	測試	c=1 d=0.955997 t=38
+cen 	岑	c=0 d=0.0955997 t=38
+cen fu zi 	岑夫子	c=1 d=0.960789 t=38
+cha ma ke 	查马克	c=1 d=2e-08 t=38
+chong man le ai 	充满了爱	c=1 d=2e-08 t=38
+chu shi hua zhong 	初始化中	c=1 d=2e-08 t=38
+chun hua 	唇化	c=1 d=2e-08 t=38
+ci bai di 	辞白帝	c=1 d=2e-08 t=38
+ci fen fa 	此分发	c=1 d=2e-08 t=38
+cong zuo wang you ma 	从左往右吗	c=1 d=2e-08 t=38
+da geng ren 	打更人	c=1 d=2e-08 t=38
+da lie ri 	达列日	c=1 d=2e-08 t=38
+da suan wen ni de 	打算问你的	c=1 d=2e-08 t=38
+dai zu zi zhi qu 	傣族自治区	c=1 d=2e-08 t=38
+dan heng 	丹恒	c=1 d=2e-08 t=38
+dan qiu sheng 	丹丘生	c=1 d=0.965605 t=38
+dan wei ding yi 	单位定义	c=1 d=2e-08 t=38
+dan xia mian de 	但下面的	c=1 d=2e-08 t=38
+de 	的	c=1 d=1.09005 t=28
+deng jiu 	灯就	c=1 d=2e-08 t=38
+deng lu jie mian 	登陆界面	c=1 d=2e-08 t=38
+di bu dao hang 	底部导航	c=1 d=2e-08 t=38
+di di xia de 	地底下的	c=1 d=2e-08 t=38
+di xia na ge 	底下那个	c=1 d=2e-08 t=38
+di xia zhe ge 	地下这个	c=1 d=2e-08 t=38
+di xia zhe ge 	底下这个	c=1 d=2e-08 t=38
+ding yi a 	定义啊	c=1 d=2e-08 t=38
+dou liu ma 	逗留吗	c=1 d=2e-08 t=38
+dou nong guo lai 	都弄过来	c=1 d=2e-08 t=38
+du cha tong bao 	督查通报	c=1 d=2e-08 t=38
+duan shi jian 	段時間	c=0 d=0.1 t=26
+dui die er da lu 	堆叠而大陆	c=1 d=2e-08 t=38
+dui wo ye 	对我也	c=1 d=2e-08 t=38
+dui xiang sheng cun qi 	对象生存期	c=1 d=2e-08 t=38
+dun diao le 	炖掉了	c=1 d=2e-08 t=38
+duo chang ei 	多长诶	c=1 d=2e-08 t=38
+duo jia yi ceng 	多加一层	c=1 d=2e-08 t=38
+fa lv da quan 	法律大全	c=1 d=2e-08 t=38
+fang zheng xing kai 	方正行楷	c=1 d=2e-08 t=38
+fei xie er 	菲谢尔	c=1 d=2e-08 t=38
+fei xie er 	费歇尔	c=1 d=2e-08 t=38
+fen ju wen jian 	分局文件	c=1 d=2e-08 t=38
+fen pei de a 	分配的啊	c=1 d=2e-08 t=38
+feng chui cao di xian niu yang 	风吹草低见牛羊	c=1 d=2e-08 t=38
+feng ge ding 	封个顶	c=1 d=2e-08 t=38
+fu dong le 	浮动了	c=1 d=2e-08 t=38
+fu zi 	夫子	c=0 d=0.0955997 t=38
+gai 	改	c=3 d=2.65715 t=38
+gan jue bu que ding 	感觉不确定	c=1 d=2e-08 t=38
+gang chuang jian 	刚创建	c=1 d=2e-08 t=38
+ge zhong ban ben 	各种版本	c=1 d=2e-08 t=38
+gei han shu 	给函数	c=1 d=2e-08 t=38
+gen jie kou 	跟接口	c=1 d=2e-08 t=38
+geng qin jin 	更亲近	c=1 d=2e-08 t=38
+gong zuo zhuan lan 	工作专栏	c=1 d=2e-08 t=38
+gong zuo zhuan lan biao ti 	工作专栏标题	c=1 d=2e-08 t=38
+guan diao hou 	关掉后	c=1 d=2e-08 t=38
+guan diao ne 	关掉呢	c=1 d=2e-08 t=38
+guang dong gong an 	广东公安	c=1 d=2e-08 t=38
+guang rong bang de 	光荣榜的	c=1 d=2e-08 t=38
+guang zhui 	光追	c=1 d=2e-08 t=38
+gui dao gong an 	轨道公安	c=1 d=2e-08 t=38
+gui dao gong an dao hang 	轨道公安导航	c=1 d=2e-08 t=38
+gui dao jiao tong zhi an 	轨道交通治安	c=1 d=2e-08 t=38
+gui dao zi xun 	轨道咨询	c=1 d=2e-08 t=38
+gun dao di liao 	滚到底了	c=1 d=2e-08 t=38
+gun dong lan 	滚动栏	c=1 d=2e-08 t=38
+hai 	還	c=0 d=0.1 t=28
+hai man you yi si de 	還蠻有意思的	c=1 d=1 t=29
+hai mei chi a 	还没吃啊	c=1 d=2e-08 t=38
+hai tu 	骇兔	c=1 d=2e-08 t=38
+hai you zhei ge 	还有这个	c=1 d=2e-08 t=38
+hang zhou gong an 	杭州公安	c=1 d=2e-08 t=38
+hao xiang ye mei zhe wen ti 	好像也没这问题	c=1 d=2e-08 t=38
+he 	和	c=1 d=1 t=34
+he ren lei 	和人类	c=1 d=2e-08 t=38
+hei long jiang sheng gong an ting 	黑龙江省公安厅	c=1 d=2e-08 t=38
+heng xiang nei rong 	横向内容	c=1 d=2e-08 t=38
+hou xuan lan 	候选栏	c=1 d=2e-08 t=38
+hou zhe shuo 	后者说	c=1 d=2e-08 t=38
+hu nan sheng gong an ting 	湖南省公安厅	c=1 d=2e-08 t=38
+huan mo zhe 	唤魔者	c=1 d=2e-08 t=38
+hui kai tou 	会开头	c=1 d=2e-08 t=38
+huo ban men 	活版门	c=1 d=2e-08 t=38
+ji ben 	基本	c=0 d=0.283247 t=38
+ji ben bu quan 	基本補全	c=1 d=0.99005 t=38
+ji ben bu zu 	基本補足	c=1 d=1 t=36
+ji ben zi fu 	基本字符	c=1 d=1 t=30
+ji ci 	幾次	c=0 d=0.1 t=27
+ji di da men 	基地大门	c=1 d=2e-08 t=38
+ji lin sheng gong an ting 	吉林省公安厅	c=1 d=2e-08 t=38
+jian hua 	簡化	c=1 d=1 t=37
+jian ji qi 	剪辑器	c=1 d=2e-08 t=38
+jiang lei xing 	将类型	c=1 d=2e-08 t=38
+jiao jiang jing wu zhan 	椒江警务站	c=1 d=2e-08 t=38
+jie pa de 	傑帕德	c=1 d=1 t=35
+jin zhan 	進展	c=0 d=0.1 t=23
+jin zhan zen me yang le 	進展怎麼樣了	c=1 d=1 t=24
+jing ling ji hu 	精灵几乎	c=1 d=2e-08 t=38
+jing yi jie 	静怡姐	c=1 d=2e-08 t=38
+jiu di ban he qiang 	就地板和墙	c=1 d=2e-08 t=38
+ju ti ke yi 	具体可以	c=1 d=2e-08 t=38
+jue qu ling 	绝区零	c=1 d=2e-08 t=38
+ka fu ka 	卡夫卡	c=1 d=1 t=32
+kan tu zai chang 	看屠宰场	c=1 d=2e-08 t=38
+kao fan yi ruan jian 	靠翻译软件	c=1 d=2e-08 t=38
+ke qing 	刻晴	c=1 d=2e-08 t=38
+kou hao na li 	口号哪里	c=1 d=2e-08 t=38
+kou hao shi yao 	口号是要	c=1 d=2e-08 t=38
+kua zhang a 	夸张啊	c=1 d=2e-08 t=38
+kuai dian wo ba 	快点我把	c=1 d=2e-08 t=38
+kun ya 	昆雅	c=1 d=2e-08 t=38
+lai zhe bian hou 	来这边后	c=1 d=2e-08 t=38
+lan deng ma 	蓝灯吗	c=1 d=2e-08 t=38
+lao zhan zai 	老站在	c=1 d=2e-08 t=38
+le 	了	c=0 d=0.1 t=26
+lei han shu 	类函数	c=1 d=2e-08 t=38
+leng he 	冷褐	c=1 d=2e-08 t=38
+leng yue 	愣岳	c=1 d=2e-08 t=38
+li ke jue ding ji a fu jian 	立刻决定急啊附件	c=1 d=2e-08 t=38
+liang an yuan sheng ti bu zhu 	两岸猿声啼不住	c=1 d=2e-08 t=38
+lie che ban ci 	列车班次	c=1 d=2e-08 t=38
+lu tian le 	露天了	c=1 d=2e-08 t=38
+lu tian le ma 	露天了吗	c=1 d=2e-08 t=38
+lun bo tiao 	轮播条	c=1 d=2e-08 t=38
+man yan ma 	蔓延吗	c=1 d=2e-08 t=38
+man you yi si 	蠻有意思	c=0 d=0.1 t=28
+mao xian 	冒險	c=1 d=1.1 t=21
+mao xian mo shi 	冒險模式	c=1 d=1 t=22
+mei ri dong tai 	每日动态	c=1 d=2e-08 t=38
+mei wan 	沒玩	c=0 d=0.1 t=26
+mei zhao dao fang fa 	没找到方法	c=1 d=2e-08 t=38
+mian liang 	面两	c=1 d=2e-08 t=38
+ming 	朙	c=1 d=0.970446 t=38
+ming ming 	名命	c=1 d=2e-08 t=38
+ming yue 	朙月	c=1 d=0.937067 t=38
+mo ren 	默認	c=1 d=0.918512 t=38
+mo rui ya 	莫瑞亚	c=1 d=2e-08 t=38
+mo shi 	模式	c=0 d=0.1 t=21
+na wo zhi hou 	那我之后	c=1 d=2e-08 t=38
+nan dao chu fang 	难道厨房	c=1 d=2e-08 t=38
+nei bu lian jie 	内部链接	c=1 d=2e-08 t=38
+nei cun fen pei 	内存分配	c=1 d=2e-08 t=38
+nei cun ye 	内存页	c=1 d=2e-08 t=38
+neng tiao ma 	能调吗	c=1 d=2e-08 t=38
+neng zuo dao ne 	能做到呢	c=1 d=2e-08 t=38
+ni men gong zuo 	你们工作	c=1 d=2e-08 t=38
+ni men zhi ye 	你们职业	c=1 d=2e-08 t=38
+ni shi 	溺尸	c=1 d=2e-08 t=38
+ning ling hun 	宁灵魂	c=1 d=2e-08 t=38
+ning xia hui zu 	宁夏回族	c=1 d=2e-08 t=38
+nong huo er 	农活儿	c=1 d=2e-08 t=38
+nuo ai er 	诺埃尔	c=1 d=2e-08 t=38
+ou bu shi 	偶不是	c=1 d=2e-08 t=38
+pa e zhi 	怕恶之	c=1 d=2e-08 t=38
+pa ei se 	怕欸色	c=1 d=2e-08 t=38
+pi pian gao 	皮偏高	c=1 d=2e-08 t=38
+pin yin 	拼音	c=2 d=1.92196 t=38
+qi 	七	c=0 d=0.1 t=32
+qi cai jie 	亓才孑	c=1 d=0.923116 t=38
+qi ming qi bu lai le 	起名起不来了	c=1 d=2e-08 t=38
+qi sui 	七歲	c=0 d=0.0927743 t=38
+qian chuang ge 	前窗格	c=1 d=2e-08 t=38
+qian he 	浅褐	c=1 d=2e-08 t=38
+qian li jiang ling yi ri huan 	千里江陵一日还	c=1 d=2e-08 t=38
+qiang zhi shua xin 	强制刷新	c=1 d=2e-08 t=38
+qie huan jian pan 	切换键盘	c=1 d=2e-08 t=38
+qin shi ming yue han shi guan 	秦时明月汉时关	c=1 d=2e-08 t=38
+qing shu ru guan jian ci sou suo 	请输入关键词搜索	c=1 d=2e-08 t=38
+qing zai ci chu 	请在此处	c=1 d=2e-08 t=38
+qing zhi zhong xin 	情指中心	c=1 d=2e-08 t=38
+qing zuo zi wo jie shao 	请作自我介绍	c=1 d=2e-08 t=38
+qu mo 	祛魔	c=1 d=2e-08 t=38
+qu shou le 	去收了	c=1 d=2e-08 t=38
+quan bu 	全部	c=0 d=0.1 t=30
+quan bu zi fu 	全部字符	c=1 d=1 t=31
+quan guo gong an dao hang 	全国公安导航	c=1 d=2e-08 t=38
+quan rong le 	全融了	c=1 d=2e-08 t=38
+quan sheng gong an dao hang 	全省公安导航	c=1 d=2e-08 t=38
+ran dou 	燃豆	c=1 d=2e-08 t=38
+rang tu xiang 	让图像	c=1 d=2e-08 t=38
+san yue 	三月	c=0 d=0.1 t=32
+san yue qi 	三月七	c=1 d=1 t=33
+shan chu qu 	闪出去	c=1 d=2e-08 t=38
+shang ji wen jian 	上级文件	c=1 d=2e-08 t=38
+shang mian yi ceng 	上面一层	c=1 d=2e-08 t=38
+shang ren mai 	商人买	c=1 d=2e-08 t=38
+shang yue ke liu liang 	上月客流量	c=1 d=2e-08 t=38
+she zhi biao qian 	设置标签	c=1 d=2e-08 t=38
+sheng chan jian she 	生产建设	c=1 d=2e-08 t=38
+shi ge zhong 	是各种	c=1 d=2e-08 t=38
+shi ge zhong 	诗歌中	c=1 d=2e-08 t=38
+shi guo 	試過	c=0 d=0.1 t=27
+shi guo ji ci 	試過幾次	c=1 d=1 t=28
+shi hui fu 	是回复	c=1 d=2e-08 t=38
+shi jie bing bu shi na me de 	世界并不是那么的	c=1 d=2e-08 t=38
+shi ju kao ji 	市局考绩	c=1 d=2e-08 t=38
+shi ju zhu ye 	市局主页	c=1 d=2e-08 t=38
+shi liu se 	十六色	c=1 d=2e-08 t=38
+shi na ge ma 	是那个吗	c=1 d=2e-08 t=38
+shi nian 	時年	c=0 d=0.0927743 t=38
+shi nian qi sui 	時年七歲	c=1 d=0.932394 t=38
+shi shi shi shi shi 	施氏食狮史	c=1 d=2e-08 t=38
+shi zhang fa bu 	市长发布	c=1 d=2e-08 t=38
+shi zhang ma 	市长吗	c=1 d=2e-08 t=38
+shou dong geng xin 	手动更新	c=1 d=2e-08 t=38
+shu ju liang ma 	数据量吗	c=1 d=2e-08 t=38
+shu ming sou suo 	署名搜索	c=1 d=2e-08 t=38
+shu ru 	輸入	c=1 d=1 t=38
+shu ru fa 	輸入法	c=1 d=0.951229 t=38
+shua xin ma 	刷新吗	c=1 d=2e-08 t=38
+shua zi yuan 	刷资源	c=1 d=2e-08 t=38
+shui geng xin 	谁更新	c=1 d=2e-08 t=38
+shui ping chui zhi 	水平垂直	c=1 d=2e-08 t=38
+shui shui shui shui shui 	水水水水水	c=1 d=2e-08 t=38
+shui shui shui shui shui shui 	水水水水水水	c=1 d=2e-08 t=38
+shui shui shui shui shui shui shui 	水水水水水水水	c=1 d=2e-08 t=38
+si mu lin ken 	私募林肯	c=1 d=2e-08 t=38
+sou suo tiao 	搜索条	c=1 d=2e-08 t=38
+suo chang song 	所唱诵	c=1 d=2e-08 t=38
+suo li lue tu 	所里略图	c=1 d=2e-08 t=38
+ta shang lv tu 	踏上旅途	c=1 d=2e-08 t=38
+ta shuo hou tai 	他说后台	c=1 d=2e-08 t=38
+tai zhou huo che zhan 	台州火车站	c=1 d=2e-08 t=38
+tan xing bu ju 	弹性布局	c=1 d=2e-08 t=38
+tao lun bei 	讨论呗	c=1 d=2e-08 t=38
+teng ge wa 	腾格瓦	c=1 d=2e-08 t=38
+ti wa te 	提瓦特	c=1 d=2e-08 t=38
+tian hui qu 	填回去	c=1 d=2e-08 t=38
+tian qi lai ma 	填起来吗	c=1 d=2e-08 t=38
+tiao cha yan jiu 	调差研究	c=1 d=2e-08 t=38
+tiao qi lai 	调起来	c=1 d=2e-08 t=38
+tiao tuo yi dian 	跳脱一点	c=1 d=2e-08 t=38
+tong bu 	同步	c=1 d=1 t=38
+tu xing jia su 	图形加速	c=1 d=2e-08 t=38
+tuan jian gong zuo 	团建工作	c=1 d=2e-08 t=38
+wa chuan 	挖穿	c=1 d=2e-08 t=38
+wa cuo le 	挖错了	c=1 d=2e-08 t=38
+wa di ban 	挖地版	c=1 d=2e-08 t=38
+wai mian hui 	外面会	c=1 d=2e-08 t=38
+wan li chang zheng ren wei huan 	万里长征人未还	c=1 d=2e-08 t=38
+wang cheng nan zhan fang xiang 	王成南站方向	c=1 d=2e-08 t=38
+wang na ge fang xiang gai ne 	往那个方向改呢	c=1 d=2e-08 t=38
+wen ti lai de 	问题来的	c=1 d=2e-08 t=38
+wen zi gun dong 	文字滚动	c=1 d=2e-08 t=38
+wo bu tai jue ding 	我不太决定	c=1 d=2e-08 t=38
+wo de zi ti shi 	我的字体是	c=1 d=2e-08 t=38
+wo dou bu mai de 	我都不买的	c=1 d=2e-08 t=38
+wo hai shi 	我還是	c=1 d=1 t=25
+wo huo xu ke yi bang ni kan kan 	我或许可以帮你看看	c=1 d=2e-08 t=38
+wo wen dang mei kan dong 	我文档没看懂	c=1 d=2e-08 t=38
+wo xiu hao 	我修好	c=1 d=2e-08 t=38
+wo zhi zhong guo 	我只种过	c=1 d=2e-08 t=38
+wu yang shi 	无样式	c=1 d=2e-08 t=38
+xi tong wen jian jia 	系统文件夹	c=1 d=2e-08 t=38
+xi zang zang zu zi zhi qu 	西藏藏族自治区	c=1 d=2e-08 t=38
+xian shi hang hao 	显示行号	c=1 d=2e-08 t=38
+xian shi ju qu dao hang 	县市局区导航	c=1 d=2e-08 t=38
+xian shi zhong hao xiang 	现实中好像	c=1 d=2e-08 t=38
+xian zai 	現在	c=1 d=1 t=23
+xian zai yong gang 	现在用钢	c=1 d=2e-08 t=38
+xiang cang 	像仓	c=1 d=2e-08 t=38
+xiang da di 	向大地	c=1 d=2e-08 t=38
+xiang tong gui ge 	相同规格	c=1 d=2e-08 t=38
+xiao lv fa 	效率法	c=1 d=2e-08 t=38
+xie shen le 	邪神了	c=1 d=2e-08 t=38
+xin chuang ge 	新窗格	c=1 d=2e-08 t=38
+xin hang 	新行	c=1 d=2e-08 t=38
+xin wen ju jiao 	新闻聚焦	c=1 d=2e-08 t=38
+xing qiong 	星穹	c=1 d=2e-08 t=38
+xing qiong tie dao 	星穹铁道	c=1 d=2e-08 t=38
+xing qu ai hao 	兴趣愛好	c=1 d=2e-08 t=38
+xu lie er 	序列二	c=1 d=2e-08 t=38
+xu ni tian wen guan 	虚拟天文馆	c=1 d=2e-08 t=38
+xu yao kao lv ma 	需要考虑吗	c=1 d=2e-08 t=38
+xuan lei bie 	选类别	c=1 d=2e-08 t=38
+xue ju 	雪居	c=1 d=2e-08 t=38
+xun fang da dui 	巡防大队	c=1 d=2e-08 t=38
+xun huan ne 	循环呢	c=1 d=2e-08 t=38
+yan he zhi beng 	岩壑之崩	c=1 d=2e-08 t=38
+yao sai nei bu 	要塞内部	c=1 d=2e-08 t=38
+yao yi zhe zhong 	要以这种	c=1 d=2e-08 t=38
+ye dou zhao bu dao 	也都找不到	c=1 d=2e-08 t=38
+ye kai le de 	也开了的	c=1 d=2e-08 t=38
+ye mei she 	也没设	c=1 d=2e-08 t=38
+yi an se 	一暗色	c=1 d=2e-08 t=38
+yi ban jiao shen me a 	一般叫什么啊	c=1 d=2e-08 t=38
+yi fu dong hua tu xiang 	一幅动画图象	c=1 d=2e-08 t=38
+yi pian liang pian 	一片两片	c=1 d=2e-08 t=38
+yi shang miao shu 	以上描述	c=1 d=2e-08 t=38
+yi sheng ming 	已声明	c=1 d=2e-08 t=38
+yi tiao jie yi tiao 	一条接一条	c=1 d=2e-08 t=38
+yi wang ju shou 	遗忘巨兽	c=1 d=2e-08 t=38
+yin shan xia 	阴山下	c=1 d=2e-08 t=38
+ying yong dao hang xi tong 	应用导航系统	c=1 d=2e-08 t=38
+you 	有	c=0 d=0.1 t=26
+you dian que 	有点缺	c=1 d=2e-08 t=38
+you ge ai ren 	有个矮人	c=1 d=2e-08 t=38
+you jie tu ma 	有截图吗	c=1 d=2e-08 t=38
+you la 	优菈	c=1 d=2e-08 t=38
+you lou ti 	有楼梯	c=1 d=2e-08 t=38
+you shi fu 	尤师傅	c=1 d=2e-08 t=38
+you shui de 	有水的	c=1 d=2e-08 t=38
+you tiao xian 	有条线	c=1 d=2e-08 t=38
+you wei shen me 	又为什么	c=1 d=2e-08 t=38
+you yi quan 	又一圈	c=1 d=2e-08 t=38
+yuan fang 	元芳	c=1 d=0.927743 t=38
+yuan shen 	原神	c=1 d=2e-08 t=38
+yuan su zhou qi 	元素周期	c=1 d=2e-08 t=38
+yue 	月	c=1 d=0.97531 t=38
+yue xia feng lai 	月下风来	c=1 d=2e-08 t=38
+yun cheng 	匀称	c=1 d=2e-08 t=38
+yun mo se 	云墨色	c=1 d=2e-08 t=38
+yun zuo gui ze 	运作规则	c=1 d=2e-08 t=38
+za a a a 	咋啊啊啊	c=1 d=2e-08 t=38
+zai gun 	再滚	c=1 d=2e-08 t=38
+zai wai mao shang 	在外貌上	c=1 d=2e-08 t=38
+zao jian ta 	造箭塔	c=1 d=2e-08 t=38
+zao yi gei chu 	早已给出	c=1 d=2e-08 t=38
+zen me yang le 	怎麼樣了	c=0 d=0.1 t=23
+zhang xiang jun mei 	长相俊美	c=1 d=2e-08 t=38
+zhao ci bai di cai yun jian 	朝辞白帝彩云间	c=1 d=2e-08 t=38
+zhe duan 	遮断	c=1 d=2e-08 t=38
+zhe ge nian 	这个念	c=1 d=2e-08 t=38
+zhe ge shi shen me dong xi 	这个是什么东西	c=1 d=2e-08 t=38
+zhe li you ge bao cuo 	这里有个报错	c=1 d=2e-08 t=38
+zhe li zhe ge 	这里这个	c=1 d=2e-08 t=38
+zhe shi kou hao 	这是口号	c=1 d=2e-08 t=38
+zhi ban qing kuang 	值班情况	c=1 d=2e-08 t=38
+zhi jie dao yan jiang 	直接到岩浆	c=1 d=2e-08 t=38
+zhi qian di xia 	之前地下	c=1 d=2e-08 t=38
+zhi shao lian xu 	至少连续	c=1 d=2e-08 t=38
+zhi wu ji 	植物集	c=1 d=2e-08 t=38
+zhi xue you yong de 	只学有用的	c=1 d=2e-08 t=38
+zhong duan pei zhi 	终端配置	c=1 d=2e-08 t=38
+zhong jian xian de 	中间线的	c=1 d=2e-08 t=38
+zhong jian xuan zhe 	中间悬着	c=1 d=2e-08 t=38
+zhong zi a 	种子啊	c=1 d=2e-08 t=38
+zhu ling 	猪灵	c=1 d=2e-08 t=38
+zhu mian guan li 	煮面管理	c=1 d=2e-08 t=38
+zhu wei cao 	猪尾草	c=1 d=2e-08 t=38
+zhu zi 	朱紫	c=1 d=2e-08 t=38
+zhuan tou zai kan kan 	转头再看看	c=1 d=2e-08 t=38
+zhuo mian feng ge 	桌面风格	c=1 d=2e-08 t=38
+zi fu 	字符	c=0 d=0.199501 t=30
+zi ti jian bian 	字体渐变	c=1 d=2e-08 t=38
+zi yuan su bu shou 	子元素不受	c=1 d=2e-08 t=38
+zu 	足	c=1 d=0.995012 t=38
+zuo ri ke liu liang 	昨日客流量	c=1 d=2e-08 t=38
