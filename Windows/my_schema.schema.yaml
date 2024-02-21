@@ -13,7 +13,7 @@ schema:
 
 switches:
   - name: ascii_mode
-    reset: 0
+    reset: 1
     states: ["中", "Ａ"]
   - name: full_shape
     states: ["半", "全"]
@@ -38,6 +38,7 @@ speller:
       # - pinyin:/key_correction
   algebra:
     # 基本补足
+    - derive/^([bpmf])o$/$1uo/
     - derive/^([nl])ve$/$1ue/
     - derive/^([jqxy])u/$1v/
     - derive/ui$/uei/
@@ -46,8 +47,9 @@ speller:
     - derive/ing$/ieng/
     - derive/^ying$/yeng/
     # 简化输入
+    - derive/([yi])an$/$1en/
     - derive/yu/v/
-    - derive/([zcs]h)i$/$1/
+    # - derive/([zcs]h)i$/$1/
     - derive/^([jqx])i(.+)$/$1$2/
 
 translator:
@@ -59,8 +61,9 @@ translator:
     # - xform/([jqx])([ao])/$1i$2/
     - xform/([jqx])n/$1in
     - xform/([jqx])e/$1ie/
-    - xform/(^|[^jqxy])v/$1yu/
-    - xform/([zcs]h)($|[^aoeiu])/$1i$2
+    - xform/(^|[^jqxyln])v/$1yu/
+    # - xform/([zcs]h)($|[^aoeiu])/$1i$2
+    - xform/([yi])en($|[^g])/$1an
     # 基本补足
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
