@@ -17,9 +17,6 @@ switches:
     states: ["中", "Ａ"]
   - name: full_shape
     states: ["半", "全"]
-  # - name: extended_charset
-  #   reset: 1
-  #   states: ["基本字符", "全部字符"]
   - name: simplification
     states: ["繁", "简"]
   - name: ascii_punct
