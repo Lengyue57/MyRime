@@ -46,9 +46,12 @@ speller:
     - derive/^yan$/yen/
     - derive/^yuan$/yuen/
     - derive/^yu/v/
-    - derive/^zh/Zh?/
-    - derive/^ch/Ch?/
-    - derive/^sh/Sh?/
+    - derive/^zh/Z/
+    - derive/^zh/Zh/
+    - derive/^ch/C/
+    - derive/^ch/Ch/
+    - derive/^sh/S/
+    - derive/^sh/Sh/
     - derive/^([jqx])i(.+)$/$1$2/
 
 translator:
@@ -60,8 +63,11 @@ translator:
     - xform/([jqx])n/$1in/
     - xform/([jqx])e/$1ie/
     - xform/(^|[^jqxyln])v/$1(yu)/
+    - xform/Sh/sh/
     - xform/S/(sh)/
+    - xform/Ch/ch/
     - xform/C/(ch)/
+    - xform/Zh/zh/
     - xform/Z/(zh)/
     - xform/yuen($|[^g])/yuan$1/
     - xform/yen($|[^g])/yan$1/
