@@ -3,4 +3,3 @@ git pull origin master:master
 git add *
 git commit -m "Auto commit"
 git push origin master:master
-pause
