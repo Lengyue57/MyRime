@@ -26,13 +26,11 @@ switches:
 extended_charset: 1
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZSC
   delimiter: "'"
   algebra:
     __patch:
       - pinyin:/abbreviation
-      # - pinyin:/spelling_correction
-      # - pinyin:/key_correction
   algebra:
     # 基本补足
     - derive/^([bpmf])o$/$1uo/
@@ -44,9 +42,13 @@ speller:
     - derive/ing$/ieng/
     - derive/^ying$/yeng/
     # 简化输入
-    - derive/([yi])an$/$1en/
-    - derive/yu/v/
-    # - derive/([zcs]h)i$/$1/
+    - derive/ian$/ien/
+    - derive/^yan$/yen/
+    - derive/^yuan$/yuen/
+    - derive/^yu/v/
+    - derive/^zh/Zh?/
+    - derive/^ch/Ch?/
+    - derive/^sh/Sh?/
     - derive/^([jqx])i(.+)$/$1$2/
 
 translator:
@@ -55,12 +57,15 @@ translator:
     - "^啊*$"
   preedit_format:
     # 简化输入
-    # - xform/([jqx])([ao])/$1i$2/
-    - xform/([jqx])n/$1in
+    - xform/([jqx])n/$1in/
     - xform/([jqx])e/$1ie/
-    - xform/(^|[^jqxyln])v/$1yu/
-    # - xform/([zcs]h)($|[^aoeiu])/$1i$2
-    - xform/([yi])en($|[^g])/$1an
+    - xform/(^|[^jqxyln])v/$1(yu)/
+    - xform/S/(sh)/
+    - xform/C/(ch)/
+    - xform/Z/(zh)/
+    - xform/yuen($|[^g])/yuan$1/
+    - xform/yen($|[^g])/yan$1/
+    - xform/ien($|[^g])/ian$1/
     # 基本补足
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
