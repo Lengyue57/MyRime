@@ -2,693 +2,703 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	324
+#@/tick	334
 #@/user_id	Windows
-a 	啊	c=3 d=1.84528 t=324
-a bei duo 	阿贝多	c=1 d=1.9801e-08 t=324
-a ka na 	阿卡那	c=1 d=1.9801e-08 t=324
-ai da 	艾達	c=1 d=0.99005 t=324
-ai hao 	愛好	c=1 d=1.9801e-08 t=324
-ai ren yao sai 	矮人要塞	c=2 d=0.895834 t=324
-ai ren yao sai ma 	矮人要塞吗	c=1 d=1.9801e-08 t=324
-an ju 	暗橘	c=1 d=1.9801e-08 t=324
-an pai 	安排	c=0 d=0.0839457 t=324
-an pai shang 	安排上	c=1 d=0.843665 t=324
-an zhuang 	安裝	c=0 d=0.0951229 t=324
-an zhuang chu cuo 	安裝出錯	c=1 d=0.955997 t=324
-ba 	吧	c=2 d=1.61126 t=324
-ba 	把	c=1 d=0.341298 t=324
-ba zhou wei yi quan 	把周围一圈	c=1 d=1.9801e-08 t=324
-bai ji ge 	摆几个	c=1 d=1.9801e-08 t=324
-ban jiao zi fu 	半角字符	c=1 d=1.9801e-08 t=324
-ban yan you xi 	扮演游戏	c=1 d=1.9801e-08 t=324
-bao 	寶	c=1 d=0.532591 t=324
-bao ke meng 	包可夢	c=1 d=0.529935 t=324
-bei 	唄	c=0 d=0.0366044 t=324
-bei chong bai 	被崇拜	c=1 d=1.9801e-08 t=324
-bei jing gong an 	北京公安	c=1 d=1.9801e-08 t=324
-beng tie 	崩铁	c=1 d=1.9801e-08 t=324
-bi jiao 	比較	c=2 d=0.859222 t=324
-bi ru shuo 	比如說	c=1 d=0.522045 t=324
-bian hao sou suo 	编号搜索	c=1 d=1.9801e-08 t=324
-bian hua 	變化	c=1 d=0.873716 t=324
-bian ji qi zu 	编辑器组	c=1 d=1.9801e-08 t=324
-bian jia qiang 	便加强	c=1 d=1.9801e-08 t=324
-biao liang lei xing 	标量类型	c=1 d=1.9801e-08 t=324
-bing qi ku 	兵器库	c=1 d=1.9801e-08 t=324
-bo fang kong jian 	播放控件	c=1 d=1.9801e-08 t=324
-bu dan xin 	不擔心	c=1 d=0.499074 t=324
-bu fen 	部分	c=0 d=0.0427415 t=324
-bu gan huo er 	不干活儿	c=1 d=1.9801e-08 t=324
-bu guo 	不過	c=0 d=0.099005 t=324
-bu guo you duan shi jian mei wan le 	不過有段時間沒玩了	c=1 d=0.99005 t=324
-bu men tong xun 	部门通讯	c=1 d=1.9801e-08 t=324
-bu nan 	不難	c=1 d=0.440432 t=324
-bu quan 	補全	c=0 d=0.097531 t=324
-bu ran 	不然	c=1 d=0.76338 t=324
-bu shi wo xiang yao 	不是我想要	c=1 d=1.9801e-08 t=324
-bu sui ma 	不随吗	c=1 d=1.9801e-08 t=324
-bu tong 	不同	c=0 d=0.097531 t=324
-bu tong ping tai 	不同平臺	c=1 d=0.980199 t=324
-bu xing le 	不行了	c=0 d=0.0332871 t=324
-bu zhi dao 	不知道	c=1 d=0.543351 t=324
-bu zu 	補足	c=0 d=0.099005 t=324
-ce hua 	策劃	c=1 d=0.447088 t=324
-ce shi 	測試	c=1 d=0.946485 t=324
-cen 	岑	c=0 d=0.0946485 t=324
-cen fu zi 	岑夫子	c=1 d=0.951229 t=324
-cha ma ke 	查马克	c=1 d=1.9801e-08 t=324
-chang shi 	嘗試	c=1 d=0.582748 t=324
-chong man le ai 	充满了爱	c=1 d=1.9801e-08 t=324
-chu 	除	c=1 d=0.390628 t=324
-chu cuo 	出錯	c=0 d=0.0951229 t=324
-chu fa 	觸發	c=1 d=0.301194 t=324
-chu shi hua zhong 	初始化中	c=1 d=1.9801e-08 t=324
-chu zhong 	初中	c=0 d=0.0501576 t=324
-chu zhong jiu kai shi 	初中就開始	c=1 d=0.50409 t=324
-chun hua 	唇化	c=1 d=1.9801e-08 t=324
-ci bai di 	辞白帝	c=1 d=1.9801e-08 t=324
-ci fen fa 	此分发	c=1 d=1.9801e-08 t=324
-cong zuo wang you ma 	从左往右吗	c=1 d=1.9801e-08 t=324
-da gai 	大概	c=0 d=0.0615697 t=324
-da gai ba 	大概吧	c=1 d=0.618783 t=324
-da geng ren 	打更人	c=1 d=1.9801e-08 t=324
-da lie ri 	达列日	c=1 d=1.9801e-08 t=324
-da suan 	打算	c=1 d=0.384813 t=324
-da suan wen ni de 	打算问你的	c=1 d=1.9801e-08 t=324
-dai zu zi zhi qu 	傣族自治区	c=1 d=1.9801e-08 t=324
-dan 	但	c=1 d=0.752684 t=324
-dan 	單	c=1 d=0.319819 t=324
-dan heng 	丹恒	c=1 d=1.9801e-08 t=324
-dan na yang de hua 	但那樣的話	c=1 d=0.722527 t=324
-dan qiu sheng 	丹丘生	c=1 d=0.955997 t=324
-dan wei ding yi 	单位定义	c=1 d=1.9801e-08 t=324
-dan wen jian 	但文件	c=1 d=0.318224 t=324
-dan xia mian de 	但下面的	c=1 d=1.9801e-08 t=324
-dan xing hao shi mo wen qian cheng 	但行好事莫問前程	c=1 d=0.548811 t=324
-dao chu 	導出	c=1 d=0.315058 t=324
-dao huo 	倒貨	c=2 d=0.861332 t=324
-dao shi 	倒是	c=1 d=0.438235 t=324
-de 	的	c=7 d=4.20635 t=324
-de bu fen 	的部分	c=1 d=0.429557 t=324
-deng jiu 	灯就	c=1 d=1.9801e-08 t=324
-deng lu 	登錄	c=1 d=0.941764 t=324
-deng lu jie mian 	登陆界面	c=1 d=1.9801e-08 t=324
-di bu dao hang 	底部导航	c=1 d=1.9801e-08 t=324
-di di xia de 	地底下的	c=1 d=1.9801e-08 t=324
-di qiu 	地球	c=1 d=0.774917 t=324
-di tu 	地圖	c=0 d=0.0628135 t=324
-di xia na ge 	底下那个	c=1 d=1.9801e-08 t=324
-di xia zhe ge 	地下这个	c=1 d=1.9801e-08 t=324
-di xia zhe ge 	底下这个	c=1 d=1.9801e-08 t=324
-diao yong 	調用	c=1 d=0.302704 t=324
-ding yi a 	定义啊	c=1 d=1.9801e-08 t=324
-dou liu ma 	逗留吗	c=1 d=1.9801e-08 t=324
-dou nong guo lai 	都弄过来	c=1 d=1.9801e-08 t=324
-du cha tong bao 	督查通报	c=1 d=1.9801e-08 t=324
-duan shi jian 	段時間	c=0 d=0.099005 t=324
-dui 	對	c=2 d=1.11545 t=324
-dui de 	對的	c=1 d=0.56836 t=324
-dui die er da lu 	堆叠而大陆	c=1 d=1.9801e-08 t=324
-dui wo ye 	对我也	c=1 d=1.9801e-08 t=324
-dui xiang sheng cun qi 	对象生存期	c=1 d=1.9801e-08 t=324
-dun diao le 	炖掉了	c=1 d=1.9801e-08 t=324
-duo chang ei 	多长诶	c=1 d=1.9801e-08 t=324
-duo jia yi ceng 	多加一层	c=1 d=1.9801e-08 t=324
-ei 	誒	c=1 d=0.546075 t=324
-en 	嗯	c=2 d=1.46842 t=324
-er bu shi 	而不是	c=1 d=0.882497 t=324
-fa lv da quan 	法律大全	c=1 d=1.9801e-08 t=324
-fan zheng 	反正	c=1 d=0.554327 t=324
-fang diao 	放掉	c=0 d=0.0559898 t=324
-fang diao zhe bian 	放掉這邊	c=1 d=0.562705 t=324
-fang jia le 	放假了	c=1 d=0.364219 t=324
-fang le 	放了	c=1 d=0.366044 t=324
-fang xiang 	方向	c=0 d=0.0509157 t=324
-fang zheng xing kai 	方正行楷	c=1 d=1.9801e-08 t=324
-fei xie er 	菲谢尔	c=1 d=1.9801e-08 t=324
-fei xie er 	费歇尔	c=1 d=1.9801e-08 t=324
-fen 	分	c=1 d=0.99005 t=324
-fen ju wen jian 	分局文件	c=1 d=1.9801e-08 t=324
-fen pei de a 	分配的啊	c=1 d=1.9801e-08 t=324
-fen zhi 	分支	c=1 d=0.99005 t=324
-feng bao 	風暴	c=1 d=0.694196 t=324
-feng chui cao di xian niu yang 	风吹草低见牛羊	c=1 d=1.9801e-08 t=324
-feng ge ding 	封个顶	c=1 d=1.9801e-08 t=324
-fu dong le 	浮动了	c=1 d=1.9801e-08 t=324
-fu li lian 	芙莉蓮	c=1 d=0.278038 t=324
-fu zi 	夫子	c=0 d=0.0946485 t=324
-gai 	改	c=3 d=2.60453 t=324
-gai 	該	c=1 d=0.733447 t=324
-gan en jie 	感恩節	c=1 d=0.927743 t=324
-gan jue bu que ding 	感觉不确定	c=1 d=1.9801e-08 t=324
-gang chuang jian 	刚创建	c=1 d=1.9801e-08 t=324
-ge zhong ban ben 	各种版本	c=1 d=1.9801e-08 t=324
-gei 	給	c=1 d=0.344727 t=324
-gei han shu 	给函数	c=1 d=1.9801e-08 t=324
-gen jie kou 	跟接口	c=1 d=1.9801e-08 t=324
-geng qin jin 	更亲近	c=1 d=1.9801e-08 t=324
-geng xin 	更新	c=1 d=0.327915 t=324
-gong zuo zhuan lan 	工作专栏	c=1 d=1.9801e-08 t=324
-gong zuo zhuan lan biao ti 	工作专栏标题	c=1 d=1.9801e-08 t=324
-guan diao hou 	关掉后	c=1 d=1.9801e-08 t=324
-guan diao ne 	关掉呢	c=1 d=1.9801e-08 t=324
-guang biao 	光標	c=1 d=0.918512 t=324
-guang dong gong an 	广东公安	c=1 d=1.9801e-08 t=324
-guang rong bang de 	光荣榜的	c=1 d=1.9801e-08 t=324
-guang zhui 	光追	c=1 d=1.9801e-08 t=324
-gui dao gong an 	轨道公安	c=1 d=1.9801e-08 t=324
-gui dao gong an dao hang 	轨道公安导航	c=1 d=1.9801e-08 t=324
-gui dao jiao tong zhi an 	轨道交通治安	c=1 d=1.9801e-08 t=324
-gui dao zi xun 	轨道咨询	c=1 d=1.9801e-08 t=324
-gun dao di liao 	滚到底了	c=1 d=1.9801e-08 t=324
-gun dong lan 	滚动栏	c=1 d=1.9801e-08 t=324
-guo qu de 	過去的	c=1 d=0.895834 t=324
-hai 	還	c=0 d=0.099005 t=324
-hai bu 	還不	c=0 d=0.0404542 t=324
-hai bu qing chu 	還不清楚	c=1 d=0.40657 t=324
-hai man you yi si de 	還蠻有意思的	c=1 d=0.99005 t=324
-hai mei chi a 	还没吃啊	c=1 d=1.9801e-08 t=324
-hai tu 	骇兔	c=1 d=1.9801e-08 t=324
-hai yang 	海洋	c=0 d=0.0640825 t=324
-hai yang ma 	海洋嗎	c=1 d=0.644036 t=324
-hai you 	還有	c=1 d=0.348193 t=324
-hai you zhei ge 	还有这个	c=1 d=1.9801e-08 t=324
-han shu 	函數	c=0 d=0.0286505 t=324
-hang hai 	航海	c=0 d=0.0386741 t=324
-hang hai wei zhu de 	航海爲主的	c=1 d=0.38868 t=324
-hang zhou gong an 	杭州公安	c=1 d=1.9801e-08 t=324
-hao 	好	c=0 d=0.0546075 t=324
-hao de 	好的	c=0 d=0.060653 t=324
-hao hen duo 	好很多	c=1 d=0.472367 t=324
-hao le 	好了	c=1 d=0.965606 t=324
-hao xiang ye mei zhe wen ti 	好像也没这问题	c=1 d=1.9801e-08 t=324
-he 	和	c=4 d=2.49066 t=324
-he bing 	合併	c=2 d=1.96042 t=324
-he bing shu zu 	合併數組	c=1 d=0.311923 t=324
-he ren lei 	和人类	c=1 d=1.9801e-08 t=324
-hei long jiang sheng gong an ting 	黑龙江省公安厅	c=1 d=1.9801e-08 t=324
-hen xiang le 	很像了	c=1 d=0.786628 t=324
-heng xiang nei rong 	横向内容	c=1 d=1.9801e-08 t=324
-heng xing 	恆星	c=1 d=0.822834 t=324
-hou 	後	c=0 d=0.0557106 t=324
-hou xuan lan 	候选栏	c=1 d=1.9801e-08 t=324
-hou zhe shuo 	后者说	c=1 d=1.9801e-08 t=324
-hu nan sheng gong an ting 	湖南省公安厅	c=1 d=1.9801e-08 t=324
-huan jing 	環境	c=1 d=0.414783 t=324
-huan mo zhe 	唤魔者	c=1 d=1.9801e-08 t=324
-huan yuan 	還原	c=1 d=0.96079 t=324
-hui 	回	c=0 d=0.0557106 t=324
-hui 	會	c=2 d=1.03553 t=324
-hui he 	會和	c=1 d=0.771052 t=324
-hui kai tou 	会开头	c=1 d=1.9801e-08 t=324
-huo 	活	c=1 d=0.904837 t=324
-huo ban men 	活版门	c=1 d=1.9801e-08 t=324
-huo zhe 	或者	c=1 d=0.965606 t=324
-ji ben 	基本	c=1 d=1.07485 t=324
-ji ben bu quan 	基本補全	c=1 d=0.980199 t=324
-ji ben bu zu 	基本補足	c=1 d=0.99005 t=324
-ji ben zi fu 	基本字符	c=1 d=0.99005 t=324
-ji ci 	幾次	c=0 d=0.099005 t=324
-ji di da men 	基地大门	c=1 d=1.9801e-08 t=324
-ji lin sheng gong an ting 	吉林省公安厅	c=1 d=1.9801e-08 t=324
-jia qi 	假期	c=0 d=0.0366044 t=324
-jian hua 	簡化	c=1 d=0.99005 t=324
-jian ji qi 	剪辑器	c=1 d=1.9801e-08 t=324
-jiang lei xing 	将类型	c=1 d=1.9801e-08 t=324
-jiao jiang jing wu zhan 	椒江警务站	c=1 d=1.9801e-08 t=324
-jiao zheng 	校正	c=1 d=0.293758 t=324
-jie gou 	結構	c=0 d=0.0535262 t=324
-jie pa de 	傑帕德	c=1 d=0.99005 t=324
-jin zhan 	進展	c=0 d=0.097531 t=324
-jin zhan zen me yang le 	進展怎麼樣了	c=1 d=0.980199 t=324
-jing ling ji hu 	精灵几乎	c=1 d=1.9801e-08 t=324
-jing yan 	經驗	c=1 d=0.900325 t=324
-jing yi jie 	静怡姐	c=3 d=1.23039 t=324
-jiu 	就	c=2 d=1.51929 t=324
-jiu di ban he qiang 	就地板和墙	c=1 d=1.9801e-08 t=324
-jiu kai shi 	就開始	c=0 d=0.0501576 t=324
-jiu shi 	就是	c=1 d=0.818731 t=324
-ju ti ke yi 	具体可以	c=1 d=1.9801e-08 t=324
-jue de 	覺得	c=0 d=0.0554327 t=324
-jue qu ling 	绝区零	c=1 d=1.9801e-08 t=324
-ka fu ka 	卡夫卡	c=1 d=0.99005 t=324
-kai shi 	開始	c=2 d=0.846109 t=324
-kan kan 	看看	c=1 d=0.96079 t=324
-kan tu zai chang 	看屠宰场	c=1 d=1.9801e-08 t=324
-kao fan yi ruan jian 	靠翻译软件	c=1 d=1.9801e-08 t=324
-ke fu 	克服	c=1 d=0.802519 t=324
-ke qing 	刻晴	c=1 d=1.9801e-08 t=324
-ke yan 	可言	c=1 d=0.516852 t=324
-ke yi 	可以	c=2 d=1.66068 t=324
-kong jian 	空間	c=1 d=0.290835 t=324
-kong zhi 	控制	c=1 d=1 t=324
-kong zhi mian ban 	控制面板	c=1 d=1 t=324
-kou hao na li 	口号哪里	c=1 d=1.9801e-08 t=324
-kou hao shi yao 	口号是要	c=1 d=1.9801e-08 t=324
-kua zhang a 	夸张啊	c=1 d=1.9801e-08 t=324
-kuai dian wo ba 	快点我把	c=1 d=1.9801e-08 t=324
-kun ya 	昆雅	c=1 d=1.9801e-08 t=324
-lai zhao ni 	來找你	c=1 d=0.408607 t=324
-lai zhe bian hou 	来这边后	c=1 d=1.9801e-08 t=324
-lan deng ma 	蓝灯吗	c=1 d=1.9801e-08 t=324
-lao shu 	老鼠	c=0 d=0.0357007 t=324
-lao tian 	老天	c=1 d=0.402525 t=324
-lao zhan zai 	老站在	c=1 d=1.9801e-08 t=324
-le 	了	c=1 d=0.47658 t=324
-le ma 	了嗎	c=1 d=0.506617 t=324
-lei 	類	c=1 d=0.524662 t=324
-lei han shu 	类函数	c=1 d=1.9801e-08 t=324
-leng he 	冷褐	c=1 d=1.9801e-08 t=324
-leng yue 	愣岳	c=1 d=1.9801e-08 t=324
-li ke jue ding ji a fu jian 	立刻决定急啊附件	c=1 d=1.9801e-08 t=324
-li lun 	理論	c=0 d=0.0321422 t=324
-li lun zui da 	理論最大	c=1 d=0.323033 t=324
-liang an yuan sheng ti bu zhu 	两岸猿声啼不住	c=1 d=1.9801e-08 t=324
-liao liao 	聊聊	c=0 d=0.0465334 t=324
-lie che ban ci 	列车班次	c=1 d=1.9801e-08 t=324
-ling yi ge 	另一個	c=1 d=0.394554 t=324
-lu tian le 	露天了	c=1 d=1.9801e-08 t=324
-lu tian le ma 	露天了吗	c=1 d=1.9801e-08 t=324
-lun bo tiao 	轮播条	c=1 d=1.9801e-08 t=324
-luo ji 	邏輯	c=1 d=0.533032 t=324
-luo ji jie gou 	邏輯結構	c=1 d=0.537945 t=324
-ma 	嗎	c=0 d=0.0640825 t=324
-ma 	嘛	c=2 d=1.45943 t=324
-mai piao 	買票	c=1 d=0.331211 t=324
-man yan ma 	蔓延吗	c=1 d=1.9801e-08 t=324
-man you yi si 	蠻有意思	c=0 d=0.099005 t=324
-mao 	貓	c=0 d=0.0357007 t=324
-mao he lao shu 	貓和老鼠	c=3 d=1.64251 t=324
-mao xian 	冒險	c=2 d=1.06217 t=324
-mao xian ma 	冒險嘛	c=1 d=0.878095 t=324
-mao xian mo shi 	冒險模式	c=1 d=0.970446 t=324
-mei lai 	沒來	c=0 d=0.0923117 t=324
-mei ri dong tai 	每日动态	c=1 d=1.9801e-08 t=324
-mei sha 	沒啥	c=1 d=0.43171 t=324
-mei wan 	沒玩	c=0 d=0.099005 t=324
-mei you 	沒有	c=0 d=0.102086 t=324
-mei you fang xiang jiu 	沒有方向就	c=1 d=0.511708 t=324
-mei you shen du 	沒有深度	c=1 d=0.514273 t=324
-mei zhao dao fang fa 	没找到方法	c=1 d=1.9801e-08 t=324
-mian dui 	面對	c=1 d=0.860708 t=324
-mian liang 	面两	c=1 d=1.9801e-08 t=324
-ming 	朙	c=1 d=0.96079 t=324
-ming ming 	名命	c=1 d=1.9801e-08 t=324
-ming yue 	朙月	c=1 d=0.927743 t=324
-mo 	莫	c=0 d=0.0546075 t=324
-mo ban 	模板	c=1 d=0.31897 t=324
-mo ban yin yong 	模板引用	c=2 d=0.655839 t=324
-mo ren 	默認	c=1 d=0.909373 t=324
-mo rui ya 	莫瑞亚	c=1 d=1.9801e-08 t=324
-mo shi 	模式	c=0 d=0.0965606 t=324
-na 	那	c=0 d=0.0711771 t=324
-na bang 	那幫	c=0 d=0.0932394 t=324
-na bang wo 	那幫我	c=1 d=0.937067 t=324
-na wo zhi hou 	那我之后	c=1 d=1.9801e-08 t=324
-na yang de hua 	那樣的話	c=0 d=0.0718924 t=324
-na ye jiu shi shuo 	那也就是說	c=1 d=0.715338 t=324
-nan dao 	難道	c=0 d=0.0631283 t=324
-nan dao chu fang 	难道厨房	c=1 d=1.9801e-08 t=324
-nan dao yao 	難道要	c=1 d=0.634448 t=324
-nao zhong 	鬧鐘	c=1 d=1 t=324
-ne 	呢	c=2 d=1.39504 t=324
-nei bu lian jie 	内部链接	c=1 d=1.9801e-08 t=324
-nei cun fen pei 	内存分配	c=1 d=1.9801e-08 t=324
-nei cun ye 	内存页	c=1 d=1.9801e-08 t=324
-neng 	能	c=1 d=0.935471 t=324
-neng tiao ma 	能调吗	c=1 d=1.9801e-08 t=324
-neng zuo dao ne 	能做到呢	c=1 d=1.9801e-08 t=324
-ng hng 	嗯哼	c=1 d=0.918512 t=324
-ni 	你	c=1 d=0.351691 t=324
-ni jin tian 	你今天	c=0 d=0.0923117 t=324
-ni jin tian mei lai a 	你今天沒來啊	c=1 d=0.927743 t=324
-ni jue de 	你覺得	c=1 d=0.647265 t=324
-ni men gong zuo 	你们工作	c=1 d=1.9801e-08 t=324
-ni men zhi ye 	你们职业	c=1 d=1.9801e-08 t=324
-ni shi 	溺尸	c=1 d=1.9801e-08 t=324
-ning ling hun 	宁灵魂	c=1 d=1.9801e-08 t=324
-ning xia hui zu 	宁夏回族	c=1 d=1.9801e-08 t=324
-nong huo er 	农活儿	c=1 d=1.9801e-08 t=324
-nuo ai er 	诺埃尔	c=1 d=1.9801e-08 t=324
-nv pu 	女僕	c=1 d=0.985111 t=324
-o 	哦	c=1 d=0.932394 t=324
-ou bu shi 	偶不是	c=1 d=1.9801e-08 t=324
-pa e zhi 	怕恶之	c=1 d=1.9801e-08 t=324
-pa ei se 	怕欸色	c=1 d=1.9801e-08 t=324
-pi pian gao 	皮偏高	c=1 d=1.9801e-08 t=324
-pin yin 	拼音	c=2 d=1.90284 t=324
-ping tai 	平臺	c=0 d=0.097531 t=324
-qi 	七	c=0 d=0.099005 t=324
-qi cai jie 	亓才孑	c=1 d=0.913931 t=324
-qi ming qi bu lai le 	起名起不来了	c=1 d=1.9801e-08 t=324
-qi sui 	七歲	c=0 d=0.0918512 t=324
-qian cheng 	前程	c=0 d=0.0546075 t=324
-qian chuang ge 	前窗格	c=1 d=1.9801e-08 t=324
-qian he 	浅褐	c=1 d=1.9801e-08 t=324
-qian li jiang ling yi ri huan 	千里江陵一日还	c=1 d=1.9801e-08 t=324
-qiang zhi 	強制	c=1 d=0.285076 t=324
-qiang zhi shua xin 	强制刷新	c=1 d=1.9801e-08 t=324
-qie huan jian pan 	切换键盘	c=1 d=1.9801e-08 t=324
-qin shi ming yue han shi guan 	秦时明月汉时关	c=1 d=1.9801e-08 t=324
-qing chu 	清楚	c=0 d=0.0404542 t=324
-qing shu ru guan jian ci sou suo 	请输入关键词搜索	c=1 d=1.9801e-08 t=324
-qing zai ci chu 	请在此处	c=1 d=1.9801e-08 t=324
-qing zhi zhong xin 	情指中心	c=1 d=1.9801e-08 t=324
-qing zuo zi wo jie shao 	请作自我介绍	c=1 d=1.9801e-08 t=324
-qu 	區	c=1 d=0.985111 t=324
-qu mo 	祛魔	c=1 d=1.9801e-08 t=324
-qu shou le 	去收了	c=1 d=1.9801e-08 t=324
-quan bu 	全部	c=0 d=0.0985111 t=324
-quan bu zi fu 	全部字符	c=1 d=0.99005 t=324
-quan guo gong an dao hang 	全国公安导航	c=1 d=1.9801e-08 t=324
-quan rong le 	全融了	c=1 d=1.9801e-08 t=324
-quan sheng gong an dao hang 	全省公安导航	c=1 d=1.9801e-08 t=324
-ran dou 	燃豆	c=1 d=1.9801e-08 t=324
-ran hou 	然後	c=3 d=1.60558 t=324
-ran hou wo 	然後我	c=1 d=0.336217 t=324
-rang ta 	讓它	c=0 d=0.0748264 t=324
-rang tu xiang 	让图像	c=1 d=1.9801e-08 t=324
-ren wu 	任務	c=1 d=0.995012 t=324
-ren wu lan 	任務欄	c=2 d=0.587987 t=324
-san yue 	三月	c=0 d=0.099005 t=324
-san yue qi 	三月七	c=1 d=0.99005 t=324
-shan chu qu 	闪出去	c=1 d=1.9801e-08 t=324
-shang 	上	c=0 d=0.0839457 t=324
-shang ji wen jian 	上级文件	c=1 d=1.9801e-08 t=324
-shang mian yi ceng 	上面一层	c=1 d=1.9801e-08 t=324
-shang ren mai 	商人买	c=1 d=1.9801e-08 t=324
-shang yue ke liu liang 	上月客流量	c=1 d=1.9801e-08 t=324
-she ding 	設定	c=0 d=0.060653 t=324
-she ding hao de 	設定好的	c=1 d=0.609571 t=324
-she zhi 	設置	c=1 d=0.97531 t=324
-she zhi biao qian 	设置标签	c=1 d=1.9801e-08 t=324
-shen du 	深度	c=0 d=0.0511708 t=324
-sheng chan jian she 	生产建设	c=1 d=1.9801e-08 t=324
-sheng cheng 	生成	c=1 d=0.759572 t=324
-sheng tai 	生態	c=3 d=1.65341 t=324
-sheng tai xi tong 	生態系統	c=1 d=0.591556 t=324
-sheng yu 	剩餘	c=2 d=0.599571 t=324
-shi 	事	c=0 d=0.0546075 t=324
-shi 	是	c=3 d=2.10824 t=324
-shi 	時	c=1 d=0.995012 t=324
-shi ge zhong 	是各种	c=1 d=1.9801e-08 t=324
-shi ge zhong 	诗歌中	c=1 d=1.9801e-08 t=324
-shi guo 	試過	c=0 d=0.099005 t=324
-shi guo ji ci 	試過幾次	c=1 d=0.99005 t=324
-shi hui fu 	是回复	c=1 d=1.9801e-08 t=324
-shi jie bing bu shi na me de 	世界并不是那么的	c=1 d=1.9801e-08 t=324
-shi ju kao ji 	市局考绩	c=1 d=1.9801e-08 t=324
-shi ju zhu ye 	市局主页	c=1 d=1.9801e-08 t=324
-shi liu se 	十六色	c=1 d=1.9801e-08 t=324
-shi na ge ma 	是那个吗	c=1 d=1.9801e-08 t=324
-shi nian 	時年	c=0 d=0.0918512 t=324
-shi nian qi sui 	時年七歲	c=1 d=0.923117 t=324
-shi shi kan ba 	試試看吧	c=1 d=0.980199 t=324
-shi shi shi shi shi 	施氏食狮史	c=1 d=1.9801e-08 t=324
-shi wan quan bu tong de 	是完全不同的	c=1 d=0.54064 t=324
-shi xian 	實現	c=1 d=0.67032 t=324
-shi zhang fa bu 	市长发布	c=1 d=1.9801e-08 t=324
-shi zhang ma 	市长吗	c=1 d=1.9801e-08 t=324
-shi zhong 	時鐘	c=1 d=0.362403 t=324
-shou dong geng xin 	手动更新	c=1 d=1.9801e-08 t=324
-shou ji 	手機	c=1 d=0.946485 t=324
-shou shen 	瘦身	c=1 d=1 t=324
-shou yao 	首要	c=0 d=0.0625003 t=324
-shou yao wen ti shi 	首要問題是	c=1 d=0.628135 t=324
-shu ju liang ma 	数据量吗	c=1 d=1.9801e-08 t=324
-shu ming sou suo 	署名搜索	c=1 d=1.9801e-08 t=324
-shu ru 	輸入	c=1 d=0.99005 t=324
-shu ru fa 	輸入法	c=1 d=0.941764 t=324
-shu yu 	屬於	c=0 d=0.0474734 t=324
-shu yu shi 	屬於是	c=1 d=0.477114 t=324
-shu zu 	數組	c=0 d=0.0310367 t=324
-shua xin ma 	刷新吗	c=1 d=1.9801e-08 t=324
-shua zi yuan 	刷资源	c=1 d=1.9801e-08 t=324
-shui geng xin 	谁更新	c=1 d=1.9801e-08 t=324
-shui ping chui zhi 	水平垂直	c=1 d=1.9801e-08 t=324
-shui shui shui shui shui 	水水水水水	c=1 d=1.9801e-08 t=324
-shui shui shui shui shui shui 	水水水水水水	c=1 d=1.9801e-08 t=324
-shui shui shui shui shui shui shui 	水水水水水水水	c=1 d=1.9801e-08 t=324
-si mu lin ken 	私募林肯	c=1 d=1.9801e-08 t=324
-sou suo tiao 	搜索条	c=1 d=1.9801e-08 t=324
-suan 	算	c=1 d=0.740819 t=324
-sui ji 	隨機	c=1 d=0.755783 t=324
-suo chang song 	所唱诵	c=1 d=1.9801e-08 t=324
-suo li lue tu 	所里略图	c=1 d=1.9801e-08 t=324
-suo yi 	所以	c=2 d=1.1553 t=324
-suo yi wo jue de 	所以我覺得	c=1 d=0.465334 t=324
-suo yi yao xian 	所以要先	c=1 d=0.509157 t=324
-ta shang lv tu 	踏上旅途	c=1 d=1.9801e-08 t=324
-ta shuo hou tai 	他说后台	c=1 d=1.9801e-08 t=324
-tai zhou 	台州	c=1 d=0.97531 t=324
-tai zhou huo che zhan 	台州火车站	c=1 d=1.9801e-08 t=324
-tan gang qin 	彈鋼琴	c=1 d=0.355226 t=324
-tan suo 	探索	c=2 d=0.907415 t=324
-tan suo shi 	探索是	c=1 d=0.571209 t=324
-tan xian 	探險	c=1 d=0.597501 t=324
-tan xing bu ju 	弹性布局	c=1 d=1.9801e-08 t=324
-tang mu 	湯姆	c=1 d=0.353455 t=324
-tao lun 	討論	c=1 d=0.410656 t=324
-tao lun bei 	讨论呗	c=1 d=1.9801e-08 t=324
-teng ge wa 	腾格瓦	c=1 d=1.9801e-08 t=324
-ti jiao 	提交	c=0 d=0.099005 t=324
-ti qu 	提取	c=1 d=0.313486 t=324
-ti wa te 	提瓦特	c=1 d=1.9801e-08 t=324
-tian 	天	c=1 d=0.965606 t=324
-tian hui qu 	填回去	c=1 d=1.9801e-08 t=324
-tian qi 	天氣	c=1 d=0.869358 t=324
-tian qi lai ma 	填起来吗	c=1 d=1.9801e-08 t=324
-tian wen 	天文	c=1 d=0.839457 t=324
-tian zai 	天災	c=1 d=0.697676 t=324
-tiao cha yan jiu 	调差研究	c=1 d=1.9801e-08 t=324
-tiao qi lai 	调起来	c=1 d=1.9801e-08 t=324
-tiao tuo yi dian 	跳脱一点	c=1 d=1.9801e-08 t=324
-tong bu 	同步	c=1 d=0.99005 t=324
-tou ming 	透明	c=1 d=0.349938 t=324
-tu xing jia su 	图形加速	c=1 d=1.9801e-08 t=324
-tuan jian gong zuo 	团建工作	c=1 d=1.9801e-08 t=324
-wa chuan 	挖穿	c=1 d=1.9801e-08 t=324
-wa cuo le 	挖错了	c=1 d=1.9801e-08 t=324
-wa di ban 	挖地版	c=1 d=1.9801e-08 t=324
-wai 	外	c=0 d=0.0390628 t=324
-wai mian hui 	外面会	c=1 d=1.9801e-08 t=324
-wan jia 	玩家	c=2 d=1.81405 t=324
-wan jia de 	玩家的	c=1 d=0.726149 t=324
-wan jia neng 	玩家能	c=1 d=0.794534 t=324
-wan li chang zheng ren wei huan 	万里长征人未还	c=1 d=1.9801e-08 t=324
-wan quan bu tong 	完全不同	c=0 d=0.0537945 t=324
-wan shan 	完善	c=1 d=0.585669 t=324
-wang cheng nan zhan fang xiang 	王成南站方向	c=1 d=1.9801e-08 t=324
-wang na ge fang xiang gai ne 	往那个方向改呢	c=1 d=1.9801e-08 t=324
-wei xing 	衛星	c=1 d=0.831104 t=324
-wei zhi 	位置	c=1 d=0.29523 t=324
-wei zhi de 	未知的	c=1 d=0.865022 t=324
-wei zhu 	爲主	c=0 d=0.0386741 t=324
-wen 	問	c=0 d=0.0546075 t=324
-wen jian 	文件	c=0 d=0.0316637 t=324
-wen ming 	文明	c=1 d=0.941764 t=324
-wen ti lai de 	问题来的	c=1 d=1.9801e-08 t=324
-wen ti shi 	問題是	c=0 d=0.0625003 t=324
-wen zi gun dong 	文字滚动	c=1 d=1.9801e-08 t=324
-wo 	我	c=2 d=0.749733 t=324
-wo bu 	我不	c=0 d=0.0554327 t=324
-wo bu jue de 	我不覺得	c=1 d=0.557106 t=324
-wo bu shi 	我不是	c=1 d=0.501576 t=324
-wo bu tai jue ding 	我不太决定	c=1 d=1.9801e-08 t=324
-wo dao shi 	我倒是	c=1 d=0.496585 t=324
-wo de 	我的	c=1 d=0.489193 t=324
-wo de zi ti shi 	我的字体是	c=1 d=1.9801e-08 t=324
-wo dou bu mai de 	我都不买的	c=1 d=1.9801e-08 t=324
-wo hai shi 	我還是	c=1 d=0.985111 t=324
-wo huo xu ke yi bang ni kan kan 	我或许可以帮你看看	c=1 d=1.9801e-08 t=324
-wo jue de 	我覺得	c=1 d=0.709953 t=324
-wo wen dang mei kan dong 	我文档没看懂	c=1 d=1.9801e-08 t=324
-wo xi wang 	我希望	c=0 d=0.0786628 t=324
-wo xi wang shi 	我希望是	c=2 d=1.63846 t=324
-wo xiang 	我想	c=1 d=0.82309 t=324
-wo xiang dao 	我想到	c=1 d=0.657047 t=324
-wo xiang rang ta 	我想讓它	c=1 d=0.752014 t=324
-wo xiu hao 	我修好	c=1 d=1.9801e-08 t=324
-wo yi 	我以	c=0 d=0.0557106 t=324
-wo yi hou hui 	我以後回	c=1 d=0.559898 t=324
-wo zhi zhong guo 	我只种过	c=1 d=1.9801e-08 t=324
-wo zi ji 	我自己	c=1 d=0.970446 t=324
-wu bian wu ji 	無邊無際	c=0 d=0.0637628 t=324
-wu bian wu ji de 	無邊無際的	c=1 d=0.640825 t=324
-wu yang shi 	无样式	c=1 d=1.9801e-08 t=324
-xi tong 	系統	c=1 d=0.45612 t=324
-xi tong wen jian jia 	系统文件夹	c=1 d=1.9801e-08 t=324
-xi zang zang zu zi zhi qu 	西藏藏族自治区	c=1 d=1.9801e-08 t=324
-xian 	先	c=1 d=0.97531 t=324
-xian cong 	先從	c=2 d=0.791796 t=324
-xian shi hang hao 	显示行号	c=1 d=1.9801e-08 t=324
-xian shi ju qu dao hang 	县市局区导航	c=1 d=1.9801e-08 t=324
-xian shi zhong hao xiang 	现实中好像	c=1 d=1.9801e-08 t=324
-xian zai 	現在	c=3 d=1.41292 t=324
-xian zai yong gang 	现在用钢	c=1 d=1.9801e-08 t=324
-xian zuo 	先做	c=0 d=0.0548811 t=324
-xian zuo ma 	先做嘛	c=1 d=0.551563 t=324
-xiang 	向	c=0 d=0.0298197 t=324
-xiang cang 	像仓	c=1 d=1.9801e-08 t=324
-xiang da di 	向大地	c=1 d=1.9801e-08 t=324
-xiang shou 	享受	c=0 d=0.0366044 t=324
-xiang shou jia qi bei 	享受假期唄	c=1 d=0.36788 t=324
-xiang tong gui ge 	相同规格	c=1 d=1.9801e-08 t=324
-xiang xiang 	想想	c=1 d=0.369723 t=324
-xiang zi zu jian 	向子組件	c=1 d=0.299692 t=324
-xiang zuo 	想做	c=1 d=0.386741 t=324
-xiao de 	小的	c=1 d=0.380983 t=324
-xiao lv fa 	效率法	c=1 d=1.9801e-08 t=324
-xie shen le 	邪神了	c=1 d=1.9801e-08 t=324
-xie xie 	謝謝	c=1 d=0.970446 t=324
-xin chuang ge 	新窗格	c=1 d=1.9801e-08 t=324
-xin hang 	新行	c=1 d=1.9801e-08 t=324
-xin wen ju jiao 	新闻聚焦	c=1 d=1.9801e-08 t=324
-xin xin 	信心	c=1 d=0.433874 t=324
-xing 	行	c=0 d=0.0546075 t=324
-xing cheng 	形成	c=1 d=0.711771 t=324
-xing qiong 	星穹	c=1 d=1.9801e-08 t=324
-xing qiong tie dao 	星穹铁道	c=1 d=1.9801e-08 t=324
-xing qiu 	星球	c=1 d=0.677056 t=324
-xing qu ai hao 	兴趣愛好	c=1 d=1.9801e-08 t=324
-xu lie er 	序列二	c=1 d=1.9801e-08 t=324
-xu ni tian wen guan 	虚拟天文馆	c=1 d=1.9801e-08 t=324
-xu yao kao lv ma 	需要考虑吗	c=1 d=1.9801e-08 t=324
-xuan lei bie 	选类别	c=1 d=1.9801e-08 t=324
-xuan ran 	渲染	c=1 d=0.339017 t=324
-xuan ran han shu 	渲染函數	c=2 d=0.596758 t=324
-xue ju 	雪居	c=1 d=1.9801e-08 t=324
-xun fang da dui 	巡防大队	c=1 d=1.9801e-08 t=324
-xun huan ne 	循环呢	c=1 d=1.9801e-08 t=324
-yan he zhi beng 	岩壑之崩	c=1 d=1.9801e-08 t=324
-yan zheng ma 	驗證碼	c=1 d=0.96079 t=324
-yang zi 	樣子	c=1 d=0.683861 t=324
-yao 	要	c=0 d=0.107392 t=324
-yao kai shi 	要開始	c=1 d=0.444858 t=324
-yao sai nei bu 	要塞内部	c=1 d=1.9801e-08 t=324
-yao xian 	要先	c=0 d=0.0506617 t=324
-yao yi zhe zhong 	要以这种	c=1 d=1.9801e-08 t=324
-ye dou zhao bu dao 	也都找不到	c=1 d=1.9801e-08 t=324
-ye jiu shi shuo 	也就是說	c=0 d=0.0711771 t=324
-ye kai le de 	也开了的	c=1 d=1.9801e-08 t=324
-ye mei she 	也没设	c=1 d=1.9801e-08 t=324
-yi 	一	c=1 d=0.68729 t=324
-yi 	咦	c=1 d=0.932394 t=324
-yi an se 	一暗色	c=1 d=1.9801e-08 t=324
-yi ban jiao shen me a 	一般叫什么啊	c=1 d=1.9801e-08 t=324
-yi fu dong hua tu xiang 	一幅动画图象	c=1 d=1.9801e-08 t=324
-yi lai 	依賴	c=1 d=0.400517 t=324
-yi mei 	一昧	c=0 d=0.0882497 t=324
-yi mei de 	一昧的	c=1 d=0.88692 t=324
-yi pian liang pian 	一片两片	c=1 d=1.9801e-08 t=324
-yi shang miao shu 	以上描述	c=1 d=1.9801e-08 t=324
-yi sheng ming 	已声明	c=1 d=1.9801e-08 t=324
-yi tiao jie yi tiao 	一条接一条	c=1 d=1.9801e-08 t=324
-yi wang ju shou 	遗忘巨兽	c=1 d=1.9801e-08 t=324
-yi xia ba 	一下吧	c=1 d=0.946485 t=324
-yin cang 	隱藏	c=1 d=0.304222 t=324
-yin shan xia 	阴山下	c=1 d=1.9801e-08 t=324
-yin yong 	引用	c=1 d=0.349102 t=324
-ying gai 	應該	c=1 d=0.29671 t=324
-ying hua 	櫻花	c=2 d=0.630906 t=324
-ying yong dao hang xi tong 	应用导航系统	c=1 d=1.9801e-08 t=324
-you 	又	c=0 d=0.0332871 t=324
-you 	有	c=1 d=0.856931 t=324
-you dian que 	有点缺	c=1 d=1.9801e-08 t=324
-you ge ai ren 	有个矮人	c=1 d=1.9801e-08 t=324
-you hua 	優化	c=2 d=1.97516 t=324
-you jie tu ma 	有截图吗	c=1 d=1.9801e-08 t=324
-you la 	优菈	c=1 d=1.9801e-08 t=324
-you lou ti 	有楼梯	c=1 d=1.9801e-08 t=324
-you shi fu 	尤师傅	c=1 d=1.9801e-08 t=324
-you shui de 	有水的	c=1 d=1.9801e-08 t=324
-you tiao xian 	有条线	c=1 d=1.9801e-08 t=324
-you wei shen me 	又为什么	c=1 d=1.9801e-08 t=324
-you xi 	遊戲	c=1 d=0.436253 t=324
-you xi di tu 	遊戲地圖	c=1 d=0.631283 t=324
-you yi quan 	又一圈	c=1 d=1.9801e-08 t=324
-you zhang hao 	有帳號	c=1 d=0.951229 t=324
-yu bei 	預備	c=0 d=0.099005 t=324
-yu bei ti jiao 	預備提交	c=1 d=0.99005 t=324
-yuan 	原	c=1 d=0.283654 t=324
-yuan fang 	元芳	c=1 d=0.918512 t=324
-yuan shen 	原神	c=3 d=0.560262 t=324
-yuan su zhou qi 	元素周期	c=1 d=1.9801e-08 t=324
-yue 	月	c=1 d=0.965606 t=324
-yue xia feng lai 	月下风来	c=1 d=1.9801e-08 t=324
-yun cheng 	匀称	c=1 d=1.9801e-08 t=324
-yun mo se 	云墨色	c=1 d=1.9801e-08 t=324
-yun zuo gui ze 	运作规则	c=1 d=1.9801e-08 t=324
-za a a a 	咋啊啊啊	c=1 d=1.9801e-08 t=324
-zai gun 	再滚	c=1 d=1.9801e-08 t=324
-zai wai mao shang 	在外貌上	c=1 d=1.9801e-08 t=324
-zai zhe 	在這	c=0 d=0.057695 t=324
-zai zhe zhi shang 	在這之上	c=1 d=0.579841 t=324
-zang song 	葬送	c=0 d=0.0273898 t=324
-zang song de 	葬送的	c=2 d=0.551921 t=324
-zao jian ta 	造箭塔	c=1 d=1.9801e-08 t=324
-zao yi gei chu 	早已给出	c=1 d=1.9801e-08 t=324
-zen me 	怎麼	c=2 d=1.11244 t=324
-zen me shuo 	怎麼說	c=1 d=0.913931 t=324
-zen me yang le 	怎麼樣了	c=0 d=0.097531 t=324
-zhan yong 	佔用	c=1 d=0.289385 t=324
-zhang hao 	帳號	c=0 d=0.0946485 t=324
-zhang xiang jun mei 	长相俊美	c=1 d=1.9801e-08 t=324
-zhao ci bai di cai yun jian 	朝辞白帝彩云间	c=1 d=1.9801e-08 t=324
-zhao ni 	找你	c=0 d=0.0465334 t=324
-zhao ni liao liao 	找你聊聊	c=1 d=0.467667 t=324
-zhe bian 	這邊	c=0 d=0.089277 t=324
-zhe bian you bu xing le 	這邊又不行了	c=1 d=0.33454 t=324
-zhe bu fen 	這部分	c=1 d=0.474734 t=324
-zhe bu shi 	這不是	c=1 d=0.486752 t=324
-zhe duan 	遮断	c=1 d=1.9801e-08 t=324
-zhe ge 	這個	c=3 d=1.78835 t=324
-zhe ge nian 	这个念	c=1 d=1.9801e-08 t=324
-zhe ge shi shen me dong xi 	这个是什么东西	c=1 d=1.9801e-08 t=324
-zhe jiang 	浙江	c=1 d=0.970446 t=324
-zhe li 	這裏	c=1 d=0.600496 t=324
-zhe li you ge bao cuo 	这里有个报错	c=1 d=1.9801e-08 t=324
-zhe li zhe ge 	这里这个	c=1 d=1.9801e-08 t=324
-zhe shi kou hao 	这是口号	c=1 d=1.9801e-08 t=324
-zheng ge 	整個	c=2 d=1.26228 t=324
-zhi 	值	c=1 d=0.324652 t=324
-zhi ban qing kuang 	值班情况	c=1 d=1.9801e-08 t=324
-zhi jie dao yan jiang 	直接到岩浆	c=1 d=1.9801e-08 t=324
-zhi qian di xia 	之前地下	c=1 d=1.9801e-08 t=324
-zhi shang 	之上	c=0 d=0.057695 t=324
-zhi shao lian xu 	至少连续	c=1 d=1.9801e-08 t=324
-zhi wu ji 	植物集	c=1 d=1.9801e-08 t=324
-zhi xue you yong de 	只学有用的	c=1 d=1.9801e-08 t=324
-zhi ye 	職業	c=1 d=0.491644 t=324
-zhong duan pei zhi 	终端配置	c=1 d=1.9801e-08 t=324
-zhong jian xian de 	中间线的	c=1 d=1.9801e-08 t=324
-zhong jian xuan zhe 	中间悬着	c=1 d=1.9801e-08 t=324
-zhong tian 	種田	c=0 d=0.0390628 t=324
-zhong tian wai 	種田外	c=1 d=0.392585 t=324
-zhong zi a 	种子啊	c=1 d=1.9801e-08 t=324
-zhu ling 	猪灵	c=1 d=1.9801e-08 t=324
-zhu mian guan li 	煮面管理	c=1 d=1.9801e-08 t=324
-zhu ti 	主題	c=1 d=0.574072 t=324
-zhu wei cao 	猪尾草	c=1 d=1.9801e-08 t=324
-zhu zi 	朱紫	c=1 d=1.9801e-08 t=324
-zhuan tou zai kan kan 	转头再看看	c=1 d=1.9801e-08 t=324
-zhuo mian feng ge 	桌面风格	c=1 d=1.9801e-08 t=324
-zi 	子	c=0 d=0.0298197 t=324
-zi 	字	c=1 d=0.298197 t=324
-zi fu 	字符	c=1 d=1.08362 t=324
-zi ran 	自然	c=1 d=0.70822 t=324
-zi ti jian bian 	字体渐变	c=1 d=1.9801e-08 t=324
-zi yuan su bu shou 	子元素不受	c=1 d=1.9801e-08 t=324
-zong bu neng 	總不能	c=1 d=0.603506 t=324
-zong zhi 	總之	c=1 d=0.621885 t=324
-zu 	足	c=1 d=0.985111 t=324
-zu jian 	組件	c=1 d=0.35124 t=324
-zui da 	最大	c=0 d=0.0321422 t=324
-zui hao neng 	最好能	c=1 d=0.666977 t=324
-zun shou 	遵守	c=1 d=0.891367 t=324
-zuo biao 	坐標	c=1 d=0.729789 t=324
-zuo cheng 	做成	c=1 d=0.637628 t=324
-zuo hao 	做好	c=1 d=0.377192 t=324
-zuo le 	做了	c=1 d=0.346456 t=324
-zuo ri ke liu liang 	昨日客流量	c=1 d=1.9801e-08 t=324
+a 	啊	c=3 d=1.84528 t=334
+a bei duo 	阿贝多	c=1 d=1.9801e-08 t=334
+a ka na 	阿卡那	c=1 d=1.9801e-08 t=334
+ai da 	艾達	c=1 d=0.99005 t=334
+ai hao 	愛好	c=1 d=1.9801e-08 t=334
+ai ren yao sai 	矮人要塞	c=2 d=0.895834 t=334
+ai ren yao sai ma 	矮人要塞吗	c=1 d=1.9801e-08 t=334
+an ju 	暗橘	c=1 d=1.9801e-08 t=334
+an pai 	安排	c=0 d=0.0839457 t=334
+an pai shang 	安排上	c=1 d=0.843665 t=334
+an zhuang 	安裝	c=0 d=0.0951229 t=334
+an zhuang chu cuo 	安裝出錯	c=1 d=0.955997 t=334
+ba 	吧	c=2 d=1.61126 t=334
+ba 	把	c=1 d=0.341298 t=334
+ba zhou wei yi quan 	把周围一圈	c=1 d=1.9801e-08 t=334
+bai 	白	c=1 d=1 t=325
+bai ji ge 	摆几个	c=1 d=1.9801e-08 t=334
+ban jiao zi fu 	半角字符	c=1 d=1.9801e-08 t=334
+ban yan you xi 	扮演游戏	c=1 d=1.9801e-08 t=334
+bao 	寶	c=1 d=0.532591 t=334
+bao ke meng 	包可夢	c=1 d=0.529935 t=334
+bei 	唄	c=0 d=0.0366044 t=334
+bei chong bai 	被崇拜	c=1 d=1.9801e-08 t=334
+bei jing gong an 	北京公安	c=1 d=1.9801e-08 t=334
+beng tie 	崩铁	c=1 d=1.9801e-08 t=334
+bi jiao 	比較	c=2 d=0.859222 t=334
+bi li 	比例	c=1 d=1 t=332
+bi ru shuo 	比如說	c=1 d=0.522045 t=334
+bian hao sou suo 	编号搜索	c=1 d=1.9801e-08 t=334
+bian hua 	變化	c=1 d=0.873716 t=334
+bian ji qi zu 	编辑器组	c=1 d=1.9801e-08 t=334
+bian jia qiang 	便加强	c=1 d=1.9801e-08 t=334
+biao liang lei xing 	标量类型	c=1 d=1.9801e-08 t=334
+bing qi ku 	兵器库	c=1 d=1.9801e-08 t=334
+bo fang kong jian 	播放控件	c=1 d=1.9801e-08 t=334
+bu dan xin 	不擔心	c=1 d=0.499074 t=334
+bu fen 	部分	c=0 d=0.0427415 t=334
+bu gan huo er 	不干活儿	c=1 d=1.9801e-08 t=334
+bu guo 	不過	c=0 d=0.099005 t=334
+bu guo you duan shi jian mei wan le 	不過有段時間沒玩了	c=1 d=0.99005 t=334
+bu men tong xun 	部门通讯	c=1 d=1.9801e-08 t=334
+bu nan 	不難	c=1 d=0.440432 t=334
+bu quan 	補全	c=0 d=0.097531 t=334
+bu ran 	不然	c=1 d=0.76338 t=334
+bu shi wo xiang yao 	不是我想要	c=1 d=1.9801e-08 t=334
+bu sui ma 	不随吗	c=1 d=1.9801e-08 t=334
+bu tong 	不同	c=0 d=0.097531 t=334
+bu tong ping tai 	不同平臺	c=1 d=0.980199 t=334
+bu xing le 	不行了	c=0 d=0.0332871 t=334
+bu zhi dao 	不知道	c=1 d=0.543351 t=334
+bu zu 	補足	c=0 d=0.099005 t=334
+can shu 	參數	c=1 d=1 t=330
+ce hua 	策劃	c=1 d=0.447088 t=334
+ce shi 	測試	c=1 d=0.946485 t=334
+cen 	岑	c=0 d=0.0946485 t=334
+cen fu zi 	岑夫子	c=1 d=0.951229 t=334
+cha ma ke 	查马克	c=1 d=1.9801e-08 t=334
+chang shi 	嘗試	c=1 d=0.582748 t=334
+chong man le ai 	充满了爱	c=1 d=1.9801e-08 t=334
+chu 	除	c=1 d=0.390628 t=334
+chu cuo 	出錯	c=0 d=0.0951229 t=334
+chu fa 	觸發	c=1 d=0.301194 t=334
+chu shi hua zhong 	初始化中	c=1 d=1.9801e-08 t=334
+chu zhong 	初中	c=0 d=0.0501576 t=334
+chu zhong jiu kai shi 	初中就開始	c=1 d=0.50409 t=334
+chun hua 	唇化	c=1 d=1.9801e-08 t=334
+ci bai di 	辞白帝	c=1 d=1.9801e-08 t=334
+ci fen fa 	此分发	c=1 d=1.9801e-08 t=334
+cong zuo wang you ma 	从左往右吗	c=1 d=1.9801e-08 t=334
+da gai 	大概	c=0 d=0.0615697 t=334
+da gai ba 	大概吧	c=1 d=0.618783 t=334
+da geng ren 	打更人	c=1 d=1.9801e-08 t=334
+da lie ri 	达列日	c=1 d=1.9801e-08 t=334
+da suan 	打算	c=1 d=0.384813 t=334
+da suan wen ni de 	打算问你的	c=1 d=1.9801e-08 t=334
+dai zu zi zhi qu 	傣族自治区	c=1 d=1.9801e-08 t=334
+dan 	但	c=1 d=0.752684 t=334
+dan 	單	c=1 d=0.319819 t=334
+dan heng 	丹恒	c=1 d=1.9801e-08 t=334
+dan na yang de hua 	但那樣的話	c=1 d=0.722527 t=334
+dan qiu sheng 	丹丘生	c=1 d=0.955997 t=334
+dan wei ding yi 	单位定义	c=1 d=1.9801e-08 t=334
+dan wen jian 	但文件	c=1 d=0.318224 t=334
+dan xia mian de 	但下面的	c=1 d=1.9801e-08 t=334
+dan xing hao shi mo wen qian cheng 	但行好事莫問前程	c=1 d=0.548811 t=334
+dao chu 	導出	c=1 d=0.315058 t=334
+dao huo 	倒貨	c=2 d=0.861332 t=334
+dao shi 	倒是	c=1 d=0.438235 t=334
+de 	的	c=7 d=4.20635 t=334
+de bu fen 	的部分	c=1 d=0.429557 t=334
+deng jiu 	灯就	c=1 d=1.9801e-08 t=334
+deng lu 	登錄	c=1 d=0.941764 t=334
+deng lu jie mian 	登陆界面	c=1 d=1.9801e-08 t=334
+di bu dao hang 	底部导航	c=1 d=1.9801e-08 t=334
+di di xia de 	地底下的	c=1 d=1.9801e-08 t=334
+di qiu 	地球	c=1 d=0.774917 t=334
+di tu 	地圖	c=0 d=0.0628135 t=334
+di xia na ge 	底下那个	c=1 d=1.9801e-08 t=334
+di xia zhe ge 	地下这个	c=1 d=1.9801e-08 t=334
+di xia zhe ge 	底下这个	c=1 d=1.9801e-08 t=334
+diao yong 	調用	c=1 d=0.302704 t=334
+ding yi a 	定义啊	c=1 d=1.9801e-08 t=334
+dou liu ma 	逗留吗	c=1 d=1.9801e-08 t=334
+dou nong guo lai 	都弄过来	c=1 d=1.9801e-08 t=334
+du cha tong bao 	督查通报	c=1 d=1.9801e-08 t=334
+duan shi jian 	段時間	c=0 d=0.099005 t=334
+dui 	對	c=2 d=1.11545 t=334
+dui de 	對的	c=1 d=0.56836 t=334
+dui die er da lu 	堆叠而大陆	c=1 d=1.9801e-08 t=334
+dui wo ye 	对我也	c=1 d=1.9801e-08 t=334
+dui xiang sheng cun qi 	对象生存期	c=1 d=1.9801e-08 t=334
+dun diao le 	炖掉了	c=1 d=1.9801e-08 t=334
+duo chang ei 	多长诶	c=1 d=1.9801e-08 t=334
+duo jia yi ceng 	多加一层	c=1 d=1.9801e-08 t=334
+ei 	誒	c=1 d=0.546075 t=334
+en 	嗯	c=2 d=1.46842 t=334
+er bu shi 	而不是	c=1 d=0.882497 t=334
+fa lv da quan 	法律大全	c=1 d=1.9801e-08 t=334
+fan zheng 	反正	c=1 d=0.554327 t=334
+fang diao 	放掉	c=0 d=0.0559898 t=334
+fang diao zhe bian 	放掉這邊	c=1 d=0.562705 t=334
+fang jia le 	放假了	c=1 d=0.364219 t=334
+fang le 	放了	c=1 d=0.366044 t=334
+fang xiang 	方向	c=0 d=0.0509157 t=334
+fang zheng xing kai 	方正行楷	c=1 d=1.9801e-08 t=334
+fei xie er 	菲谢尔	c=1 d=1.9801e-08 t=334
+fei xie er 	费歇尔	c=1 d=1.9801e-08 t=334
+fen 	分	c=1 d=0.99005 t=334
+fen ju wen jian 	分局文件	c=1 d=1.9801e-08 t=334
+fen pei de a 	分配的啊	c=1 d=1.9801e-08 t=334
+fen zhi 	分支	c=1 d=0.99005 t=334
+feng bao 	風暴	c=1 d=0.694196 t=334
+feng chui cao di xian niu yang 	风吹草低见牛羊	c=1 d=1.9801e-08 t=334
+feng ge ding 	封个顶	c=1 d=1.9801e-08 t=334
+fu dong le 	浮动了	c=1 d=1.9801e-08 t=334
+fu li lian 	芙莉蓮	c=1 d=0.278038 t=334
+fu zi 	夫子	c=0 d=0.0946485 t=334
+gai 	改	c=3 d=2.60453 t=334
+gai 	該	c=1 d=0.733447 t=334
+gan en jie 	感恩節	c=1 d=0.927743 t=334
+gan jue bu que ding 	感觉不确定	c=1 d=1.9801e-08 t=334
+gang chuang jian 	刚创建	c=1 d=1.9801e-08 t=334
+ge zhong ban ben 	各种版本	c=1 d=1.9801e-08 t=334
+gei 	給	c=1 d=0.344727 t=334
+gei han shu 	给函数	c=1 d=1.9801e-08 t=334
+gen jie kou 	跟接口	c=1 d=1.9801e-08 t=334
+geng qin jin 	更亲近	c=1 d=1.9801e-08 t=334
+geng xin 	更新	c=1 d=0.327915 t=334
+gong zuo zhuan lan 	工作专栏	c=1 d=1.9801e-08 t=334
+gong zuo zhuan lan biao ti 	工作专栏标题	c=1 d=1.9801e-08 t=334
+guan diao hou 	关掉后	c=1 d=1.9801e-08 t=334
+guan diao ne 	关掉呢	c=1 d=1.9801e-08 t=334
+guang biao 	光標	c=1 d=0.918512 t=334
+guang dong gong an 	广东公安	c=1 d=1.9801e-08 t=334
+guang rong bang de 	光荣榜的	c=1 d=1.9801e-08 t=334
+guang zhui 	光追	c=1 d=1.9801e-08 t=334
+gui dao gong an 	轨道公安	c=1 d=1.9801e-08 t=334
+gui dao gong an dao hang 	轨道公安导航	c=1 d=1.9801e-08 t=334
+gui dao jiao tong zhi an 	轨道交通治安	c=1 d=1.9801e-08 t=334
+gui dao zi xun 	轨道咨询	c=1 d=1.9801e-08 t=334
+gun dao di liao 	滚到底了	c=1 d=1.9801e-08 t=334
+gun dong lan 	滚动栏	c=1 d=1.9801e-08 t=334
+guo qi fa 	國旗法	c=1 d=1 t=333
+guo qu de 	過去的	c=1 d=0.895834 t=334
+hai 	還	c=0 d=0.099005 t=334
+hai bu 	還不	c=0 d=0.0404542 t=334
+hai bu qing chu 	還不清楚	c=1 d=0.40657 t=334
+hai man you yi si de 	還蠻有意思的	c=1 d=0.99005 t=334
+hai mei chi a 	还没吃啊	c=1 d=1.9801e-08 t=334
+hai tu 	骇兔	c=1 d=1.9801e-08 t=334
+hai yang 	海洋	c=0 d=0.0640825 t=334
+hai yang ma 	海洋嗎	c=1 d=0.644036 t=334
+hai you 	還有	c=1 d=0.348193 t=334
+hai you zhei ge 	还有这个	c=1 d=1.9801e-08 t=334
+han shu 	函數	c=0 d=0.0286505 t=334
+hang hai 	航海	c=0 d=0.0386741 t=334
+hang hai wei zhu de 	航海爲主的	c=1 d=0.38868 t=334
+hang zhou gong an 	杭州公安	c=1 d=1.9801e-08 t=334
+hao 	好	c=0 d=0.0546075 t=334
+hao de 	好的	c=0 d=0.060653 t=334
+hao hen duo 	好很多	c=1 d=0.472367 t=334
+hao le 	好了	c=1 d=0.965606 t=334
+hao xiang ye mei zhe wen ti 	好像也没这问题	c=1 d=1.9801e-08 t=334
+he 	和	c=4 d=2.49066 t=334
+he bing 	合併	c=2 d=1.96042 t=334
+he bing shu zu 	合併數組	c=1 d=0.311923 t=334
+he ren lei 	和人类	c=1 d=1.9801e-08 t=334
+hei long jiang sheng gong an ting 	黑龙江省公安厅	c=1 d=1.9801e-08 t=334
+hen xiang le 	很像了	c=1 d=0.786628 t=334
+heng xiang nei rong 	横向内容	c=1 d=1.9801e-08 t=334
+heng xing 	恆星	c=1 d=0.822834 t=334
+hou 	後	c=0 d=0.0557106 t=334
+hou xuan lan 	候选栏	c=1 d=1.9801e-08 t=334
+hou zhe shuo 	后者说	c=1 d=1.9801e-08 t=334
+hu nan sheng gong an ting 	湖南省公安厅	c=1 d=1.9801e-08 t=334
+huan jing 	環境	c=1 d=0.414783 t=334
+huan mo zhe 	唤魔者	c=1 d=1.9801e-08 t=334
+huan yuan 	還原	c=1 d=0.96079 t=334
+hui 	回	c=0 d=0.0557106 t=334
+hui 	會	c=2 d=1.03553 t=334
+hui he 	會和	c=1 d=0.771052 t=334
+hui kai tou 	会开头	c=1 d=1.9801e-08 t=334
+huo 	活	c=1 d=0.904837 t=334
+huo ban men 	活版门	c=1 d=1.9801e-08 t=334
+huo zhe 	或者	c=1 d=0.965606 t=334
+ji ben 	基本	c=1 d=1.07485 t=334
+ji ben bu quan 	基本補全	c=1 d=0.980199 t=334
+ji ben bu zu 	基本補足	c=1 d=0.99005 t=334
+ji ben zi fu 	基本字符	c=1 d=0.99005 t=334
+ji ci 	幾次	c=0 d=0.099005 t=334
+ji di da men 	基地大门	c=1 d=1.9801e-08 t=334
+ji lin sheng gong an ting 	吉林省公安厅	c=1 d=1.9801e-08 t=334
+jia qi 	假期	c=0 d=0.0366044 t=334
+jian hua 	簡化	c=1 d=0.99005 t=334
+jian ji qi 	剪辑器	c=1 d=1.9801e-08 t=334
+jiang lei xing 	将类型	c=1 d=1.9801e-08 t=334
+jiao jiang jing wu zhan 	椒江警务站	c=1 d=1.9801e-08 t=334
+jiao zheng 	校正	c=1 d=0.293758 t=334
+jie gou 	結構	c=0 d=0.0535262 t=334
+jie pa de 	傑帕德	c=1 d=0.99005 t=334
+jin zhan 	進展	c=0 d=0.097531 t=334
+jin zhan zen me yang le 	進展怎麼樣了	c=1 d=0.980199 t=334
+jing ling ji hu 	精灵几乎	c=1 d=1.9801e-08 t=334
+jing yan 	經驗	c=1 d=0.900325 t=334
+jing yi jie 	静怡姐	c=3 d=1.23039 t=334
+jiu 	就	c=2 d=1.51929 t=334
+jiu di ban he qiang 	就地板和墙	c=1 d=1.9801e-08 t=334
+jiu kai shi 	就開始	c=0 d=0.0501576 t=334
+jiu shi 	就是	c=1 d=0.818731 t=334
+ju ti ke yi 	具体可以	c=1 d=1.9801e-08 t=334
+jue de 	覺得	c=0 d=0.0554327 t=334
+jue qu ling 	绝区零	c=1 d=1.9801e-08 t=334
+ka fu ka 	卡夫卡	c=1 d=0.99005 t=334
+kai shi 	開始	c=2 d=0.846109 t=334
+kan kan 	看看	c=1 d=0.96079 t=334
+kan tu zai chang 	看屠宰场	c=1 d=1.9801e-08 t=334
+kao fan yi ruan jian 	靠翻译软件	c=1 d=1.9801e-08 t=334
+ke fu 	克服	c=1 d=0.802519 t=334
+ke qing 	刻晴	c=1 d=1.9801e-08 t=334
+ke yan 	可言	c=1 d=0.516852 t=334
+ke yi 	可以	c=2 d=1.66068 t=334
+kong jian 	空間	c=1 d=0.290835 t=334
+kong zhi 	控制	c=1 d=1 t=334
+kong zhi mian ban 	控制面板	c=1 d=1 t=334
+kou hao na li 	口号哪里	c=1 d=1.9801e-08 t=334
+kou hao shi yao 	口号是要	c=1 d=1.9801e-08 t=334
+kua zhang a 	夸张啊	c=1 d=1.9801e-08 t=334
+kuai dian wo ba 	快点我把	c=1 d=1.9801e-08 t=334
+kun ya 	昆雅	c=1 d=1.9801e-08 t=334
+lai zhao ni 	來找你	c=1 d=0.408607 t=334
+lai zhe bian hou 	来这边后	c=1 d=1.9801e-08 t=334
+lan deng ma 	蓝灯吗	c=1 d=1.9801e-08 t=334
+lao shu 	老鼠	c=0 d=0.0357007 t=334
+lao tian 	老天	c=1 d=0.402525 t=334
+lao zhan zai 	老站在	c=1 d=1.9801e-08 t=334
+le 	了	c=1 d=0.47658 t=334
+le ma 	了嗎	c=1 d=0.506617 t=334
+lei 	類	c=1 d=0.524662 t=334
+lei han shu 	类函数	c=1 d=1.9801e-08 t=334
+leng he 	冷褐	c=1 d=1.9801e-08 t=334
+leng yue 	愣岳	c=1 d=1.9801e-08 t=334
+li ke jue ding ji a fu jian 	立刻决定急啊附件	c=1 d=1.9801e-08 t=334
+li lun 	理論	c=0 d=0.0321422 t=334
+li lun zui da 	理論最大	c=1 d=0.323033 t=334
+liang an yuan sheng ti bu zhu 	两岸猿声啼不住	c=1 d=1.9801e-08 t=334
+liao liao 	聊聊	c=0 d=0.0465334 t=334
+lie che ban ci 	列车班次	c=1 d=1.9801e-08 t=334
+ling yi ge 	另一個	c=1 d=0.394554 t=334
+lu tian le 	露天了	c=1 d=1.9801e-08 t=334
+lu tian le ma 	露天了吗	c=1 d=1.9801e-08 t=334
+lun bo tiao 	轮播条	c=1 d=1.9801e-08 t=334
+luo ji 	邏輯	c=1 d=0.533032 t=334
+luo ji jie gou 	邏輯結構	c=1 d=0.537945 t=334
+ma 	嗎	c=0 d=0.0640825 t=334
+ma 	嘛	c=2 d=1.45943 t=334
+mai piao 	買票	c=1 d=0.331211 t=334
+man yan ma 	蔓延吗	c=1 d=1.9801e-08 t=334
+man you yi si 	蠻有意思	c=0 d=0.099005 t=334
+mao 	貓	c=0 d=0.0357007 t=334
+mao he lao shu 	貓和老鼠	c=3 d=1.64251 t=334
+mao xian 	冒險	c=2 d=1.06217 t=334
+mao xian ma 	冒險嘛	c=1 d=0.878095 t=334
+mao xian mo shi 	冒險模式	c=1 d=0.970446 t=334
+mei lai 	沒來	c=0 d=0.0923117 t=334
+mei ri dong tai 	每日动态	c=1 d=1.9801e-08 t=334
+mei sha 	沒啥	c=1 d=0.43171 t=334
+mei wan 	沒玩	c=0 d=0.099005 t=334
+mei you 	沒有	c=0 d=0.102086 t=334
+mei you fang xiang jiu 	沒有方向就	c=1 d=0.511708 t=334
+mei you shen du 	沒有深度	c=1 d=0.514273 t=334
+mei zhao dao fang fa 	没找到方法	c=1 d=1.9801e-08 t=334
+mian dui 	面對	c=1 d=0.860708 t=334
+mian liang 	面两	c=1 d=1.9801e-08 t=334
+ming 	朙	c=1 d=0.96079 t=334
+ming ming 	名命	c=1 d=1.9801e-08 t=334
+ming yue 	朙月	c=1 d=0.927743 t=334
+mo 	莫	c=0 d=0.0546075 t=334
+mo ban 	模板	c=1 d=0.31897 t=334
+mo ban yin yong 	模板引用	c=2 d=0.655839 t=334
+mo ren 	默認	c=1 d=0.909373 t=334
+mo rui ya 	莫瑞亚	c=1 d=1.9801e-08 t=334
+mo shi 	模式	c=0 d=0.0965606 t=334
+na 	那	c=0 d=0.0711771 t=334
+na bang 	那幫	c=0 d=0.0932394 t=334
+na bang wo 	那幫我	c=1 d=0.937067 t=334
+na wo zhi hou 	那我之后	c=1 d=1.9801e-08 t=334
+na yang de hua 	那樣的話	c=0 d=0.0718924 t=334
+na ye jiu shi shuo 	那也就是說	c=1 d=0.715338 t=334
+nan dao 	難道	c=0 d=0.0631283 t=334
+nan dao chu fang 	难道厨房	c=1 d=1.9801e-08 t=334
+nan dao yao 	難道要	c=1 d=0.634448 t=334
+nao zhong 	鬧鐘	c=1 d=1 t=334
+ne 	呢	c=2 d=1.39504 t=334
+nei bu lian jie 	内部链接	c=1 d=1.9801e-08 t=334
+nei cun fen pei 	内存分配	c=1 d=1.9801e-08 t=334
+nei cun ye 	内存页	c=1 d=1.9801e-08 t=334
+neng 	能	c=1 d=0.935471 t=334
+neng tiao ma 	能调吗	c=1 d=1.9801e-08 t=334
+neng zuo dao ne 	能做到呢	c=1 d=1.9801e-08 t=334
+ng hng 	嗯哼	c=1 d=0.918512 t=334
+ni 	你	c=1 d=0.351691 t=334
+ni jin tian 	你今天	c=0 d=0.0923117 t=334
+ni jin tian mei lai a 	你今天沒來啊	c=1 d=0.927743 t=334
+ni jue de 	你覺得	c=1 d=0.647265 t=334
+ni men gong zuo 	你们工作	c=1 d=1.9801e-08 t=334
+ni men zhi ye 	你们职业	c=1 d=1.9801e-08 t=334
+ni shi 	溺尸	c=1 d=1.9801e-08 t=334
+ning ling hun 	宁灵魂	c=1 d=1.9801e-08 t=334
+ning xia hui zu 	宁夏回族	c=1 d=1.9801e-08 t=334
+nong huo er 	农活儿	c=1 d=1.9801e-08 t=334
+nuo ai er 	诺埃尔	c=1 d=1.9801e-08 t=334
+nv pu 	女僕	c=1 d=0.985111 t=334
+o 	哦	c=1 d=0.932394 t=334
+ou bu shi 	偶不是	c=1 d=1.9801e-08 t=334
+pa e zhi 	怕恶之	c=1 d=1.9801e-08 t=334
+pa ei se 	怕欸色	c=1 d=1.9801e-08 t=334
+pi pian gao 	皮偏高	c=1 d=1.9801e-08 t=334
+pin yin 	拼音	c=2 d=1.90284 t=334
+ping tai 	平臺	c=0 d=0.097531 t=334
+qi 	七	c=0 d=0.099005 t=334
+qi cai jie 	亓才孑	c=1 d=0.913931 t=334
+qi ming qi bu lai le 	起名起不来了	c=1 d=1.9801e-08 t=334
+qi sui 	七歲	c=0 d=0.0918512 t=334
+qian cheng 	前程	c=0 d=0.0546075 t=334
+qian chuang ge 	前窗格	c=1 d=1.9801e-08 t=334
+qian he 	浅褐	c=1 d=1.9801e-08 t=334
+qian li jiang ling yi ri huan 	千里江陵一日还	c=1 d=1.9801e-08 t=334
+qiang zhi 	強制	c=1 d=0.285076 t=334
+qiang zhi shua xin 	强制刷新	c=1 d=1.9801e-08 t=334
+qie huan jian pan 	切换键盘	c=1 d=1.9801e-08 t=334
+qin shi ming yue han shi guan 	秦时明月汉时关	c=1 d=1.9801e-08 t=334
+qing chu 	清楚	c=0 d=0.0404542 t=334
+qing shu ru guan jian ci sou suo 	请输入关键词搜索	c=1 d=1.9801e-08 t=334
+qing zai ci chu 	请在此处	c=1 d=1.9801e-08 t=334
+qing zhi zhong xin 	情指中心	c=1 d=1.9801e-08 t=334
+qing zuo zi wo jie shao 	请作自我介绍	c=1 d=1.9801e-08 t=334
+qu 	區	c=1 d=0.985111 t=334
+qu mo 	祛魔	c=1 d=1.9801e-08 t=334
+qu shou le 	去收了	c=1 d=1.9801e-08 t=334
+quan bu 	全部	c=0 d=0.0985111 t=334
+quan bu zi fu 	全部字符	c=1 d=0.99005 t=334
+quan guo gong an dao hang 	全国公安导航	c=1 d=1.9801e-08 t=334
+quan rong le 	全融了	c=1 d=1.9801e-08 t=334
+quan sheng gong an dao hang 	全省公安导航	c=1 d=1.9801e-08 t=334
+ran dou 	燃豆	c=1 d=1.9801e-08 t=334
+ran hou 	然後	c=3 d=1.60558 t=334
+ran hou wo 	然後我	c=1 d=0.336217 t=334
+rang ta 	讓它	c=0 d=0.0748264 t=334
+rang tu xiang 	让图像	c=1 d=1.9801e-08 t=334
+ren wu 	任務	c=1 d=0.995012 t=334
+ren wu lan 	任務欄	c=2 d=0.587987 t=334
+san jiao 	三角	c=1 d=1 t=328
+san yue 	三月	c=0 d=0.099005 t=334
+san yue qi 	三月七	c=1 d=0.99005 t=334
+shan chu qu 	闪出去	c=1 d=1.9801e-08 t=334
+shang 	上	c=0 d=0.0839457 t=334
+shang ji wen jian 	上级文件	c=1 d=1.9801e-08 t=334
+shang mian yi ceng 	上面一层	c=1 d=1.9801e-08 t=334
+shang ren mai 	商人买	c=1 d=1.9801e-08 t=334
+shang yue ke liu liang 	上月客流量	c=1 d=1.9801e-08 t=334
+she ding 	設定	c=0 d=0.060653 t=334
+she ding hao de 	設定好的	c=1 d=0.609571 t=334
+she zhi 	設置	c=1 d=0.97531 t=334
+she zhi biao qian 	设置标签	c=1 d=1.9801e-08 t=334
+shen du 	深度	c=0 d=0.0511708 t=334
+sheng chan jian she 	生产建设	c=1 d=1.9801e-08 t=334
+sheng cheng 	生成	c=1 d=0.759572 t=334
+sheng tai 	生態	c=3 d=1.65341 t=334
+sheng tai xi tong 	生態系統	c=1 d=0.591556 t=334
+sheng yu 	剩餘	c=2 d=0.599571 t=334
+shi 	事	c=0 d=0.0546075 t=334
+shi 	是	c=3 d=2.10824 t=334
+shi 	時	c=1 d=0.995012 t=334
+shi ge zhong 	是各种	c=1 d=1.9801e-08 t=334
+shi ge zhong 	诗歌中	c=1 d=1.9801e-08 t=334
+shi guo 	試過	c=0 d=0.099005 t=334
+shi guo ji ci 	試過幾次	c=1 d=0.99005 t=334
+shi hui fu 	是回复	c=1 d=1.9801e-08 t=334
+shi jie bing bu shi na me de 	世界并不是那么的	c=1 d=1.9801e-08 t=334
+shi ju kao ji 	市局考绩	c=1 d=1.9801e-08 t=334
+shi ju zhu ye 	市局主页	c=1 d=1.9801e-08 t=334
+shi liu se 	十六色	c=1 d=1.9801e-08 t=334
+shi na ge ma 	是那个吗	c=1 d=1.9801e-08 t=334
+shi nian 	時年	c=0 d=0.0918512 t=334
+shi nian qi sui 	時年七歲	c=1 d=0.923117 t=334
+shi shi kan ba 	試試看吧	c=1 d=0.980199 t=334
+shi shi shi shi shi 	施氏食狮史	c=1 d=1.9801e-08 t=334
+shi wan quan bu tong de 	是完全不同的	c=1 d=0.54064 t=334
+shi xian 	實現	c=1 d=0.67032 t=334
+shi zhang fa bu 	市长发布	c=1 d=1.9801e-08 t=334
+shi zhang ma 	市长吗	c=1 d=1.9801e-08 t=334
+shi zhong 	時鐘	c=1 d=0.362403 t=334
+shou dong geng xin 	手动更新	c=1 d=1.9801e-08 t=334
+shou ji 	手機	c=1 d=0.946485 t=334
+shou shen 	瘦身	c=1 d=1 t=334
+shou yao 	首要	c=0 d=0.0625003 t=334
+shou yao wen ti shi 	首要問題是	c=1 d=0.628135 t=334
+shu ju liang ma 	数据量吗	c=1 d=1.9801e-08 t=334
+shu ming sou suo 	署名搜索	c=1 d=1.9801e-08 t=334
+shu ru 	輸入	c=1 d=0.99005 t=334
+shu ru fa 	輸入法	c=1 d=0.941764 t=334
+shu yu 	屬於	c=0 d=0.0474734 t=334
+shu yu shi 	屬於是	c=1 d=0.477114 t=334
+shu zu 	數組	c=0 d=0.0310367 t=334
+shua xin ma 	刷新吗	c=1 d=1.9801e-08 t=334
+shua zi yuan 	刷资源	c=1 d=1.9801e-08 t=334
+shui geng xin 	谁更新	c=1 d=1.9801e-08 t=334
+shui ping chui zhi 	水平垂直	c=1 d=1.9801e-08 t=334
+shui shui shui shui shui 	水水水水水	c=1 d=1.9801e-08 t=334
+shui shui shui shui shui shui 	水水水水水水	c=1 d=1.9801e-08 t=334
+shui shui shui shui shui shui shui 	水水水水水水水	c=1 d=1.9801e-08 t=334
+si mu lin ken 	私募林肯	c=1 d=1.9801e-08 t=334
+sou suo tiao 	搜索条	c=1 d=1.9801e-08 t=334
+suan 	算	c=1 d=0.740819 t=334
+sui ji 	隨機	c=1 d=0.755783 t=334
+suo chang song 	所唱诵	c=1 d=1.9801e-08 t=334
+suo li lue tu 	所里略图	c=1 d=1.9801e-08 t=334
+suo yi 	所以	c=2 d=1.1553 t=334
+suo yi wo jue de 	所以我覺得	c=1 d=0.465334 t=334
+suo yi yao xian 	所以要先	c=1 d=0.509157 t=334
+ta shang lv tu 	踏上旅途	c=1 d=1.9801e-08 t=334
+ta shuo hou tai 	他说后台	c=1 d=1.9801e-08 t=334
+tai zhou 	台州	c=1 d=0.97531 t=334
+tai zhou huo che zhan 	台州火车站	c=1 d=1.9801e-08 t=334
+tan gang qin 	彈鋼琴	c=1 d=0.355226 t=334
+tan suo 	探索	c=2 d=0.907415 t=334
+tan suo shi 	探索是	c=1 d=0.571209 t=334
+tan xian 	探險	c=1 d=0.597501 t=334
+tan xing bu ju 	弹性布局	c=1 d=1.9801e-08 t=334
+tang mu 	湯姆	c=1 d=0.353455 t=334
+tao lun 	討論	c=1 d=0.410656 t=334
+tao lun bei 	讨论呗	c=1 d=1.9801e-08 t=334
+teng ge wa 	腾格瓦	c=1 d=1.9801e-08 t=334
+ti jiao 	提交	c=0 d=0.099005 t=334
+ti qu 	提取	c=1 d=0.313486 t=334
+ti wa te 	提瓦特	c=1 d=1.9801e-08 t=334
+tian 	天	c=1 d=0.965606 t=334
+tian hui qu 	填回去	c=1 d=1.9801e-08 t=334
+tian qi 	天氣	c=1 d=0.869358 t=334
+tian qi lai ma 	填起来吗	c=1 d=1.9801e-08 t=334
+tian wen 	天文	c=1 d=0.839457 t=334
+tian zai 	天災	c=1 d=0.697676 t=334
+tiao cha yan jiu 	调差研究	c=1 d=1.9801e-08 t=334
+tiao qi lai 	调起来	c=1 d=1.9801e-08 t=334
+tiao tuo yi dian 	跳脱一点	c=1 d=1.9801e-08 t=334
+tong bu 	同步	c=1 d=0.99005 t=334
+tou ming 	透明	c=1 d=0.349938 t=334
+tu xing jia su 	图形加速	c=1 d=1.9801e-08 t=334
+tuan jian gong zuo 	团建工作	c=1 d=1.9801e-08 t=334
+wa chuan 	挖穿	c=1 d=1.9801e-08 t=334
+wa cuo le 	挖错了	c=1 d=1.9801e-08 t=334
+wa di ban 	挖地版	c=1 d=1.9801e-08 t=334
+wai 	外	c=0 d=0.0390628 t=334
+wai mian hui 	外面会	c=1 d=1.9801e-08 t=334
+wan jia 	玩家	c=2 d=1.81405 t=334
+wan jia de 	玩家的	c=1 d=0.726149 t=334
+wan jia neng 	玩家能	c=1 d=0.794534 t=334
+wan li chang zheng ren wei huan 	万里长征人未还	c=1 d=1.9801e-08 t=334
+wan quan bu tong 	完全不同	c=0 d=0.0537945 t=334
+wan shan 	完善	c=1 d=0.585669 t=334
+wang cheng nan zhan fang xiang 	王成南站方向	c=1 d=1.9801e-08 t=334
+wang na ge fang xiang gai ne 	往那个方向改呢	c=1 d=1.9801e-08 t=334
+wei xing 	衛星	c=1 d=0.831104 t=334
+wei zhi 	位置	c=1 d=0.29523 t=334
+wei zhi de 	未知的	c=1 d=0.865022 t=334
+wei zhu 	爲主	c=0 d=0.0386741 t=334
+wen 	問	c=0 d=0.0546075 t=334
+wen jian 	文件	c=0 d=0.0316637 t=334
+wen ming 	文明	c=1 d=0.941764 t=334
+wen ti lai de 	问题来的	c=1 d=1.9801e-08 t=334
+wen ti shi 	問題是	c=0 d=0.0625003 t=334
+wen zi gun dong 	文字滚动	c=1 d=1.9801e-08 t=334
+wo 	我	c=2 d=0.749733 t=334
+wo bu 	我不	c=0 d=0.0554327 t=334
+wo bu jue de 	我不覺得	c=1 d=0.557106 t=334
+wo bu shi 	我不是	c=1 d=0.501576 t=334
+wo bu tai jue ding 	我不太决定	c=1 d=1.9801e-08 t=334
+wo dao shi 	我倒是	c=1 d=0.496585 t=334
+wo de 	我的	c=1 d=0.489193 t=334
+wo de zi ti shi 	我的字体是	c=1 d=1.9801e-08 t=334
+wo dou bu mai de 	我都不买的	c=1 d=1.9801e-08 t=334
+wo hai shi 	我還是	c=1 d=0.985111 t=334
+wo huo xu ke yi bang ni kan kan 	我或许可以帮你看看	c=1 d=1.9801e-08 t=334
+wo jue de 	我覺得	c=1 d=0.709953 t=334
+wo wen dang mei kan dong 	我文档没看懂	c=1 d=1.9801e-08 t=334
+wo xi wang 	我希望	c=0 d=0.0786628 t=334
+wo xi wang shi 	我希望是	c=2 d=1.63846 t=334
+wo xiang 	我想	c=1 d=0.82309 t=334
+wo xiang dao 	我想到	c=1 d=0.657047 t=334
+wo xiang rang ta 	我想讓它	c=1 d=0.752014 t=334
+wo xiu hao 	我修好	c=1 d=1.9801e-08 t=334
+wo yi 	我以	c=0 d=0.0557106 t=334
+wo yi hou hui 	我以後回	c=1 d=0.559898 t=334
+wo zhi zhong guo 	我只种过	c=1 d=1.9801e-08 t=334
+wo zi ji 	我自己	c=1 d=0.970446 t=334
+wu bian wu ji 	無邊無際	c=0 d=0.0637628 t=334
+wu bian wu ji de 	無邊無際的	c=1 d=0.640825 t=334
+wu bian xing 	五邊形	c=1 d=1 t=329
+wu jiao xing 	五角星	c=1 d=1 t=331
+wu xing hong qi 	五星紅旗	c=1 d=1 t=334
+wu yang shi 	无样式	c=1 d=1.9801e-08 t=334
+xi tong 	系統	c=1 d=0.45612 t=334
+xi tong wen jian jia 	系统文件夹	c=1 d=1.9801e-08 t=334
+xi zang zang zu zi zhi qu 	西藏藏族自治区	c=1 d=1.9801e-08 t=334
+xian 	先	c=1 d=0.97531 t=334
+xian cong 	先從	c=2 d=0.791796 t=334
+xian shi hang hao 	显示行号	c=1 d=1.9801e-08 t=334
+xian shi ju qu dao hang 	县市局区导航	c=1 d=1.9801e-08 t=334
+xian shi zhong hao xiang 	现实中好像	c=1 d=1.9801e-08 t=334
+xian zai 	現在	c=3 d=1.41292 t=334
+xian zai yong gang 	现在用钢	c=1 d=1.9801e-08 t=334
+xian zuo 	先做	c=0 d=0.0548811 t=334
+xian zuo ma 	先做嘛	c=1 d=0.551563 t=334
+xiang 	向	c=0 d=0.0298197 t=334
+xiang cang 	像仓	c=1 d=1.9801e-08 t=334
+xiang da di 	向大地	c=1 d=1.9801e-08 t=334
+xiang shou 	享受	c=0 d=0.0366044 t=334
+xiang shou jia qi bei 	享受假期唄	c=1 d=0.36788 t=334
+xiang tong gui ge 	相同规格	c=1 d=1.9801e-08 t=334
+xiang xiang 	想想	c=1 d=0.369723 t=334
+xiang zi zu jian 	向子組件	c=1 d=0.299692 t=334
+xiang zuo 	想做	c=1 d=0.386741 t=334
+xiao de 	小的	c=1 d=0.380983 t=334
+xiao lv fa 	效率法	c=1 d=1.9801e-08 t=334
+xie shen le 	邪神了	c=1 d=1.9801e-08 t=334
+xie xie 	謝謝	c=1 d=0.970446 t=334
+xin chuang ge 	新窗格	c=1 d=1.9801e-08 t=334
+xin hang 	新行	c=1 d=1.9801e-08 t=334
+xin wen ju jiao 	新闻聚焦	c=1 d=1.9801e-08 t=334
+xin xin 	信心	c=1 d=0.433874 t=334
+xing 	行	c=0 d=0.0546075 t=334
+xing cheng 	形成	c=1 d=0.711771 t=334
+xing qiong 	星穹	c=1 d=1.9801e-08 t=334
+xing qiong tie dao 	星穹铁道	c=1 d=1.9801e-08 t=334
+xing qiu 	星球	c=1 d=0.677056 t=334
+xing qu ai hao 	兴趣愛好	c=1 d=1.9801e-08 t=334
+xu lie er 	序列二	c=1 d=1.9801e-08 t=334
+xu ni tian wen guan 	虚拟天文馆	c=1 d=1.9801e-08 t=334
+xu yao kao lv ma 	需要考虑吗	c=1 d=1.9801e-08 t=334
+xuan lei bie 	选类别	c=1 d=1.9801e-08 t=334
+xuan ran 	渲染	c=1 d=0.339017 t=334
+xuan ran han shu 	渲染函數	c=2 d=0.596758 t=334
+xue ju 	雪居	c=1 d=1.9801e-08 t=334
+xun fang da dui 	巡防大队	c=1 d=1.9801e-08 t=334
+xun huan ne 	循环呢	c=1 d=1.9801e-08 t=334
+yan he zhi beng 	岩壑之崩	c=1 d=1.9801e-08 t=334
+yan zheng ma 	驗證碼	c=1 d=0.96079 t=334
+yang zi 	樣子	c=1 d=0.683861 t=334
+yao 	要	c=0 d=0.107392 t=334
+yao kai shi 	要開始	c=1 d=0.444858 t=334
+yao sai nei bu 	要塞内部	c=1 d=1.9801e-08 t=334
+yao xian 	要先	c=0 d=0.0506617 t=334
+yao yi zhe zhong 	要以这种	c=1 d=1.9801e-08 t=334
+ye dou zhao bu dao 	也都找不到	c=1 d=1.9801e-08 t=334
+ye jiu shi shuo 	也就是說	c=0 d=0.0711771 t=334
+ye kai le de 	也开了的	c=1 d=1.9801e-08 t=334
+ye mei she 	也没设	c=1 d=1.9801e-08 t=334
+yi 	一	c=1 d=0.68729 t=334
+yi 	咦	c=1 d=0.932394 t=334
+yi an se 	一暗色	c=1 d=1.9801e-08 t=334
+yi ban jiao shen me a 	一般叫什么啊	c=1 d=1.9801e-08 t=334
+yi fu dong hua tu xiang 	一幅动画图象	c=1 d=1.9801e-08 t=334
+yi lai 	依賴	c=1 d=0.400517 t=334
+yi mei 	一昧	c=0 d=0.0882497 t=334
+yi mei de 	一昧的	c=1 d=0.88692 t=334
+yi pian liang pian 	一片两片	c=1 d=1.9801e-08 t=334
+yi shang miao shu 	以上描述	c=1 d=1.9801e-08 t=334
+yi sheng ming 	已声明	c=1 d=1.9801e-08 t=334
+yi tiao jie yi tiao 	一条接一条	c=1 d=1.9801e-08 t=334
+yi wang ju shou 	遗忘巨兽	c=1 d=1.9801e-08 t=334
+yi xia ba 	一下吧	c=1 d=0.946485 t=334
+yin cang 	隱藏	c=1 d=0.304222 t=334
+yin shan xia 	阴山下	c=1 d=1.9801e-08 t=334
+yin yong 	引用	c=1 d=0.349102 t=334
+ying gai 	應該	c=1 d=0.29671 t=334
+ying hua 	櫻花	c=2 d=0.630906 t=334
+ying yong dao hang xi tong 	应用导航系统	c=1 d=1.9801e-08 t=334
+you 	又	c=0 d=0.0332871 t=334
+you 	有	c=1 d=0.856931 t=334
+you dian que 	有点缺	c=1 d=1.9801e-08 t=334
+you ge ai ren 	有个矮人	c=1 d=1.9801e-08 t=334
+you hua 	優化	c=2 d=1.97516 t=334
+you jie tu ma 	有截图吗	c=1 d=1.9801e-08 t=334
+you la 	优菈	c=1 d=1.9801e-08 t=334
+you lou ti 	有楼梯	c=1 d=1.9801e-08 t=334
+you shi fu 	尤师傅	c=1 d=1.9801e-08 t=334
+you shui de 	有水的	c=1 d=1.9801e-08 t=334
+you tiao xian 	有条线	c=1 d=1.9801e-08 t=334
+you wei shen me 	又为什么	c=1 d=1.9801e-08 t=334
+you xi 	遊戲	c=1 d=0.436253 t=334
+you xi di tu 	遊戲地圖	c=1 d=0.631283 t=334
+you yi quan 	又一圈	c=1 d=1.9801e-08 t=334
+you zhang hao 	有帳號	c=1 d=0.951229 t=334
+yu bei 	預備	c=0 d=0.099005 t=334
+yu bei ti jiao 	預備提交	c=1 d=0.99005 t=334
+yuan 	原	c=1 d=0.283654 t=334
+yuan fang 	元芳	c=1 d=0.918512 t=334
+yuan shen 	原神	c=3 d=0.560262 t=334
+yuan su zhou qi 	元素周期	c=1 d=1.9801e-08 t=334
+yue 	月	c=1 d=0.965606 t=334
+yue xia feng lai 	月下风来	c=1 d=1.9801e-08 t=334
+yun cheng 	匀称	c=1 d=1.9801e-08 t=334
+yun mo se 	云墨色	c=1 d=1.9801e-08 t=334
+yun zuo gui ze 	运作规则	c=1 d=1.9801e-08 t=334
+za a a a 	咋啊啊啊	c=1 d=1.9801e-08 t=334
+zai gun 	再滚	c=1 d=1.9801e-08 t=334
+zai wai mao shang 	在外貌上	c=1 d=1.9801e-08 t=334
+zai zhe 	在這	c=0 d=0.057695 t=334
+zai zhe zhi shang 	在這之上	c=1 d=0.579841 t=334
+zang song 	葬送	c=0 d=0.0273898 t=334
+zang song de 	葬送的	c=2 d=0.551921 t=334
+zao jian ta 	造箭塔	c=1 d=1.9801e-08 t=334
+zao yi gei chu 	早已给出	c=1 d=1.9801e-08 t=334
+zen me 	怎麼	c=2 d=1.11244 t=334
+zen me shuo 	怎麼說	c=1 d=0.913931 t=334
+zen me yang le 	怎麼樣了	c=0 d=0.097531 t=334
+zhan yong 	佔用	c=1 d=0.289385 t=334
+zhang hao 	帳號	c=0 d=0.0946485 t=334
+zhang xiang jun mei 	长相俊美	c=1 d=1.9801e-08 t=334
+zhao ci bai di cai yun jian 	朝辞白帝彩云间	c=1 d=1.9801e-08 t=334
+zhao ni 	找你	c=0 d=0.0465334 t=334
+zhao ni liao liao 	找你聊聊	c=1 d=0.467667 t=334
+zhe bian 	這邊	c=0 d=0.089277 t=334
+zhe bian you bu xing le 	這邊又不行了	c=1 d=0.33454 t=334
+zhe bu fen 	這部分	c=1 d=0.474734 t=334
+zhe bu shi 	這不是	c=1 d=0.486752 t=334
+zhe duan 	遮断	c=1 d=1.9801e-08 t=334
+zhe ge 	這個	c=3 d=1.78835 t=334
+zhe ge nian 	这个念	c=1 d=1.9801e-08 t=334
+zhe ge shi shen me dong xi 	这个是什么东西	c=1 d=1.9801e-08 t=334
+zhe jiang 	浙江	c=1 d=0.970446 t=334
+zhe li 	這裏	c=1 d=0.600496 t=334
+zhe li you ge bao cuo 	这里有个报错	c=1 d=1.9801e-08 t=334
+zhe li zhe ge 	这里这个	c=1 d=1.9801e-08 t=334
+zhe shi kou hao 	这是口号	c=1 d=1.9801e-08 t=334
+zheng ge 	整個	c=2 d=1.26228 t=334
+zhi 	值	c=1 d=0.324652 t=334
+zhi ban qing kuang 	值班情况	c=1 d=1.9801e-08 t=334
+zhi jie dao yan jiang 	直接到岩浆	c=1 d=1.9801e-08 t=334
+zhi qian di xia 	之前地下	c=1 d=1.9801e-08 t=334
+zhi shang 	之上	c=0 d=0.057695 t=334
+zhi shao lian xu 	至少连续	c=1 d=1.9801e-08 t=334
+zhi wu ji 	植物集	c=1 d=1.9801e-08 t=334
+zhi xue you yong de 	只学有用的	c=1 d=1.9801e-08 t=334
+zhi ye 	職業	c=1 d=0.491644 t=334
+zhong duan pei zhi 	终端配置	c=1 d=1.9801e-08 t=334
+zhong jian xian de 	中间线的	c=1 d=1.9801e-08 t=334
+zhong jian xuan zhe 	中间悬着	c=1 d=1.9801e-08 t=334
+zhong tian 	種田	c=0 d=0.0390628 t=334
+zhong tian wai 	種田外	c=1 d=0.392585 t=334
+zhong zi a 	种子啊	c=1 d=1.9801e-08 t=334
+zhu ling 	猪灵	c=1 d=1.9801e-08 t=334
+zhu mian guan li 	煮面管理	c=1 d=1.9801e-08 t=334
+zhu ti 	主題	c=1 d=0.574072 t=334
+zhu wei cao 	猪尾草	c=1 d=1.9801e-08 t=334
+zhu zi 	朱紫	c=1 d=1.9801e-08 t=334
+zhuan tou zai kan kan 	转头再看看	c=1 d=1.9801e-08 t=334
+zhuo mian feng ge 	桌面风格	c=1 d=1.9801e-08 t=334
+zi 	子	c=0 d=0.0298197 t=334
+zi 	字	c=1 d=0.298197 t=334
+zi fu 	字符	c=1 d=1.08362 t=334
+zi ran 	自然	c=1 d=0.70822 t=334
+zi ti jian bian 	字体渐变	c=1 d=1.9801e-08 t=334
+zi yuan su bu shou 	子元素不受	c=1 d=1.9801e-08 t=334
+zong bu neng 	總不能	c=1 d=0.603506 t=334
+zong zhi 	總之	c=1 d=0.621885 t=334
+zu 	足	c=1 d=0.985111 t=334
+zu jian 	組件	c=1 d=0.35124 t=334
+zui da 	最大	c=0 d=0.0321422 t=334
+zui hao neng 	最好能	c=1 d=0.666977 t=334
+zun shou 	遵守	c=1 d=0.891367 t=334
+zuo biao 	坐標	c=1 d=0.729789 t=334
+zuo biao xi 	座標系	c=1 d=1 t=327
+zuo cheng 	做成	c=1 d=0.637628 t=334
+zuo hao 	做好	c=1 d=0.377192 t=334
+zuo le 	做了	c=1 d=0.346456 t=334
+zuo ri ke liu liang 	昨日客流量	c=1 d=1.9801e-08 t=334
+zuo shou 	左手	c=1 d=1 t=326
