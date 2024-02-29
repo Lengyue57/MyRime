@@ -1,5 +1,0 @@
-# Rime user dictionary
-#@/db_name	.temp
-#@/db_type	userdb
-#@/rime_version	1.8.5
-#@/user_id	Windows
