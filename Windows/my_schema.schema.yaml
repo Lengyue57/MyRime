@@ -26,7 +26,7 @@ switches:
 extended_charset: 1
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZSC
+  alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: "'"
   algebra:
     __patch:
@@ -47,6 +47,7 @@ speller:
     - derive/^yuan$/yuen/
     - derive/^yu/v/
     - derive/^([jqx])i(.+)$/$1$2/
+    - derive/^yi?(?![i])/i/
 
 translator:
   dictionary: luna_pinyin
@@ -54,12 +55,12 @@ translator:
     - "^啊*$"
   preedit_format:
     # 简化输入
+    - xform/(^|')i/$1y/
     - xform/([jqx])n/$1in/
     - xform/([jqx])e/$1ie/
-    - xform/(^|[^jqxyln])v/$1(yu)/
-    - xform/yuen($|[^g])/yuan$1/
-    - xform/yen($|[^g])/yan$1/
-    - xform/ien($|[^g])/ian$1/
+    - xform/(^|')v/$1(yu)/
+    - xform/yuen($|')/yuan$1/
+    - xform/([yi])en($|')/$1an$2/
     # 基本补足
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
