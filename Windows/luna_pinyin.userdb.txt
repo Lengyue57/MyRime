@@ -2,984 +2,1271 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	697
+#@/tick	1076
 #@/user_id	Windows
-a 	啊	c=5 d=2.95045 t=697
-a bei duo 	阿贝多	c=1 d=1.9801e-08 t=697
-a ka na 	阿卡那	c=1 d=1.9801e-08 t=697
-ai da 	艾達	c=1 d=0.99005 t=697
-ai hao 	愛好	c=1 d=1.9801e-08 t=697
-ai ren yao sai 	矮人要塞	c=2 d=0.895834 t=697
-ai ren yao sai ma 	矮人要塞吗	c=1 d=1.9801e-08 t=697
-an ju 	暗橘	c=1 d=1.9801e-08 t=697
-an pai 	安排	c=0 d=0.0839457 t=697
-an pai shang 	安排上	c=1 d=0.843665 t=697
-an zhuang 	安裝	c=0 d=0.0951229 t=697
-an zhuang chu cuo 	安裝出錯	c=1 d=0.955997 t=697
-ba 	吧	c=2 d=1.61126 t=697
-ba 	把	c=1 d=0.341298 t=697
-ba zhou wei yi quan 	把周围一圈	c=1 d=1.9801e-08 t=697
-bai 	白	c=1 d=0.955997 t=697
-bai ji ge 	摆几个	c=1 d=1.9801e-08 t=697
-bai nian 	百年	c=1 d=0.767206 t=697
-ban ben 	版本	c=1 d=0.621885 t=697
-ban jiao zi fu 	半角字符	c=1 d=1.9801e-08 t=697
-ban yan you xi 	扮演游戏	c=1 d=1.9801e-08 t=697
-bao 	寶	c=1 d=0.532591 t=697
-bao ke meng 	包可夢	c=1 d=0.529935 t=697
-bao qi 	抱起	c=0 d=0.0965605 t=697
-bao qi le 	抱起了	c=1 d=0.970446 t=697
-bao zhe 	抱着	c=1 d=1.04924 t=697
-bao zhe wo de 	抱着我的	c=1 d=0.937067 t=697
-bei 	唄	c=0 d=0.0366044 t=697
-bei 	被	c=0 d=0.0965605 t=697
-bei chong bai 	被崇拜	c=1 d=1.9801e-08 t=697
-bei jing gong an 	北京公安	c=1 d=1.9801e-08 t=697
-ben ci 	本次	c=1 d=0.849321 t=697
-beng tie 	崩铁	c=1 d=1.9801e-08 t=697
-bi jiao 	比較	c=2 d=0.859222 t=697
-bi li 	比例	c=3 d=2.81151 t=697
-bi qu jian 	閉區間	c=1 d=0.763379 t=697
-bi ru shuo 	比如說	c=1 d=0.522045 t=697
-bi xu shi 	必須是	c=1 d=0.882497 t=697
-bian chang 	邊長	c=1 d=1 t=697
-bian hao sou suo 	编号搜索	c=1 d=1.9801e-08 t=697
-bian hua 	變化	c=1 d=0.873716 t=697
-bian ji qi zu 	编辑器组	c=1 d=1.9801e-08 t=697
-bian jia qiang 	便加强	c=1 d=1.9801e-08 t=697
-bian liang 	變量	c=1 d=0.733447 t=697
-biao 	表	c=1 d=0.740818 t=697
-biao liang lei xing 	标量类型	c=1 d=1.9801e-08 t=697
-biao ti 	標題	c=1 d=1 t=697
-bing qi ku 	兵器库	c=1 d=1.9801e-08 t=697
-bo fang kong jian 	播放控件	c=1 d=1.9801e-08 t=697
-bu 	不	c=1 d=0.937067 t=697
-bu bi yao de 	不必要的	c=2 d=1.86936 t=697
-bu dan xin 	不擔心	c=1 d=0.499074 t=697
-bu dui 	不對	c=1 d=0.71177 t=697
-bu fen 	部分	c=0 d=0.0427415 t=697
-bu gan huo er 	不干活儿	c=1 d=1.9801e-08 t=697
-bu guo 	不過	c=0 d=0.099005 t=697
-bu guo you duan shi jian mei wan le 	不過有段時間沒玩了	c=1 d=0.99005 t=697
-bu he fa 	不合法	c=1 d=0.960789 t=697
-bu ji ge 	不及格	c=3 d=1.90121 t=697
-bu ke yi 	不可以	c=1 d=1.06217 t=697
-bu ke yi bei 	不可以被	c=1 d=0.970446 t=697
-bu men tong xun 	部门通讯	c=1 d=1.9801e-08 t=697
-bu nan 	不難	c=1 d=0.440432 t=697
-bu neng 	不能	c=1 d=1.04453 t=697
-bu quan 	補全	c=0 d=0.097531 t=697
-bu ran 	不然	c=1 d=0.76338 t=697
-bu ren shi 	不認識	c=0 d=0.067368 t=697
-bu ren shi de 	不認識的	c=1 d=0.677057 t=697
-bu run 	不潤	c=1 d=0.771052 t=697
-bu shi 	不是	c=1 d=0.67368 t=697
-bu shi wo xiang yao 	不是我想要	c=1 d=1.9801e-08 t=697
-bu sui ma 	不随吗	c=1 d=1.9801e-08 t=697
-bu tong 	不同	c=0 d=0.097531 t=697
-bu tong ping tai 	不同平臺	c=1 d=0.980199 t=697
-bu xing le 	不行了	c=0 d=0.0332871 t=697
-bu zhi dao 	不知道	c=1 d=0.543351 t=697
-bu zu 	補足	c=0 d=0.099005 t=697
-cai dui 	猜對	c=0 d=0.0852144 t=697
-cai dui le 	猜對了	c=1 d=0.856415 t=697
-can shu 	參數	c=2 d=1.31796 t=697
-cao zuo 	操作	c=1 d=0.571209 t=697
-ce hua 	策劃	c=1 d=0.447088 t=697
-ce shi 	測試	c=2 d=1.25111 t=697
-cen 	岑	c=0 d=0.0946485 t=697
-cen fu zi 	岑夫子	c=1 d=0.951229 t=697
-cha ma ke 	查马克	c=1 d=1.9801e-08 t=697
-chang du 	長度	c=1 d=0.778805 t=697
-chang du wei 	長度爲	c=1 d=0.67368 t=697
-chang liang 	常量	c=1 d=0.960789 t=697
-chang shi 	嘗試	c=1 d=0.582748 t=697
-chao chu 	超出	c=0 d=0.0909373 t=697
-che xiao 	撤銷	c=1 d=0.637628 t=697
-cheng 	乘	c=2 d=1.76885 t=697
-cheng ji 	成績	c=3 d=2.71944 t=697
-chong man le ai 	充满了爱	c=1 d=1.9801e-08 t=697
-chong zai 	重載	c=1 d=0.941765 t=697
-chu 	除	c=1 d=0.390628 t=697
-chu cuo 	出錯	c=0 d=0.0951229 t=697
-chu fa 	觸發	c=1 d=0.301194 t=697
-chu mo ban 	觸摸板	c=1 d=0.557106 t=697
-chu sheng 	出生	c=0 d=0.0737123 t=697
-chu shi hua zhong 	初始化中	c=1 d=1.9801e-08 t=697
-chu zhong 	初中	c=0 d=0.0501576 t=697
-chu zhong jiu kai shi 	初中就開始	c=1 d=0.50409 t=697
-chuang ge 	窗格	c=5 d=2.93164 t=697
-chuang kou 	窗口	c=2 d=1.25041 t=697
-chun hua 	唇化	c=1 d=1.9801e-08 t=697
-ci bai di 	辞白帝	c=1 d=1.9801e-08 t=697
-ci fen fa 	此分发	c=1 d=1.9801e-08 t=697
-cong zuo wang you ma 	从左往右吗	c=1 d=1.9801e-08 t=697
-da bu kai 	打不開	c=1 d=0.67032 t=697
-da gai 	大概	c=0 d=0.0615697 t=697
-da gai ba 	大概吧	c=1 d=0.618783 t=697
-da geng ren 	打更人	c=1 d=1.9801e-08 t=697
-da kai 	打開	c=1 d=0.66034 t=697
-da lie ri 	达列日	c=1 d=1.9801e-08 t=697
-da suan 	打算	c=1 d=0.384813 t=697
-da suan wen ni de 	打算问你的	c=1 d=1.9801e-08 t=697
-da xiao 	大小	c=1 d=0.603506 t=697
-da yu 	大於	c=1 d=0.891366 t=697
-dai ma 	代碼	c=2 d=1.31754 t=697
-dai zu zi zhi qu 	傣族自治区	c=1 d=1.9801e-08 t=697
-dan 	但	c=2 d=1.0115 t=697
-dan 	單	c=1 d=0.319819 t=697
-dan heng 	丹恒	c=1 d=1.9801e-08 t=697
-dan na yang de hua 	但那樣的話	c=1 d=0.722527 t=697
-dan qiu sheng 	丹丘生	c=1 d=0.955997 t=697
-dan wei ding yi 	单位定义	c=1 d=1.9801e-08 t=697
-dan wen jian 	但文件	c=1 d=0.318224 t=697
-dan xia mian de 	但下面的	c=1 d=1.9801e-08 t=697
-dan xing hao shi mo wen qian cheng 	但行好事莫問前程	c=1 d=0.548811 t=697
-dao chu 	導出	c=1 d=0.315058 t=697
-dao huo 	倒貨	c=2 d=0.861332 t=697
-dao ru 	導入	c=1 d=0.535261 t=697
-dao shi 	倒是	c=1 d=0.438235 t=697
-de 	的	c=16 d=6.52715 t=697
-de bu fen 	的部分	c=1 d=0.429557 t=697
-de fen 	得分	c=1 d=0.752014 t=697
-de gao 	的高	c=1 d=0.985112 t=697
-de hua 	的話	c=1 d=0.650509 t=697
-de shu zi 	的數字	c=0 d=0.0826959 t=697
-de wo 	的我	c=1 d=0.960789 t=697
-de zhi 	的值	c=1 d=0.740818 t=697
-deng hao 	等號	c=1 d=0.631284 t=697
-deng jiu 	灯就	c=1 d=1.9801e-08 t=697
-deng lu 	登錄	c=1 d=0.941764 t=697
-deng lu jie mian 	登陆界面	c=1 d=1.9801e-08 t=697
-di 	第	c=1 d=0.800232 t=697
-di bian 	底邊	c=1 d=0.70822 t=697
-di bu dao hang 	底部导航	c=1 d=1.9801e-08 t=697
-di di xia de 	地底下的	c=1 d=1.9801e-08 t=697
-di er ge 	第二個	c=1 d=0.694197 t=697
-di qiu 	地球	c=1 d=0.774917 t=697
-di tu 	地圖	c=0 d=0.0628135 t=697
-di xia na ge 	底下那个	c=1 d=1.9801e-08 t=697
-di xia zhe ge 	地下这个	c=1 d=1.9801e-08 t=697
-di xia zhe ge 	底下这个	c=1 d=1.9801e-08 t=697
-di yi ge 	第一個	c=1 d=0.680451 t=697
-dian ji 	點擊	c=0 d=0.0873716 t=697
-dian ji wo 	點擊我	c=1 d=0.878095 t=697
-diao yong 	調用	c=1 d=0.302704 t=697
-ding shi qi 	定時器	c=1 d=0.748264 t=697
-ding yi a 	定义啊	c=1 d=1.9801e-08 t=697
-dou liu ma 	逗留吗	c=1 d=1.9801e-08 t=697
-dou nong guo lai 	都弄过来	c=1 d=1.9801e-08 t=697
-du cha tong bao 	督查通报	c=1 d=1.9801e-08 t=697
-duan shi jian 	段時間	c=0 d=0.099005 t=697
-dui 	對	c=2 d=1.11545 t=697
-dui de 	對的	c=1 d=0.56836 t=697
-dui die er da lu 	堆叠而大陆	c=1 d=1.9801e-08 t=697
-dui jiao xian 	對角線	c=1 d=0.980199 t=697
-dui wo ye 	对我也	c=1 d=1.9801e-08 t=697
-dui xiang 	對象	c=1 d=0.918512 t=697
-dui xiang sheng cun qi 	对象生存期	c=1 d=1.9801e-08 t=697
-dun diao le 	炖掉了	c=1 d=1.9801e-08 t=697
-duo 	多	c=0 d=0.0537944 t=697
-duo chang ei 	多长诶	c=1 d=1.9801e-08 t=697
-duo jia yi ceng 	多加一层	c=1 d=1.9801e-08 t=697
-duo wen jian 	多文件	c=1 d=0.540641 t=697
-ei 	欸	c=1 d=0.67368 t=697
-ei 	誒	c=1 d=0.546075 t=697
-en 	嗯	c=2 d=1.46842 t=697
-er 	二	c=1 d=0.873716 t=697
-er bu shi 	而不是	c=1 d=0.882497 t=697
-fa lv da quan 	法律大全	c=1 d=1.9801e-08 t=697
-fan zheng 	反正	c=1 d=0.554327 t=697
-fang 	仿	c=1 d=0.951229 t=697
-fang diao 	放掉	c=0 d=0.0559898 t=697
-fang diao zhe bian 	放掉這邊	c=1 d=0.562705 t=697
-fang jia le 	放假了	c=1 d=0.364219 t=697
-fang le 	放了	c=1 d=0.366044 t=697
-fang xiang 	方向	c=0 d=0.0509157 t=697
-fang zheng xing kai 	方正行楷	c=1 d=1.9801e-08 t=697
-fei xie er 	菲谢尔	c=1 d=1.9801e-08 t=697
-fei xie er 	费歇尔	c=1 d=1.9801e-08 t=697
-fen 	分	c=2 d=1.09019 t=697
-fen ge 	分割	c=1 d=0.609571 t=697
-fen ju wen jian 	分局文件	c=1 d=1.9801e-08 t=697
-fen pei de a 	分配的啊	c=1 d=1.9801e-08 t=697
-fen ping 	分屏	c=1 d=0.594521 t=697
-fen zhi 	分支	c=1 d=0.99005 t=697
-fen zhong 	分鐘	c=1 d=0.798516 t=697
-feng bao 	風暴	c=1 d=0.694196 t=697
-feng chui cao di xian niu yang 	风吹草低见牛羊	c=1 d=1.9801e-08 t=697
-feng ge ding 	封个顶	c=1 d=1.9801e-08 t=697
-fu dong le 	浮动了	c=1 d=1.9801e-08 t=697
-fu li lian 	芙莉蓮	c=1 d=0.278038 t=697
-fu zi 	夫子	c=0 d=0.0946485 t=697
-gai 	改	c=3 d=2.60453 t=697
-gai 	該	c=2 d=1.09863 t=697
-gan en jie 	感恩節	c=1 d=0.927743 t=697
-gan jue bu que ding 	感觉不确定	c=1 d=1.9801e-08 t=697
-gang 	剛	c=0 d=0.083527 t=697
-gang chuang jian 	刚创建	c=1 d=1.9801e-08 t=697
-gang ji ge 	剛及格	c=1 d=0.839457 t=697
-gao 	高	c=1 d=0.715338 t=697
-ge 	格	c=1 d=0.615697 t=697
-ge shi 	格式	c=0 d=0.0900325 t=697
-ge shi hua 	格式化	c=1 d=0.923116 t=697
-ge zhong ban ben 	各种版本	c=1 d=1.9801e-08 t=697
-gei 	給	c=1 d=0.344727 t=697
-gei han shu 	给函数	c=1 d=1.9801e-08 t=697
-gen jie kou 	跟接口	c=1 d=1.9801e-08 t=697
-geng gai 	更改	c=1 d=0.640824 t=697
-geng qin jin 	更亲近	c=1 d=1.9801e-08 t=697
-geng xin 	更新	c=1 d=0.327915 t=697
-gong neng 	功能	c=1 d=0.615697 t=697
-gong xi ni 	恭喜你	c=1 d=0.852144 t=697
-gong zi 	工資	c=0 d=0.0771052 t=697
-gong zuo zhuan lan 	工作专栏	c=1 d=1.9801e-08 t=697
-gong zuo zhuan lan biao ti 	工作专栏标题	c=1 d=1.9801e-08 t=697
-guan bi 	關閉	c=1 d=0.618783 t=697
-guan dao 	管道	c=1 d=0.782705 t=697
-guan diao hou 	关掉后	c=1 d=1.9801e-08 t=697
-guan diao ne 	关掉呢	c=1 d=1.9801e-08 t=697
-guang biao 	光標	c=1 d=0.918512 t=697
-guang dong gong an 	广东公安	c=1 d=1.9801e-08 t=697
-guang rong bang de 	光荣榜的	c=1 d=1.9801e-08 t=697
-guang zhui 	光追	c=1 d=1.9801e-08 t=697
-gui dao gong an 	轨道公安	c=1 d=1.9801e-08 t=697
-gui dao gong an dao hang 	轨道公安导航	c=1 d=1.9801e-08 t=697
-gui dao jiao tong zhi an 	轨道交通治安	c=1 d=1.9801e-08 t=697
-gui dao zi xun 	轨道咨询	c=1 d=1.9801e-08 t=697
-gun dao di liao 	滚到底了	c=1 d=1.9801e-08 t=697
-gun dong lan 	滚动栏	c=1 d=1.9801e-08 t=697
-guo qi fa 	國旗法	c=1 d=0.995012 t=697
-guo qu de 	過去的	c=1 d=0.895834 t=697
-hai 	還	c=0 d=0.099005 t=697
-hai bu 	還不	c=0 d=0.0404542 t=697
-hai bu qing chu 	還不清楚	c=1 d=0.40657 t=697
-hai man you yi si de 	還蠻有意思的	c=1 d=0.99005 t=697
-hai mei chi a 	还没吃啊	c=1 d=1.9801e-08 t=697
-hai tu 	骇兔	c=1 d=1.9801e-08 t=697
-hai yang 	海洋	c=0 d=0.0640825 t=697
-hai yang ma 	海洋嗎	c=1 d=0.644036 t=697
-hai you 	還有	c=1 d=0.348193 t=697
-hai you zhei ge 	还有这个	c=1 d=1.9801e-08 t=697
-han shu 	函數	c=2 d=1.95332 t=697
-hang hai 	航海	c=0 d=0.0386741 t=697
-hang hai wei zhu de 	航海爲主的	c=1 d=0.38868 t=697
-hang wei 	行尾	c=1 d=0.722527 t=697
-hang zhou gong an 	杭州公安	c=1 d=1.9801e-08 t=697
-hao 	好	c=1 d=1.0488 t=697
-hao de 	好得	c=3 d=2.93116 t=697
-hao de 	好的	c=0 d=0.060653 t=697
-hao hen duo 	好很多	c=1 d=0.472367 t=697
-hao le 	好了	c=2 d=1.54646 t=697
-hao ma 	號碼	c=2 d=1.82488 t=697
-hao ma shu ru 	號碼輸入	c=1 d=0.865022 t=697
-hao xiang 	好像	c=1 d=0.666977 t=697
-hao xiang ye mei zhe wen ti 	好像也没这问题	c=1 d=1.9801e-08 t=697
-he 	和	c=4 d=2.49066 t=697
-he bing 	合併	c=2 d=1.96042 t=697
-he bing shu zu 	合併數組	c=1 d=0.311923 t=697
-he ren lei 	和人类	c=1 d=1.9801e-08 t=697
-hei long jiang sheng gong an ting 	黑龙江省公安厅	c=1 d=1.9801e-08 t=697
-hen xiang le 	很像了	c=1 d=0.786628 t=697
-heng xiang nei rong 	横向内容	c=1 d=1.9801e-08 t=697
-heng xing 	恆星	c=1 d=0.822834 t=697
-hong lou meng 	紅樓夢	c=1 d=0.759572 t=697
-hou 	後	c=0 d=0.0557106 t=697
-hou mian 	後面	c=1 d=0.609571 t=697
-hou tai 	後臺	c=1 d=0.755784 t=697
-hou xuan lan 	候选栏	c=1 d=1.9801e-08 t=697
-hou zhe shuo 	后者说	c=1 d=1.9801e-08 t=697
-hu nan sheng gong an ting 	湖南省公安厅	c=1 d=1.9801e-08 t=697
-huan jing 	環境	c=2 d=0.981369 t=697
-huan mo zhe 	唤魔者	c=1 d=1.9801e-08 t=697
-huan yuan 	還原	c=1 d=0.96079 t=697
-huang jin 	黃金	c=1 d=0.946485 t=697
-huang jin fen ge 	黃金分割	c=1 d=0.937067 t=697
-hui 	回	c=0 d=0.0557106 t=697
-hui 	會	c=2 d=1.03553 t=697
-hui he 	會和	c=1 d=0.771052 t=697
-hui kai tou 	会开头	c=1 d=1.9801e-08 t=697
-huo 	或	c=1 d=0.694197 t=697
-huo 	活	c=1 d=0.904837 t=697
-huo ban men 	活版门	c=1 d=1.9801e-08 t=697
-huo zhe 	或者	c=2 d=1.48702 t=697
-ji ben 	基本	c=1 d=1.07485 t=697
-ji ben bu quan 	基本補全	c=1 d=0.980199 t=697
-ji ben bu zu 	基本補足	c=1 d=0.99005 t=697
-ji ben zi fu 	基本字符	c=1 d=0.99005 t=697
-ji ci 	幾次	c=0 d=0.099005 t=697
-ji di da men 	基地大门	c=1 d=1.9801e-08 t=697
-ji ge 	及格	c=1 d=0.77436 t=697
-ji lin sheng gong an ting 	吉林省公安厅	c=1 d=1.9801e-08 t=697
-ji shu 	奇數	c=0 d=0.099005 t=697
-ji xu 	極序	c=1 d=0.985112 t=697
-jia 	加	c=1 d=0.687289 t=697
-jia qi 	假期	c=0 d=0.0366044 t=697
-jia shu 	加數	c=1 d=0.697676 t=697
-jia su du 	加速度	c=1 d=0.559898 t=697
-jian ce 	檢測	c=1 d=0.551563 t=697
-jian hao 	減號	c=1 d=0.786628 t=697
-jian hua 	簡化	c=1 d=0.99005 t=697
-jian ji qi 	剪辑器	c=1 d=1.9801e-08 t=697
-jian rong 	兼容	c=1 d=0.744532 t=697
-jian rong xing 	兼容性	c=1 d=0.737123 t=697
-jiang lei xing 	将类型	c=1 d=1.9801e-08 t=697
-jiao ben 	腳本	c=1 d=0.806541 t=697
-jiao jiang jing wu zhan 	椒江警务站	c=1 d=1.9801e-08 t=697
-jiao zheng 	校正	c=1 d=0.293758 t=697
-jie duan 	階段	c=0 d=0.0980199 t=697
-jie duan yi 	階段一	c=1 d=0.985112 t=697
-jie gou 	結構	c=0 d=0.0535262 t=697
-jie pa de 	傑帕德	c=1 d=0.99005 t=697
-jin tian shi 	今天是	c=1 d=0.882497 t=697
-jin zhan 	進展	c=0 d=0.097531 t=697
-jin zhan zen me yang le 	進展怎麼樣了	c=1 d=0.980199 t=697
-jing ling ji hu 	精灵几乎	c=1 d=1.9801e-08 t=697
-jing que 	精確	c=0 d=0.0644036 t=697
-jing que shi 	精確式	c=1 d=0.647265 t=697
-jing yan 	經驗	c=1 d=0.900325 t=697
-jing yi jie 	静怡姐	c=6 d=2.5877 t=697
-jiu 	就	c=2 d=1.51929 t=697
-jiu di ban he qiang 	就地板和墙	c=1 d=1.9801e-08 t=697
-jiu kai shi 	就開始	c=0 d=0.0501576 t=697
-jiu shi 	就是	c=1 d=0.818731 t=697
-jiu zheng 	糾正	c=2 d=1.73438 t=697
-ju ti ke yi 	具体可以	c=1 d=1.9801e-08 t=697
-jue de 	覺得	c=0 d=0.0554327 t=697
-jue qu ling 	绝区零	c=1 d=1.9801e-08 t=697
-ka fu ka 	卡夫卡	c=1 d=0.99005 t=697
-kai shi 	開始	c=2 d=0.846109 t=697
-kan kan 	看看	c=1 d=0.96079 t=697
-kan tu zai chang 	看屠宰场	c=1 d=1.9801e-08 t=697
-kan wan le 	看完了	c=1 d=0.995012 t=697
-kao fan yi ruan jian 	靠翻译软件	c=1 d=1.9801e-08 t=697
-ke 	課	c=1 d=0.66034 t=697
-ke fu 	克服	c=1 d=0.802519 t=697
-ke qing 	刻晴	c=1 d=1.9801e-08 t=697
-ke yan 	可言	c=1 d=0.516852 t=697
-ke yi 	可以	c=3 d=1.90758 t=697
-kong jian 	空間	c=2 d=1.1412 t=697
-kong zhi 	控制	c=1 d=1 t=697
-kong zhi mian ban 	控制面板	c=2 d=1.86013 t=697
-kou hao na li 	口号哪里	c=1 d=1.9801e-08 t=697
-kou hao shi yao 	口号是要	c=1 d=1.9801e-08 t=697
-kua ping tai 	跨平臺	c=1 d=0.802519 t=697
-kua zhang a 	夸张啊	c=1 d=1.9801e-08 t=697
-kuai dian wo ba 	快点我把	c=1 d=1.9801e-08 t=697
-kun ya 	昆雅	c=1 d=1.9801e-08 t=697
-lai 	來	c=1 d=0.856415 t=697
-lai zhao ni 	來找你	c=1 d=0.408607 t=697
-lai zhe bian hou 	来这边后	c=1 d=1.9801e-08 t=697
-lan deng ma 	蓝灯吗	c=1 d=1.9801e-08 t=697
-lao shu 	老鼠	c=0 d=0.0357007 t=697
-lao tian 	老天	c=1 d=0.402525 t=697
-lao zhan zai 	老站在	c=1 d=1.9801e-08 t=697
-le 	了	c=3 d=1.75873 t=697
-le ma 	了嗎	c=1 d=0.506617 t=697
-lei 	類	c=1 d=0.524662 t=697
-lei han shu 	类函数	c=1 d=1.9801e-08 t=697
-leng he 	冷褐	c=1 d=1.9801e-08 t=697
-leng yue 	愣岳	c=1 d=1.9801e-08 t=697
-li ke jue ding ji a fu jian 	立刻决定急啊附件	c=1 d=1.9801e-08 t=697
-li lun 	理論	c=0 d=0.0321422 t=697
-li lun zui da 	理論最大	c=1 d=0.323033 t=697
-li yu 	鯉魚	c=0 d=0.0937067 t=697
-liang an yuan sheng ti bu zhu 	两岸猿声啼不住	c=1 d=1.9801e-08 t=697
-liang hao 	良好	c=1 d=0.909373 t=697
-liang jiao qi 	量角器	c=0 d=0.0965605 t=697
-liao liao 	聊聊	c=0 d=0.0465334 t=697
-lie che ban ci 	列车班次	c=1 d=1.9801e-08 t=697
-ling yi ge 	另一個	c=1 d=0.394554 t=697
-liu lan qi 	瀏覽器	c=3 d=2.02216 t=697
-lu tian le 	露天了	c=1 d=1.9801e-08 t=697
-lu tian le ma 	露天了吗	c=1 d=1.9801e-08 t=697
-lun 	輪	c=1 d=0.748264 t=697
-lun bo tiao 	轮播条	c=1 d=1.9801e-08 t=697
-luo ji 	邏輯	c=1 d=0.533032 t=697
-luo ji jie gou 	邏輯結構	c=1 d=0.537945 t=697
-ma 	嗎	c=0 d=0.0640825 t=697
-ma 	嘛	c=2 d=1.45943 t=697
-mai piao 	買票	c=1 d=0.331211 t=697
-man yan ma 	蔓延吗	c=1 d=1.9801e-08 t=697
-man you yi si 	蠻有意思	c=0 d=0.099005 t=697
-mao 	貓	c=0 d=0.0357007 t=697
-mao he lao shu 	貓和老鼠	c=3 d=1.64251 t=697
-mao xian 	冒險	c=2 d=1.06217 t=697
-mao xian ma 	冒險嘛	c=1 d=0.878095 t=697
-mao xian mo shi 	冒險模式	c=1 d=0.970446 t=697
-mei lai 	沒來	c=0 d=0.0923117 t=697
-mei ri dong tai 	每日动态	c=1 d=1.9801e-08 t=697
-mei sha 	沒啥	c=1 d=0.43171 t=697
-mei wan 	沒玩	c=0 d=0.099005 t=697
-mei you 	沒有	c=0 d=0.102086 t=697
-mei you fang xiang jiu 	沒有方向就	c=1 d=0.511708 t=697
-mei you shen du 	沒有深度	c=1 d=0.514273 t=697
-mei zhao dao fang fa 	没找到方法	c=1 d=1.9801e-08 t=697
-meng gong chang 	夢工廠	c=1 d=0.67032 t=697
-mi ma 	密碼	c=1 d=0.805544 t=697
-mi ma bu neng xiao yu 	密碼不能小於	c=2 d=1.77833 t=697
-mi ma ge shi zheng que 	密碼格式正確	c=1 d=0.904837 t=697
-mian dui 	面對	c=1 d=0.860708 t=697
-mian ji 	面積	c=1 d=0.726149 t=697
-mian liang 	面两	c=1 d=1.9801e-08 t=697
-ming 	朙	c=1 d=0.96079 t=697
-ming ming 	名命	c=1 d=1.9801e-08 t=697
-ming yue 	朙月	c=1 d=0.927743 t=697
-mo 	莫	c=0 d=0.0546075 t=697
-mo ban 	模板	c=1 d=0.31897 t=697
-mo ban yin yong 	模板引用	c=2 d=0.655839 t=697
-mo kuai 	模塊	c=1 d=0.980199 t=697
-mo ren 	默認	c=1 d=0.909373 t=697
-mo rui ya 	莫瑞亚	c=1 d=1.9801e-08 t=697
-mo shi 	模式	c=1 d=0.742427 t=697
-mu 	慕	c=1 d=0.657047 t=697
-mu ban 	模板	c=1 d=0.856415 t=697
-mu ke 	慕課	c=1 d=0.860708 t=697
-mu lu 	目錄	c=1 d=0.546074 t=697
-na 	那	c=0 d=0.0711771 t=697
-na bang 	那幫	c=0 d=0.0932394 t=697
-na bang wo 	那幫我	c=1 d=0.937067 t=697
-na wo zhi hou 	那我之后	c=1 d=1.9801e-08 t=697
-na yang de hua 	那樣的話	c=0 d=0.0718924 t=697
-na ye jiu shi shuo 	那也就是說	c=1 d=0.715338 t=697
-nan 	男	c=1 d=0.690734 t=697
-nan dao 	難道	c=0 d=0.0631283 t=697
-nan dao chu fang 	难道厨房	c=1 d=1.9801e-08 t=697
-nan dao yao 	難道要	c=1 d=0.634448 t=697
-nao zhong 	鬧鐘	c=1 d=1 t=697
-ne 	呢	c=2 d=1.39504 t=697
-nei bu lian jie 	内部链接	c=1 d=1.9801e-08 t=697
-nei cun 	內存	c=1 d=1 t=697
-nei cun fen pei 	内存分配	c=1 d=1.9801e-08 t=697
-nei cun ye 	内存页	c=1 d=1.9801e-08 t=697
-neng 	能	c=1 d=0.935471 t=697
-neng bei 	能被	c=1 d=0.985112 t=697
-neng tiao ma 	能调吗	c=1 d=1.9801e-08 t=697
-neng zuo dao ne 	能做到呢	c=1 d=1.9801e-08 t=697
-ng hng 	嗯哼	c=1 d=0.918512 t=697
-ni 	你	c=1 d=0.351691 t=697
-ni cai 	你猜	c=0 d=0.0826959 t=697
-ni cai de shu zi 	你猜的數字	c=1 d=0.831104 t=697
-ni de 	你的	c=0 d=0.0737123 t=697
-ni de chu sheng 	你的出生	c=1 d=0.740818 t=697
-ni hao 	你好	c=1 d=0.918512 t=697
-ni jin tian 	你今天	c=0 d=0.0923117 t=697
-ni jin tian mei lai a 	你今天沒來啊	c=1 d=0.927743 t=697
-ni jue de 	你覺得	c=1 d=0.647265 t=697
-ni men 	你們	c=1 d=0.628135 t=697
-ni men gong zuo 	你们工作	c=1 d=1.9801e-08 t=697
-ni men zhi ye 	你们职业	c=1 d=1.9801e-08 t=697
-ni shi 	溺尸	c=1 d=1.9801e-08 t=697
-ni xiang 	你想	c=0 d=0.0806541 t=697
-ni xiang shu ru 	你想輸入	c=1 d=0.810584 t=697
-nian 	年	c=2 d=1.34762 t=697
-nian fen 	年份	c=1 d=0.744532 t=697
-nin 	您	c=0 d=0.195615 t=697
-nin ben ci 	您本次	c=1 d=0.786628 t=697
-nin de 	您的	c=3 d=2.66363 t=697
-nin de cheng ji 	您的成績	c=2 d=1.6581 t=697
-nin hai 	您還	c=0 d=0.0895834 t=697
-nin hai ke yi 	您還可以	c=1 d=0.900325 t=697
-nin shi yong de 	您使用的	c=1 d=0.625002 t=697
-nin shu ru de 	您輸入的	c=1 d=0.913931 t=697
-nin yi 	您已	c=0 d=0.0909373 t=697
-nin yi chao chu 	您已超出	c=1 d=0.913931 t=697
-ning ling hun 	宁灵魂	c=1 d=1.9801e-08 t=697
-ning xia hui zu 	宁夏回族	c=1 d=1.9801e-08 t=697
-nong huo er 	农活儿	c=1 d=1.9801e-08 t=697
-nuo ai er 	诺埃尔	c=1 d=1.9801e-08 t=697
-nv 	女	c=2 d=1.52878 t=697
-nv pu 	女僕	c=1 d=0.985111 t=697
-o 	哦	c=1 d=0.932394 t=697
-ou bu shi 	偶不是	c=1 d=1.9801e-08 t=697
-ou shu 	偶數	c=0 d=0.0995012 t=697
-pa e zhi 	怕恶之	c=1 d=1.9801e-08 t=697
-pa ei se 	怕欸色	c=1 d=1.9801e-08 t=697
-pan duan 	判斷	c=1 d=0.67032 t=697
-pei zhi 	配置	c=3 d=2.05646 t=697
-pei zhi wen jian 	配置文件	c=1 d=0.532592 t=697
-pi pian gao 	皮偏高	c=1 d=1.9801e-08 t=697
-pin pai xing xiang 	品牌形象	c=0 d=0.0960789 t=697
-pin pai xing xiang xin xiong xia ai a 	品牌形象心胸狹隘啊	c=1 d=0.965605 t=697
-pin yin 	拼音	c=2 d=1.90284 t=697
-ping 	屏	c=1 d=0.56836 t=697
-ping jun 	平均	c=1 d=0.927743 t=697
-ping mu 	屏幕	c=0 d=0.0965605 t=697
-ping mu liang jiao qi 	屏幕量角器	c=1 d=0.970446 t=697
-ping tai 	平臺	c=1 d=0.600499 t=697
-qi 	七	c=0 d=0.099005 t=697
-qi cai jie 	亓才孑	c=1 d=0.913931 t=697
-qi ming qi bu lai le 	起名起不来了	c=1 d=1.9801e-08 t=697
-qi sui 	七歲	c=0 d=0.0918512 t=697
-qian cheng 	前程	c=0 d=0.0546075 t=697
-qian chuang ge 	前窗格	c=1 d=1.9801e-08 t=697
-qian he 	浅褐	c=1 d=1.9801e-08 t=697
-qian li jiang ling yi ri huan 	千里江陵一日还	c=1 d=1.9801e-08 t=697
-qian xi nian 	千禧年	c=1 d=0.778801 t=697
-qiang zhi 	強制	c=1 d=0.285076 t=697
-qiang zhi shua xin 	强制刷新	c=1 d=1.9801e-08 t=697
-qie huan jian pan 	切换键盘	c=1 d=1.9801e-08 t=697
-qin shi ming yue han shi guan 	秦时明月汉时关	c=1 d=1.9801e-08 t=697
-qing chu 	清楚	c=0 d=0.0404542 t=697
-qing shu ru 	請輸入	c=18 d=9.19684 t=697
-qing shu ru guan jian ci sou suo 	请输入关键词搜索	c=1 d=1.9801e-08 t=697
-qing shu ru shu zi 	請輸入數字	c=1 d=0.99005 t=697
-qing zai ci chu 	请在此处	c=1 d=1.9801e-08 t=697
-qing zhi zhong xin 	情指中心	c=1 d=1.9801e-08 t=697
-qing zuo zi wo jie shao 	请作自我介绍	c=1 d=1.9801e-08 t=697
-qiu 	求	c=1 d=0.995012 t=697
-qu 	區	c=1 d=0.985111 t=697
-qu mo 	祛魔	c=1 d=1.9801e-08 t=697
-qu shou le 	去收了	c=1 d=1.9801e-08 t=697
-quan 	圈	c=1 d=0.729789 t=697
-quan bu 	全部	c=0 d=0.0985111 t=697
-quan bu zi fu 	全部字符	c=1 d=0.99005 t=697
-quan guo gong an dao hang 	全国公安导航	c=1 d=1.9801e-08 t=697
-quan rong le 	全融了	c=1 d=1.9801e-08 t=697
-quan sheng gong an dao hang 	全省公安导航	c=1 d=1.9801e-08 t=697
-ran dou 	燃豆	c=1 d=1.9801e-08 t=697
-ran hou 	然後	c=3 d=1.60558 t=697
-ran hou wo 	然後我	c=1 d=0.336217 t=697
-rang ta 	讓它	c=0 d=0.0748264 t=697
-rang tu xiang 	让图像	c=1 d=1.9801e-08 t=697
-ren wu 	任務	c=1 d=0.995012 t=697
-ren wu lan 	任務欄	c=2 d=0.587987 t=697
-ren yi 	任意	c=1 d=0.806541 t=697
-ri 	日	c=1 d=0.895834 t=697
-ri li 	日曆	c=1 d=0.748264 t=697
-ru guo 	如果	c=1 d=0.640824 t=697
-run 	閏	c=1 d=0.774916 t=697
-run nian 	閏年	c=1 d=0.755784 t=697
-san guo yan yi 	三國演義	c=1 d=0.755784 t=697
-san jiao 	三角	c=1 d=0.970446 t=697
-san jiao xing 	三角形	c=1 d=0.78904 t=697
-san jiao xing de 	三角形的	c=1 d=0.704688 t=697
-san yue 	三月	c=0 d=0.099005 t=697
-san yue qi 	三月七	c=1 d=0.99005 t=697
-shan chu 	刪除	c=1 d=0.718924 t=697
-shan chu qu 	闪出去	c=1 d=1.9801e-08 t=697
-shang 	上	c=0 d=0.115319 t=697
-shang ce shi 	上測試	c=1 d=0.647265 t=697
-shang ji wen jian 	上级文件	c=1 d=1.9801e-08 t=697
-shang mian yi ceng 	上面一层	c=1 d=1.9801e-08 t=697
-shang ren mai 	商人买	c=1 d=1.9801e-08 t=697
-shang yi ge 	上一個	c=1 d=0.752014 t=697
-shang yue ke liu liang 	上月客流量	c=1 d=1.9801e-08 t=697
-she ding 	設定	c=0 d=0.060653 t=697
-she ding hao de 	設定好的	c=1 d=0.609571 t=697
-she zhi 	設置	c=2 d=1.67498 t=697
-she zhi biao qian 	设置标签	c=1 d=1.9801e-08 t=697
-shen du 	深度	c=0 d=0.0511708 t=697
-shen gao 	身高	c=1 d=0.704688 t=697
-sheng chan jian she 	生产建设	c=1 d=1.9801e-08 t=697
-sheng cheng 	生成	c=1 d=0.759572 t=697
-sheng tai 	生態	c=3 d=1.65341 t=697
-sheng tai xi tong 	生態系統	c=1 d=0.591556 t=697
-sheng yu 	剩餘	c=4 d=2.39222 t=697
-shi 	事	c=0 d=0.0546075 t=697
-shi 	式	c=0 d=0.0644036 t=697
-shi 	是	c=7 d=3.54747 t=697
-shi 	時	c=1 d=0.995012 t=697
-shi ge zhong 	是各种	c=1 d=1.9801e-08 t=697
-shi ge zhong 	诗歌中	c=1 d=1.9801e-08 t=697
-shi guo 	試過	c=0 d=0.099005 t=697
-shi guo ji ci 	試過幾次	c=1 d=0.99005 t=697
-shi hui fu 	是回复	c=1 d=1.9801e-08 t=697
-shi ji shu 	是奇數	c=1 d=0.995012 t=697
-shi jian 	時間	c=1 d=0.861365 t=697
-shi jie bing bu shi na me de 	世界并不是那么的	c=1 d=1.9801e-08 t=697
-shi ju kao ji 	市局考绩	c=1 d=1.9801e-08 t=697
-shi ju zhu ye 	市局主页	c=1 d=1.9801e-08 t=697
-shi liu se 	十六色	c=1 d=1.9801e-08 t=697
-shi na ge ma 	是那个吗	c=1 d=1.9801e-08 t=697
-shi nian 	時年	c=0 d=0.0918512 t=697
-shi nian qi sui 	時年七歲	c=1 d=0.923117 t=697
-shi ou shu 	是偶數	c=1 d=1 t=697
-shi shi 	試試	c=1 d=0.882497 t=697
-shi shi kan ba 	試試看吧	c=1 d=0.980199 t=697
-shi shi shi shi shi 	施氏食狮史	c=1 d=1.9801e-08 t=697
-shi tu 	試圖	c=1 d=0.687289 t=697
-shi wan quan bu tong de 	是完全不同的	c=1 d=0.54064 t=697
-shi xian 	實現	c=1 d=0.67032 t=697
-shi yan 	實驗	c=1 d=0.618783 t=697
-shi yan 	試驗	c=1 d=0.621885 t=697
-shi yong 	使用	c=0 d=0.0621885 t=697
-shi zhang fa bu 	市长发布	c=1 d=1.9801e-08 t=697
-shi zhang ma 	市长吗	c=1 d=1.9801e-08 t=697
-shi zhong 	時鐘	c=1 d=0.362403 t=697
-shou dong geng xin 	手动更新	c=1 d=1.9801e-08 t=697
-shou ji 	手機	c=2 d=1.35799 t=697
-shou shen 	瘦身	c=1 d=1 t=697
-shou yao 	首要	c=0 d=0.0625003 t=697
-shou yao wen ti shi 	首要問題是	c=1 d=0.628135 t=697
-shu 	數	c=1 d=0.683861 t=697
-shu ju liang ma 	数据量吗	c=1 d=1.9801e-08 t=697
-shu ming sou suo 	署名搜索	c=1 d=1.9801e-08 t=697
-shu ru 	輸入	c=2 d=1.74011 t=697
-shu ru de 	輸入的	c=2 d=1.47805 t=697
-shu ru de shu zi 	輸入的數字	c=1 d=0.955997 t=697
-shu ru fa 	輸入法	c=1 d=0.941764 t=697
-shu ru kuang 	輸入框	c=1 d=0.937067 t=697
-shu xue 	數學	c=1 d=0.955997 t=697
-shu yu 	屬於	c=0 d=0.0474734 t=697
-shu yu shi 	屬於是	c=1 d=0.477114 t=697
-shu zhong 	數中	c=0 d=0.0798516 t=697
-shu zi 	數字	c=4 d=2.10618 t=697
-shu zu 	數組	c=0 d=0.0310367 t=697
-shua xin ma 	刷新吗	c=1 d=1.9801e-08 t=697
-shua zi yuan 	刷资源	c=1 d=1.9801e-08 t=697
-shui geng xin 	谁更新	c=1 d=1.9801e-08 t=697
-shui hu zhuan 	水滸傳	c=1 d=0.767206 t=697
-shui ping chui zhi 	水平垂直	c=1 d=1.9801e-08 t=697
-shui shui shui shui shui 	水水水水水	c=1 d=1.9801e-08 t=697
-shui shui shui shui shui shui 	水水水水水水	c=1 d=1.9801e-08 t=697
-shui shui shui shui shui shui shui 	水水水水水水水	c=1 d=1.9801e-08 t=697
-si mu lin ken 	私募林肯	c=1 d=1.9801e-08 t=697
-si yuan 	思源	c=1 d=0.554327 t=697
-sou suo tiao 	搜索条	c=1 d=1.9801e-08 t=697
-suan 	算	c=1 d=0.740819 t=697
-sui ji 	隨機	c=1 d=0.755783 t=697
-suo chang song 	所唱诵	c=1 d=1.9801e-08 t=697
-suo li lue tu 	所里略图	c=1 d=1.9801e-08 t=697
-suo yi 	所以	c=2 d=1.1553 t=697
-suo yi wo jue de 	所以我覺得	c=1 d=0.465334 t=697
-suo yi yao xian 	所以要先	c=1 d=0.509157 t=697
-ta shang lv tu 	踏上旅途	c=1 d=1.9801e-08 t=697
-ta shuo hou tai 	他说后台	c=1 d=1.9801e-08 t=697
-tai 	態	c=1 d=0.923116 t=697
-tai zhou 	台州	c=1 d=0.97531 t=697
-tai zhou huo che zhan 	台州火车站	c=1 d=1.9801e-08 t=697
-tan gang qin 	彈鋼琴	c=1 d=0.355226 t=697
-tan suo 	探索	c=2 d=0.907415 t=697
-tan suo shi 	探索是	c=1 d=0.571209 t=697
-tan xian 	探險	c=1 d=0.597501 t=697
-tan xing bu ju 	弹性布局	c=1 d=1.9801e-08 t=697
-tang mu 	湯姆	c=1 d=0.353455 t=697
-tao lun 	討論	c=1 d=0.410656 t=697
-tao lun bei 	讨论呗	c=1 d=1.9801e-08 t=697
-teng ge wa 	腾格瓦	c=1 d=1.9801e-08 t=697
-ti jiao 	提交	c=1 d=0.761222 t=697
-ti qu 	提取	c=1 d=0.313486 t=697
-ti wa te 	提瓦特	c=1 d=1.9801e-08 t=697
-ti zhong 	體重	c=2 d=1.42356 t=697
-tian 	天	c=1 d=0.965606 t=697
-tian hui qu 	填回去	c=1 d=1.9801e-08 t=697
-tian qi 	天氣	c=1 d=0.869358 t=697
-tian qi lai ma 	填起来吗	c=1 d=1.9801e-08 t=697
-tian wen 	天文	c=1 d=0.839457 t=697
-tian zai 	天災	c=1 d=0.697676 t=697
-tiao cha yan jiu 	调差研究	c=1 d=1.9801e-08 t=697
-tiao qi lai 	调起来	c=1 d=1.9801e-08 t=697
-tiao tuo yi dian 	跳脱一点	c=1 d=1.9801e-08 t=697
-tiao zheng 	調整	c=1 d=0.597501 t=697
-tiao zhuan 	跳轉	c=2 d=1.16556 t=697
-tong bu 	同步	c=1 d=0.99005 t=697
-tou ming 	透明	c=1 d=0.349938 t=697
-tu xing jia su 	图形加速	c=1 d=1.9801e-08 t=697
-tuan jian gong zuo 	团建工作	c=1 d=1.9801e-08 t=697
-tui chu 	退出	c=3 d=2.34813 t=697
-wa chuan 	挖穿	c=1 d=1.9801e-08 t=697
-wa cuo le 	挖错了	c=1 d=1.9801e-08 t=697
-wa di ban 	挖地版	c=1 d=1.9801e-08 t=697
-wai 	外	c=0 d=0.0390628 t=697
-wai mian hui 	外面会	c=1 d=1.9801e-08 t=697
-wan jia 	玩家	c=2 d=1.81405 t=697
-wan jia de 	玩家的	c=1 d=0.726149 t=697
-wan jia neng 	玩家能	c=1 d=0.794534 t=697
-wan li chang zheng ren wei huan 	万里长征人未还	c=1 d=1.9801e-08 t=697
-wan quan bu tong 	完全不同	c=0 d=0.0537945 t=697
-wan shan 	完善	c=1 d=0.585669 t=697
-wang 	網	c=2 d=1.42492 t=697
-wang cheng nan zhan fang xiang 	王成南站方向	c=1 d=1.9801e-08 t=697
-wang na ge fang xiang gai ne 	往那个方向改呢	c=1 d=1.9801e-08 t=697
-wei 	位	c=2 d=1.73906 t=697
-wei 	僞	c=0 d=0.0941765 t=697
-wei 	爲	c=2 d=1.33677 t=697
-wei han shu 	僞函數	c=1 d=0.946485 t=697
-wei kong 	爲空	c=1 d=0.97531 t=697
-wei shu 	位數	c=2 d=1.78724 t=697
-wei xing 	衛星	c=1 d=0.831104 t=697
-wei zhi 	位置	c=1 d=0.29523 t=697
-wei zhi de 	未知的	c=1 d=0.865022 t=697
-wei zhu 	爲主	c=0 d=0.0386741 t=697
-wen 	問	c=0 d=0.0546075 t=697
-wen dang 	文檔	c=1 d=0.913931 t=697
-wen jian 	文件	c=0 d=0.070574 t=697
-wen jian jia 	文件夾	c=1 d=0.878095 t=697
-wen ming 	文明	c=1 d=0.941764 t=697
-wen ti lai de 	问题来的	c=1 d=1.9801e-08 t=697
-wen ti shi 	問題是	c=0 d=0.0625003 t=697
-wen zi gun dong 	文字滚动	c=1 d=1.9801e-08 t=697
-wo 	我	c=4 d=1.91721 t=697
-wo bu 	我不	c=0 d=0.0554327 t=697
-wo bu jue de 	我不覺得	c=1 d=0.557106 t=697
-wo bu shi 	我不是	c=1 d=0.501576 t=697
-wo bu tai jue ding 	我不太决定	c=1 d=1.9801e-08 t=697
-wo dao shi 	我倒是	c=1 d=0.496585 t=697
-wo de 	我的	c=1 d=0.489193 t=697
-wo de zi ti shi 	我的字体是	c=1 d=1.9801e-08 t=697
-wo dou bu mai de 	我都不买的	c=1 d=1.9801e-08 t=697
-wo hai shi 	我還是	c=1 d=0.985111 t=697
-wo huo xu ke yi bang ni kan kan 	我或许可以帮你看看	c=1 d=1.9801e-08 t=697
-wo jue de 	我覺得	c=1 d=0.709953 t=697
-wo shi 	我是	c=0 d=0.0729789 t=697
-wo shi zi fu chuan 	我是字符串	c=1 d=0.733447 t=697
-wo wen dang mei kan dong 	我文档没看懂	c=1 d=1.9801e-08 t=697
-wo xi wang 	我希望	c=0 d=0.0786628 t=697
-wo xi wang shi 	我希望是	c=2 d=1.63846 t=697
-wo xiang 	我想	c=1 d=0.82309 t=697
-wo xiang dao 	我想到	c=1 d=0.657047 t=697
-wo xiang rang ta 	我想讓它	c=1 d=0.752014 t=697
-wo xiu hao 	我修好	c=1 d=1.9801e-08 t=697
-wo yi 	我以	c=0 d=0.0557106 t=697
-wo yi hou hui 	我以後回	c=1 d=0.559898 t=697
-wo zhi zhong guo 	我只种过	c=1 d=1.9801e-08 t=697
-wo zi ji 	我自己	c=1 d=0.970446 t=697
-wu 	無	c=1 d=1 t=697
-wu bian wu ji 	無邊無際	c=0 d=0.0637628 t=697
-wu bian wu ji de 	無邊無際的	c=1 d=0.640825 t=697
-wu bian xing 	五邊形	c=2 d=1.88014 t=697
-wu fa 	無法	c=1 d=0.666977 t=697
-wu jiao xing 	五角星	c=1 d=0.985112 t=697
-wu shi 	五十	c=1 d=0.995012 t=697
-wu xiao 	無效	c=1 d=0.826959 t=697
-wu xing hong qi 	五星紅旗	c=1 d=1 t=697
-wu yang shi 	無样式	c=1 d=1.9801e-08 t=697
-xi tong 	系統	c=1 d=0.45612 t=697
-xi tong wen jian jia 	系统文件夹	c=1 d=1.9801e-08 t=697
-xi you ji 	西遊記	c=1 d=0.763379 t=697
-xi zang zang zu zi zhi qu 	西藏藏族自治区	c=1 d=1.9801e-08 t=697
-xia de 	嚇得	c=0 d=0.0960789 t=697
-xia de wo 	嚇得我	c=1 d=0.965605 t=697
-xian 	先	c=1 d=0.97531 t=697
-xian cong 	先從	c=2 d=0.791796 t=697
-xian shi hang hao 	显示行号	c=1 d=1.9801e-08 t=697
-xian shi ju qu dao hang 	县市局区导航	c=1 d=1.9801e-08 t=697
-xian shi zhong hao xiang 	现实中好像	c=1 d=1.9801e-08 t=697
-xian zai 	現在	c=3 d=1.41292 t=697
-xian zai yong gang 	现在用钢	c=1 d=1.9801e-08 t=697
-xian zuo 	先做	c=0 d=0.0548811 t=697
-xian zuo ma 	先做嘛	c=1 d=0.551563 t=697
-xiang 	向	c=0 d=0.0298197 t=697
-xiang cang 	像仓	c=1 d=1.9801e-08 t=697
-xiang da di 	向大地	c=1 d=1.9801e-08 t=697
-xiang mu 	項目	c=1 d=0.790571 t=697
-xiang shou 	享受	c=0 d=0.0366044 t=697
-xiang shou jia qi bei 	享受假期唄	c=1 d=0.36788 t=697
-xiang tong gui ge 	相同规格	c=1 d=1.9801e-08 t=697
-xiang xiang 	想想	c=1 d=0.369723 t=697
-xiang zi zu jian 	向子組件	c=1 d=0.299692 t=697
-xiang zuo 	想做	c=1 d=0.386741 t=697
-xiao 	小	c=2 d=1.50522 t=697
-xiao de 	小的	c=1 d=0.380983 t=697
-xiao jian pan 	小鍵盤	c=1 d=0.634448 t=697
-xiao li yu 	小鯉魚	c=1 d=0.941765 t=697
-xiao lv fa 	效率法	c=1 d=1.9801e-08 t=697
-xiao yu 	小於	c=0 d=0.0878095 t=697
-xie shen le 	邪神了	c=1 d=1.9801e-08 t=697
-xie xie 	謝謝	c=2 d=1.55421 t=697
-xin chuang ge 	新窗格	c=1 d=1.9801e-08 t=697
-xin hang 	新行	c=1 d=1.9801e-08 t=697
-xin wen ju jiao 	新闻聚焦	c=1 d=1.9801e-08 t=697
-xin xi 	信息	c=1 d=0.70822 t=697
-xin xin 	信心	c=1 d=0.433874 t=697
-xin xiong xia ai 	心胸狹隘	c=0 d=0.0960789 t=697
-xing 	性	c=1 d=0.680451 t=697
-xing 	行	c=0 d=0.0546075 t=697
-xing bie 	性別	c=2 d=1.36774 t=697
-xing cheng 	形成	c=1 d=0.711771 t=697
-xing ming 	姓名	c=1 d=0.951229 t=697
-xing qi ri 	星期日	c=2 d=1.74312 t=697
-xing qiong 	星穹	c=1 d=1.9801e-08 t=697
-xing qiong tie dao 	星穹铁道	c=1 d=1.9801e-08 t=697
-xing qiu 	星球	c=1 d=0.677056 t=697
-xing qu ai hao 	兴趣愛好	c=1 d=1.9801e-08 t=697
-xiu zheng 	修正	c=1 d=0.860708 t=697
-xu lie er 	序列二	c=1 d=1.9801e-08 t=697
-xu ni tian wen guan 	虚拟天文馆	c=1 d=1.9801e-08 t=697
-xu yao kao lv ma 	需要考虑吗	c=1 d=1.9801e-08 t=697
-xuan lei bie 	选类别	c=1 d=1.9801e-08 t=697
-xuan ran 	渲染	c=1 d=0.339017 t=697
-xuan ran han shu 	渲染函數	c=2 d=0.596758 t=697
-xuan ze 	選擇	c=1 d=0.562705 t=697
-xue ju 	雪居	c=1 d=1.9801e-08 t=697
-xue xi 	學習	c=1 d=0.869358 t=697
-xun fang da dui 	巡防大队	c=1 d=1.9801e-08 t=697
-xun huan ne 	循环呢	c=1 d=1.9801e-08 t=697
-yan he zhi beng 	岩壑之崩	c=1 d=1.9801e-08 t=697
-yan zheng ma 	驗證碼	c=1 d=0.96079 t=697
-yang zi 	樣子	c=1 d=0.683861 t=697
-yao 	要	c=0 d=0.160259 t=697
-yao deng lu le 	要登錄了	c=1 d=0.955997 t=697
-yao kai shi 	要開始	c=1 d=0.444858 t=697
-yao sai nei bu 	要塞内部	c=1 d=1.9801e-08 t=697
-yao xian 	要先	c=0 d=0.0506617 t=697
-yao yi zhe zhong 	要以这种	c=1 d=1.9801e-08 t=697
-yao zai 	要在	c=1 d=0.644036 t=697
-ye dou zhao bu dao 	也都找不到	c=1 d=1.9801e-08 t=697
-ye jiu shi shuo 	也就是說	c=0 d=0.0711771 t=697
-ye kai le de 	也开了的	c=1 d=1.9801e-08 t=697
-ye mei she 	也没设	c=1 d=1.9801e-08 t=697
-yi 	一	c=3 d=2.3743 t=697
-yi 	咦	c=1 d=0.932394 t=697
-yi an se 	一暗色	c=1 d=1.9801e-08 t=697
-yi ban 	一般	c=1 d=0.927743 t=697
-yi ban jiao shen me a 	一般叫什么啊	c=1 d=1.9801e-08 t=697
-yi dong 	移動	c=2 d=1.23041 t=697
-yi fu dong hua tu xiang 	一幅动画图象	c=1 d=1.9801e-08 t=697
-yi lai 	依賴	c=1 d=0.400517 t=697
-yi mei 	一昧	c=0 d=0.0882497 t=697
-yi mei de 	一昧的	c=1 d=0.88692 t=697
-yi nei 	以內	c=0 d=0.0941765 t=697
-yi nei de 	以內的	c=1 d=0.946485 t=697
-yi pian liang pian 	一片两片	c=1 d=1.9801e-08 t=697
-yi shang miao shu 	以上描述	c=1 d=1.9801e-08 t=697
-yi sheng ming 	已声明	c=1 d=1.9801e-08 t=697
-yi tiao jie yi tiao 	一条接一条	c=1 d=1.9801e-08 t=697
-yi wang ju shou 	遗忘巨兽	c=1 d=1.9801e-08 t=697
-yi xia ba 	一下吧	c=1 d=0.946485 t=697
-yi zhi 	已知	c=1 d=0.99005 t=697
-yin cang 	隱藏	c=1 d=0.304222 t=697
-yin shan xia 	阴山下	c=1 d=1.9801e-08 t=697
-yin yong 	引用	c=2 d=0.722944 t=697
-ying gai 	應該	c=1 d=0.29671 t=697
-ying hua 	櫻花	c=2 d=0.630906 t=697
-ying yong 	應用	c=1 d=0.625002 t=697
-ying yong dao hang xi tong 	应用导航系统	c=1 d=1.9801e-08 t=697
-yong hu ming 	用戶名	c=3 d=1.9706 t=697
-you 	優	c=1 d=0.831104 t=697
-you 	又	c=0 d=0.0332871 t=697
-you 	有	c=1 d=0.856931 t=697
-you dian que 	有点缺	c=1 d=1.9801e-08 t=697
-you ge ai ren 	有个矮人	c=1 d=1.9801e-08 t=697
-you hua 	優化	c=2 d=1.97516 t=697
-you ji ge 	有幾個	c=1 d=0.66365 t=697
-you jie tu ma 	有截图吗	c=1 d=1.9801e-08 t=697
-you la 	优菈	c=1 d=1.9801e-08 t=697
-you lou ti 	有楼梯	c=1 d=1.9801e-08 t=697
-you shi fu 	尤师傅	c=1 d=1.9801e-08 t=697
-you shui de 	有水的	c=1 d=1.9801e-08 t=697
-you tiao xian 	有条线	c=1 d=1.9801e-08 t=697
-you wei shen me 	又为什么	c=1 d=1.9801e-08 t=697
-you wu 	有誤	c=1 d=0.923116 t=697
-you xi 	遊戲	c=1 d=0.436253 t=697
-you xi di 	遊戲第	c=1 d=0.744532 t=697
-you xi di tu 	遊戲地圖	c=1 d=0.631283 t=697
-you xiu 	優秀	c=1 d=0.904837 t=697
-you yao 	又要	c=0 d=0.0790571 t=697
-you yao deng lu 	又要登錄	c=1 d=0.794534 t=697
-you yi quan 	又一圈	c=1 d=1.9801e-08 t=697
-you zhang hao 	有帳號	c=1 d=0.951229 t=697
-yu bei 	預備	c=0 d=0.099005 t=697
-yu bei ti jiao 	預備提交	c=1 d=0.99005 t=697
-yuan 	原	c=1 d=0.283654 t=697
-yuan fang 	元芳	c=1 d=0.918512 t=697
-yuan gong 	員工	c=0 d=0.0771052 t=697
-yuan gong gong zi 	員工工資	c=1 d=0.774916 t=697
-yuan shen 	原神	c=3 d=0.560262 t=697
-yuan su zhou qi 	元素周期	c=1 d=1.9801e-08 t=697
-yuan xing 	原型	c=1 d=0.852144 t=697
-yue 	月	c=2 d=1.47704 t=697
-yue xia feng lai 	月下风来	c=1 d=1.9801e-08 t=697
-yun cheng 	匀称	c=1 d=1.9801e-08 t=697
-yun dong 	運動	c=1 d=0.853578 t=697
-yun dong shi jian 	運動時間	c=1 d=0.790571 t=697
-yun mo se 	云墨色	c=1 d=1.9801e-08 t=697
-yun suan fu 	運算符	c=1 d=0.937067 t=697
-yun zuo gui ze 	运作规则	c=1 d=1.9801e-08 t=697
-za a a a 	咋啊啊啊	c=1 d=1.9801e-08 t=697
-zai gun 	再滚	c=1 d=1.9801e-08 t=697
-zai run 	再閏	c=1 d=0.763379 t=697
-zai wai mao shang 	在外貌上	c=1 d=1.9801e-08 t=697
-zai xian 	在線	c=1 d=0.88692 t=697
-zai zhe 	在這	c=0 d=0.057695 t=697
-zai zhe zhi shang 	在這之上	c=1 d=0.579841 t=697
-zang song 	葬送	c=0 d=0.0273898 t=697
-zang song de 	葬送的	c=2 d=0.551921 t=697
-zao jian ta 	造箭塔	c=1 d=1.9801e-08 t=697
-zao yi gei chu 	早已给出	c=1 d=1.9801e-08 t=697
-zen me 	怎麼	c=2 d=1.11244 t=697
-zen me ban 	怎麼辦	c=0 d=0.065377 t=697
-zen me ban ne 	怎麼辦呢	c=1 d=0.657047 t=697
-zen me shuo 	怎麼說	c=1 d=0.913931 t=697
-zen me yang le 	怎麼樣了	c=0 d=0.097531 t=697
-zha dan 	炸彈	c=1 d=0.822835 t=697
-zhan yong 	佔用	c=1 d=0.289385 t=697
-zhang hao 	帳號	c=0 d=0.0946485 t=697
-zhang san 	張三	c=3 d=2.14618 t=697
-zhang xiang jun mei 	长相俊美	c=1 d=1.9801e-08 t=697
-zhao ci bai di cai yun jian 	朝辞白帝彩云间	c=1 d=1.9801e-08 t=697
-zhao ni 	找你	c=0 d=0.0465334 t=697
-zhao ni liao liao 	找你聊聊	c=1 d=0.467667 t=697
-zhe bian 	這邊	c=0 d=0.089277 t=697
-zhe bian you bu xing le 	這邊又不行了	c=1 d=0.33454 t=697
-zhe bu fen 	這部分	c=1 d=0.474734 t=697
-zhe bu shi 	這不是	c=1 d=0.486752 t=697
-zhe duan 	遮断	c=1 d=1.9801e-08 t=697
-zhe ge 	這個	c=3 d=1.78835 t=697
-zhe ge nian 	这个念	c=1 d=1.9801e-08 t=697
-zhe ge shi shen me dong xi 	这个是什么东西	c=1 d=1.9801e-08 t=697
-zhe jiang 	浙江	c=1 d=0.970446 t=697
-zhe li 	這裏	c=1 d=0.600496 t=697
-zhe li you ge bao cuo 	这里有个报错	c=1 d=1.9801e-08 t=697
-zhe li zhe ge 	这里这个	c=1 d=1.9801e-08 t=697
-zhe shi kou hao 	这是口号	c=1 d=1.9801e-08 t=697
-zhe zu 	這組	c=0 d=0.0798516 t=697
-zhe zu shu zhong 	這組數中	c=1 d=0.802519 t=697
-zheng chu 	整除	c=1 d=0.980199 t=697
-zheng ge 	整個	c=2 d=1.26228 t=697
-zheng que 	正確	c=1 d=0.869358 t=697
-zhi 	值	c=3 d=1.58825 t=697
-zhi ban qing kuang 	值班情况	c=1 d=1.9801e-08 t=697
-zhi chi 	支持	c=1 d=0.985112 t=697
-zhi jie dao yan jiang 	直接到岩浆	c=1 d=1.9801e-08 t=697
-zhi qian di xia 	之前地下	c=1 d=1.9801e-08 t=697
-zhi shang 	之上	c=0 d=0.057695 t=697
-zhi shao lian xu 	至少连续	c=1 d=1.9801e-08 t=697
-zhi wu ji 	植物集	c=1 d=1.9801e-08 t=697
-zhi xue you yong de 	只学有用的	c=1 d=1.9801e-08 t=697
-zhi ye 	職業	c=1 d=0.491644 t=697
-zhong duan pei zhi 	终端配置	c=1 d=1.9801e-08 t=697
-zhong jian xian de 	中间线的	c=1 d=1.9801e-08 t=697
-zhong jian xuan zhe 	中间悬着	c=1 d=1.9801e-08 t=697
-zhong tian 	種田	c=0 d=0.0390628 t=697
-zhong tian wai 	種田外	c=1 d=0.392585 t=697
-zhong zi a 	种子啊	c=1 d=1.9801e-08 t=697
-zhu cang 	貯藏	c=1 d=0.909373 t=697
-zhu ce biao 	註冊表	c=3 d=1.94831 t=697
-zhu ling 	猪灵	c=1 d=1.9801e-08 t=697
-zhu mian guan li 	煮面管理	c=1 d=1.9801e-08 t=697
-zhu ti 	主題	c=1 d=0.574072 t=697
-zhu wei cao 	猪尾草	c=1 d=1.9801e-08 t=697
-zhu zi 	朱紫	c=1 d=1.9801e-08 t=697
-zhuan tou zai kan kan 	转头再看看	c=1 d=1.9801e-08 t=697
-zhuo mian 	桌面	c=1 d=0.97531 t=697
-zhuo mian feng ge 	桌面风格	c=1 d=1.9801e-08 t=697
-zi 	子	c=0 d=0.0298197 t=697
-zi 	字	c=3 d=2.07947 t=697
-zi fu 	字符	c=2 d=1.53788 t=697
-zi fu chuan 	字符串	c=0 d=0.0729789 t=697
-zi ran 	自然	c=1 d=0.70822 t=697
-zi ran shu 	自然數	c=1 d=0.677057 t=697
-zi ti 	字體	c=1 d=0.847894 t=697
-zi ti jian bian 	字体渐变	c=1 d=1.9801e-08 t=697
-zi yuan su bu shou 	子元素不受	c=1 d=1.9801e-08 t=697
-zong bu neng 	總不能	c=1 d=0.603506 t=697
-zong zhi 	總之	c=1 d=0.621885 t=697
-zu 	足	c=1 d=0.985111 t=697
-zu jian 	組件	c=2 d=1.2133 t=697
-zui da 	最大	c=0 d=0.0321422 t=697
-zui da de 	最大的	c=1 d=0.806541 t=697
-zui hao neng 	最好能	c=1 d=0.666977 t=697
-zui xiao de 	最小的	c=0 d=0.0814647 t=697
-zui xiao de zhi 	最小的值	c=1 d=0.818731 t=697
-zui xin de 	最新的	c=1 d=0.873716 t=697
-zun shou 	遵守	c=1 d=0.891367 t=697
-zuo 	作	c=1 d=0.904837 t=697
-zuo biao 	坐標	c=1 d=0.729789 t=697
-zuo biao xi 	座標系	c=1 d=0.965605 t=697
-zuo cheng 	做成	c=1 d=0.637628 t=697
-zuo hao 	做好	c=1 d=0.377192 t=697
-zuo le 	做了	c=1 d=0.346456 t=697
-zuo ri ke liu liang 	昨日客流量	c=1 d=1.9801e-08 t=697
-zuo shou 	左手	c=1 d=0.960789 t=697
+a bei duo 	阿贝多	c=1 d=1.9801e-08 t=1076
+a ka na 	阿卡那	c=1 d=1.9801e-08 t=1076
+ai da 	艾達	c=1 d=0.99005 t=1076
+ai hao 	愛好	c=1 d=1.9801e-08 t=1076
+ai ren yao sai 	矮人要塞	c=2 d=0.895834 t=1076
+ai ren yao sai ma 	矮人要塞吗	c=1 d=1.9801e-08 t=1076
+an jian 	按鍵	c=0 d=0.00277367 t=1076
+an jian 	案件	c=0 d=0.00275983 t=1076
+an jian bang ding 	按鍵綁定	c=1 d=0.0278757 t=1076
+an jian bang ding 	案件綁定	c=1 d=0.0277367 t=1076
+an ju 	暗橘	c=1 d=1.9801e-08 t=1076
+an pai 	安排	c=0 d=0.0839457 t=1076
+an pai shang 	安排上	c=1 d=0.843665 t=1076
+an zhuang 	安裝	c=0 d=0.0951229 t=1076
+an zhuang chu cuo 	安裝出錯	c=1 d=0.955997 t=1076
+ba 	吧	c=2 d=1.61126 t=1076
+ba 	把	c=1 d=0.341298 t=1076
+ba zhou wei yi quan 	把周围一圈	c=1 d=1.9801e-08 t=1076
+bai 	白	c=1 d=0.955997 t=1076
+bai ji ge 	摆几个	c=1 d=1.9801e-08 t=1076
+bai nian 	百年	c=1 d=0.767206 t=1076
+bai se de 	白色的	c=1 d=1 t=834
+ban ben 	版本	c=2 d=0.621885 t=1076
+ban cheng pin 	半成品	c=1 d=1 t=1008
+ban jiao zi fu 	半角字符	c=1 d=1.9801e-08 t=1076
+ban yan you xi 	扮演游戏	c=1 d=1.9801e-08 t=1076
+bang ding 	綁定	c=0 d=0.00553349 t=1076
+bao 	寶	c=1 d=0.532591 t=1076
+bao ke meng 	包可夢	c=1 d=0.529935 t=1076
+bao liu 	保留	c=0 d=0.1 t=875
+bao qi 	抱起	c=0 d=0.0965605 t=1076
+bao qi le 	抱起了	c=1 d=0.970446 t=1076
+bao zhe 	抱着	c=1 d=1.04924 t=1076
+bao zhe wo de 	抱着我的	c=1 d=0.937067 t=1076
+bao zhuang 	包裝	c=1 d=1 t=930
+bei 	唄	c=0 d=0.0366044 t=1076
+bei 	被	c=0 d=0.0965605 t=1076
+bei 	貝	c=0 d=0.1 t=965
+bei chong bai 	被崇拜	c=1 d=1.9801e-08 t=1076
+bei jing gong an 	北京公安	c=1 d=1.9801e-08 t=1076
+bei sai er 	貝塞爾	c=3 d=2.44656 t=1054
+ben ci 	本次	c=1 d=0.849321 t=1076
+ben di 	本地	c=1 d=0.97531 t=1076
+beng tie 	崩铁	c=1 d=1.9801e-08 t=1076
+bi 	比	c=1 d=1 t=995
+bi 	筆	c=1 d=1 t=1048
+bi ji ben 	筆記本	c=1 d=1 t=913
+bi jiao 	比較	c=2 d=0.859222 t=1076
+bi li 	比例	c=3 d=2.81151 t=1076
+bi qu jian 	閉區間	c=1 d=0.763379 t=1076
+bi ru shuo 	比如說	c=1 d=0.522045 t=1076
+bi xu shi 	必須是	c=1 d=0.882497 t=1076
+bian chang 	邊長	c=1 d=1 t=1076
+bian cheng 	變成	c=1 d=1 t=1034
+bian hao sou suo 	编号搜索	c=1 d=1.9801e-08 t=1076
+bian hua 	變化	c=1 d=0.873716 t=1076
+bian ji qi zu 	编辑器组	c=1 d=1.9801e-08 t=1076
+bian jia qiang 	便加强	c=1 d=1.9801e-08 t=1076
+bian liang 	變量	c=1 d=0.733447 t=1076
+biao 	表	c=1 d=0.740818 t=1076
+biao da shi 	表達式	c=1 d=0.99005 t=1076
+biao liang lei xing 	标量类型	c=1 d=1.9801e-08 t=1076
+biao ti 	標題	c=1 d=1 t=1076
+biao xian 	表現	c=1 d=1 t=979
+bing bu 	並不	c=0 d=0.190032 t=1011
+bing bu dou shi 	並不都是	c=1 d=1 t=991
+bing bu shi 	並不是	c=1 d=1 t=1015
+bing qi ku 	兵器库	c=1 d=1.9801e-08 t=1076
+bing qie hui 	並且會	c=1 d=1 t=878
+bo fang kong jian 	播放控件	c=1 d=1.9801e-08 t=1076
+bu 	不	c=1 d=0.937067 t=1076
+bu bi yao de 	不必要的	c=2 d=1.86936 t=1076
+bu dan xin 	不擔心	c=1 d=0.499074 t=1076
+bu dui 	不對	c=1 d=0.71177 t=1076
+bu fen 	部分	c=1 d=0.708346 t=1076
+bu gan huo er 	不干活儿	c=1 d=1.9801e-08 t=1076
+bu guo 	不過	c=0 d=0.099005 t=1076
+bu guo you duan shi jian mei wan le 	不過有段時間沒玩了	c=1 d=0.99005 t=1076
+bu he fa 	不合法	c=1 d=0.960789 t=1076
+bu hui 	不會	c=1 d=1 t=873
+bu ji ge 	不及格	c=3 d=1.90121 t=1076
+bu ke yi 	不可以	c=1 d=1.06217 t=1076
+bu ke yi bei 	不可以被	c=1 d=0.970446 t=1076
+bu men tong xun 	部门通讯	c=2 d=0.183599 t=1076
+bu nan 	不難	c=1 d=0.440432 t=1076
+bu neng 	不能	c=1 d=1.04453 t=1076
+bu neng she zhi 	不能設置	c=1 d=1 t=826
+bu qi 	不起	c=1 d=1 t=849
+bu quan 	補全	c=0 d=0.097531 t=1076
+bu ran 	不然	c=1 d=0.76338 t=1076
+bu ren shi 	不認識	c=0 d=0.067368 t=1076
+bu ren shi de 	不認識的	c=1 d=0.677057 t=1076
+bu run 	不潤	c=1 d=0.771052 t=1076
+bu shi 	不是	c=1 d=0.67368 t=1076
+bu shi wo xiang yao 	不是我想要	c=1 d=1.9801e-08 t=1076
+bu sui ma 	不随吗	c=1 d=1.9801e-08 t=1076
+bu tong 	不同	c=1 d=0.610888 t=1076
+bu tong ping tai 	不同平臺	c=1 d=0.980199 t=1076
+bu tong zhi chu 	不同之處	c=1 d=1 t=981
+bu xian shi 	不顯示	c=0 d=0.1 t=720
+bu xing le 	不行了	c=0 d=0.0332871 t=1076
+bu zhi chi 	不支持	c=2 d=1.99005 t=1053
+bu zhi dao 	不知道	c=1 d=0.543351 t=1076
+bu zu 	補足	c=0 d=0.099005 t=1076
+cai dui 	猜對	c=0 d=0.0852144 t=1076
+cai dui le 	猜對了	c=1 d=0.856415 t=1076
+can kao 	參考	c=1 d=1 t=881
+can shu 	參數	c=3 d=1.31796 t=1076
+cao zuo 	操作	c=2 d=0.571209 t=1076
+ce 	側	c=1 d=1 t=797
+ce hua 	策劃	c=1 d=0.447088 t=1076
+ce shi 	測試	c=4 d=1.25111 t=1076
+cen 	岑	c=0 d=0.0946485 t=1076
+cen fu zi 	岑夫子	c=1 d=0.951229 t=1076
+cha cha 	叉叉	c=1 d=1 t=768
+cha kan 	查看	c=1 d=1 t=794
+cha ma ke 	查马克	c=1 d=1.9801e-08 t=1076
+cha ru 	插入	c=1 d=1 t=860
+cha zhao 	查找	c=0 d=0.1 t=939
+cha zhao qi 	查找器	c=1 d=1 t=940
+chai fen 	拆分	c=1 d=1 t=883
+chang du 	長度	c=1 d=0.778805 t=1076
+chang du wei 	長度爲	c=1 d=0.67368 t=1076
+chang liang 	常量	c=1 d=0.960789 t=1076
+chang shi 	嘗試	c=1 d=0.582748 t=1076
+chang shi guo 	嘗試過	c=1 d=1 t=1009
+chao chu 	超出	c=0 d=0.0909373 t=1076
+che xiao 	撤銷	c=1 d=0.637628 t=1076
+cheng 	乘	c=2 d=1.76885 t=1076
+cheng ji 	成績	c=3 d=2.71944 t=1076
+chong fu 	重複	c=1 d=1 t=1076
+chong man le ai 	充满了爱	c=1 d=1.9801e-08 t=1076
+chong zai 	重載	c=1 d=0.941765 t=1076
+chu 	出	c=0 d=0.1 t=1046
+chu 	除	c=1 d=0.390628 t=1076
+chu cuo 	出錯	c=0 d=0.0951229 t=1076
+chu fa 	觸發	c=2 d=0.588484 t=1076
+chu li 	處理	c=1 d=1 t=929
+chu mo ban 	觸摸板	c=2 d=0.634123 t=1076
+chu mo shun chang de 	出墨順暢的	c=1 d=1 t=1047
+chu sheng 	出生	c=0 d=0.0737123 t=1076
+chu shi hua zhong 	初始化中	c=1 d=1.9801e-08 t=1076
+chu zhong 	初中	c=0 d=0.0501576 t=1076
+chu zhong jiu kai shi 	初中就開始	c=1 d=0.50409 t=1076
+chuang ge 	窗格	c=5 d=2.93164 t=1076
+chuang kou 	窗口	c=2 d=1.25041 t=1076
+chun hua 	唇化	c=1 d=1.9801e-08 t=1076
+ci 	此	c=1 d=1 t=973
+ci bai di 	辞白帝	c=1 d=1.9801e-08 t=1076
+ci fen fa 	此分发	c=1 d=1.9801e-08 t=1076
+cong zuo wang you ma 	从左往右吗	c=1 d=1.9801e-08 t=1076
+da bu kai 	打不開	c=1 d=0.67032 t=1076
+da gai 	大概	c=0 d=0.0615697 t=1076
+da gai ba 	大概吧	c=1 d=0.618783 t=1076
+da geng ren 	打更人	c=1 d=1.9801e-08 t=1076
+da kai 	打開	c=1 d=0.66034 t=1076
+da lie ri 	达列日	c=1 d=1.9801e-08 t=1076
+da suan 	打算	c=1 d=0.384813 t=1076
+da suan wen ni de 	打算问你的	c=1 d=1.9801e-08 t=1076
+da xiao 	大小	c=1 d=0.603506 t=1076
+da yu 	大於	c=1 d=0.891366 t=1076
+da zi 	打字	c=1 d=1 t=772
+dai ma 	代碼	c=3 d=1.31754 t=1076
+dai ma gao liang 	代碼高亮	c=2 d=1.97045 t=970
+dai zu zi zhi qu 	傣族自治区	c=1 d=1.9801e-08 t=1076
+dan 	但	c=3 d=1.0115 t=1076
+dan 	單	c=1 d=0.319819 t=1076
+dan du 	單獨	c=1 d=1 t=726
+dan hao xiang zen me de 	但好像怎麼的	c=1 d=1 t=924
+dan heng 	丹恒	c=1 d=1.9801e-08 t=1076
+dan na yang de hua 	但那樣的話	c=1 d=0.722527 t=1076
+dan qiu sheng 	丹丘生	c=1 d=0.955997 t=1076
+dan shi 	但是	c=1 d=1 t=848
+dan wei ding yi 	单位定义	c=1 d=1.9801e-08 t=1076
+dan wen jian 	但文件	c=1 d=0.318224 t=1076
+dan xia mian de 	但下面的	c=1 d=1.9801e-08 t=1076
+dan xing hao shi mo wen qian cheng 	但行好事莫問前程	c=1 d=0.548811 t=1076
+dang qian 	當前	c=2 d=1.35701 t=958
+dao 	到	c=1 d=1 t=912
+dao chu 	導出	c=1 d=0.315058 t=1076
+dao huo 	倒貨	c=2 d=0.861332 t=1076
+dao ru 	導入	c=1 d=0.535261 t=1076
+dao shi 	倒是	c=1 d=0.438235 t=1076
+dao zhi de 	導致的	c=1 d=1 t=1022
+de 	得	c=1 d=1 t=1035
+de 	的	c=24 d=6.93526 t=1076
+de bu fen 	的部分	c=1 d=0.429557 t=1076
+de fen 	得分	c=1 d=0.752014 t=1076
+de gao 	的高	c=1 d=0.985112 t=1076
+de hua 	的話	c=1 d=0.650509 t=1076
+de shu zi 	的數字	c=0 d=0.0826959 t=1076
+de wo 	的我	c=1 d=0.960789 t=1076
+de zhi 	的值	c=1 d=0.740818 t=1076
+deng hao 	等號	c=1 d=0.631284 t=1076
+deng jiu 	灯就	c=1 d=1.9801e-08 t=1076
+deng lu 	登錄	c=1 d=0.941764 t=1076
+deng lu jie mian 	登陆界面	c=1 d=1.9801e-08 t=1076
+di 	第	c=1 d=0.800232 t=1076
+di bian 	底邊	c=1 d=0.70822 t=1076
+di bu dao hang 	底部导航	c=1 d=1.9801e-08 t=1076
+di di xia de 	地底下的	c=1 d=1.9801e-08 t=1076
+di er ge 	第二個	c=1 d=0.694197 t=1076
+di fang 	地方	c=1 d=1 t=1001
+di liu cheng zhi 	地六成之	c=1 d=1 t=767
+di qiu 	地球	c=1 d=0.774917 t=1076
+di tu 	地圖	c=0 d=0.0628135 t=1076
+di tu 	底圖	c=1 d=1 t=744
+di xia na ge 	底下那个	c=1 d=1.9801e-08 t=1076
+di xia zhe ge 	地下这个	c=1 d=1.9801e-08 t=1076
+di xia zhe ge 	底下这个	c=1 d=1.9801e-08 t=1076
+di yi ge 	第一個	c=1 d=0.680451 t=1076
+dian 	點	c=1 d=0.740824 t=924
+dian ji 	點擊	c=0 d=0.0873716 t=1076
+dian ji wo 	點擊我	c=1 d=0.878095 t=1076
+dian zi you xiang 	電子郵箱	c=1 d=1 t=738
+diao yong 	調用	c=1 d=0.302704 t=1076
+die dai 	迭代	c=1 d=0.665525 t=1048
+die dai fang fa 	迭代方法	c=1 d=1 t=1049
+ding bu 	頂部	c=1 d=1 t=778
+ding li 	定理	c=0 d=0.1 t=1043
+ding shi qi 	定時器	c=1 d=0.748264 t=1076
+ding yi a 	定义啊	c=1 d=1.9801e-08 t=1076
+dou liu ma 	逗留吗	c=1 d=1.9801e-08 t=1076
+dou nong guo lai 	都弄过来	c=1 d=1.9801e-08 t=1076
+dou shi 	都是	c=0 d=0.1 t=990
+du 	度	c=1 d=1 t=828
+du cha tong bao 	督查通报	c=1 d=1.9801e-08 t=1076
+du li 	獨立	c=0 d=0.1 t=907
+du li shi xian 	獨立實現	c=1 d=0.973716 t=935
+du li shi xian de 	獨立實現的	c=1 d=1 t=936
+duan 	端	c=0 d=0.1 t=953
+duan shi jian 	段時間	c=0 d=0.099005 t=1076
+dui 	對	c=2 d=1.11545 t=1076
+dui de 	對的	c=1 d=0.56836 t=1076
+dui die er da lu 	堆叠而大陆	c=1 d=1.9801e-08 t=1076
+dui jiao xian 	對角線	c=1 d=0.980199 t=1076
+dui wo ye 	对我也	c=1 d=1.9801e-08 t=1076
+dui xiang 	對象	c=2 d=0.918512 t=1076
+dui xiang sheng cun qi 	对象生存期	c=1 d=1.9801e-08 t=1076
+dun diao le 	炖掉了	c=1 d=1.9801e-08 t=1076
+duo 	多	c=0 d=0.0537944 t=1076
+duo chang ei 	多长诶	c=1 d=1.9801e-08 t=1076
+duo ci 	多次	c=1 d=1 t=951
+duo jia yi ceng 	多加一层	c=1 d=1.9801e-08 t=1076
+duo wen jian 	多文件	c=1 d=0.540641 t=1076
+ei 	欸	c=3 d=0.67368 t=1076
+ei 	誒	c=1 d=0.546075 t=1076
+en 	嗯	c=2 d=1.46842 t=1076
+er 	二	c=1 d=0.873716 t=1076
+er bu shi 	而不是	c=1 d=0.882497 t=1076
+er qie hui 	而且會	c=0 d=0.1 t=875
+er qie hui bao liu ta 	而且會保留它	c=1 d=1 t=876
+fa lv da quan 	法律大全	c=2 d=0.181772 t=1076
+fan han shu 	反函數	c=1 d=1 t=1066
+fan wei 	範圍	c=1 d=1 t=944
+fan zheng 	反正	c=1 d=0.554327 t=1076
+fang 	仿	c=1 d=0.951229 t=1076
+fang an 	方案	c=0 d=0.1 t=973
+fang cheng 	方程	c=1 d=1 t=1046
+fang diao 	放掉	c=0 d=0.0559898 t=1076
+fang diao zhe bian 	放掉這邊	c=1 d=0.562705 t=1076
+fang fa 	方法	c=2 d=1.18521 t=1048
+fang jia le 	放假了	c=1 d=0.364219 t=1076
+fang le 	放了	c=1 d=0.366044 t=1076
+fang wen 	訪問	c=2 d=1.57695 t=874
+fang xiang 	方向	c=0 d=0.0509157 t=1076
+fang zheng 	方正	c=1 d=1 t=743
+fang zheng xing kai 	方正行楷	c=1 d=1.9801e-08 t=1076
+fei 	非	c=1 d=1 t=1050
+fei xie er 	菲谢尔	c=1 d=1.9801e-08 t=1076
+fei xie er 	费歇尔	c=1 d=1.9801e-08 t=1076
+fen 	分	c=2 d=1.09019 t=1076
+fen ge 	分割	c=1 d=0.609571 t=1076
+fen hao 	分號	c=1 d=1 t=855
+fen ju 	分局	c=0 d=0.1956 t=741
+fen ju jian jie 	分局簡介	c=1 d=1 t=733
+fen ju wen jian 	分局文件	c=1 d=1.9801e-08 t=1076
+fen pei de a 	分配的啊	c=1 d=1.9801e-08 t=1076
+fen ping 	分屏	c=1 d=0.594521 t=1076
+fen zhi 	分支	c=1 d=0.99005 t=1076
+fen zhong 	分鐘	c=1 d=0.798516 t=1076
+feng bao 	風暴	c=1 d=0.694196 t=1076
+feng chui cao di xian niu yang 	风吹草低见牛羊	c=1 d=1.9801e-08 t=1076
+feng ge ding 	封个顶	c=1 d=1.9801e-08 t=1076
+fu dong le 	浮动了	c=1 d=1.9801e-08 t=1076
+fu jia 	附加	c=1 d=1 t=905
+fu li lian 	芙莉蓮	c=1 d=0.278038 t=1076
+fu shu 	複數	c=0 d=0.198511 t=1072
+fu shu de 	複數的	c=1 d=1 t=1073
+fu shu gen 	複數根	c=2 d=1.99005 t=1072
+fu wu qi 	服務器	c=1 d=0.980199 t=1076
+fu zi 	夫子	c=0 d=0.0946485 t=1076
+gai 	改	c=3 d=2.60453 t=1076
+gai 	該	c=2 d=1.09863 t=1076
+gai shan 	改善	c=1 d=1 t=1043
+gan en jie 	感恩節	c=1 d=0.927743 t=1076
+gan jue bu que ding 	感觉不确定	c=1 d=1.9801e-08 t=1076
+gang 	剛	c=0 d=0.083527 t=1076
+gang chuang jian 	刚创建	c=1 d=1.9801e-08 t=1076
+gang ji ge 	剛及格	c=1 d=0.839457 t=1076
+gao 	高	c=1 d=0.715338 t=1076
+gao du 	高度	c=2 d=1.96079 t=847
+gao liang 	高亮	c=0 d=0.1 t=963
+ge 	格	c=1 d=0.615697 t=1076
+ge shi 	格式	c=2 d=0.460746 t=1076
+ge shi hua 	格式化	c=1 d=0.923116 t=1076
+ge zhong ban ben 	各种版本	c=1 d=1.9801e-08 t=1076
+gei 	給	c=1 d=0.344727 t=1076
+gei han shu 	给函数	c=1 d=1.9801e-08 t=1076
+gen 	根	c=0 d=0.199005 t=1069
+gen hao 	根號	c=1 d=1 t=1064
+gen jie kou 	跟接口	c=1 d=1.9801e-08 t=1076
+geng gai 	更改	c=1 d=0.640824 t=1076
+geng hao 	更好	c=1 d=1 t=997
+geng huai 	更壞	c=0 d=0.1 t=991
+geng huai de 	更壞的	c=1 d=1 t=992
+geng qin jin 	更亲近	c=1 d=1.9801e-08 t=1076
+geng xin 	更新	c=1 d=0.327915 t=1076
+gong an ju 	公安局	c=1 d=1 t=741
+gong ju 	工具	c=1 d=1 t=760
+gong neng 	功能	c=1 d=0.615697 t=1076
+gong xi ni 	恭喜你	c=1 d=0.852144 t=1076
+gong zi 	工資	c=0 d=0.0771052 t=1076
+gong zuo zhuan lan 	工作专栏	c=1 d=1.9801e-08 t=1076
+gong zuo zhuan lan biao ti 	工作专栏标题	c=1 d=1.9801e-08 t=1076
+gu yi 	故意	c=1 d=1 t=1026
+guan bi 	關閉	c=1 d=0.618783 t=1076
+guan dao 	管道	c=1 d=0.782705 t=1076
+guan diao hou 	关掉后	c=1 d=1.9801e-08 t=1076
+guan diao ne 	关掉呢	c=1 d=1.9801e-08 t=1076
+guan jian ci 	關鍵詞	c=0 d=0.1 t=753
+guang biao 	光標	c=1 d=0.918512 t=1076
+guang dong gong an 	广东公安	c=1 d=1.9801e-08 t=1076
+guang rong bang de 	光荣榜的	c=1 d=1.9801e-08 t=1076
+guang zhui 	光追	c=1 d=1.9801e-08 t=1076
+gui dao gong an 	轨道公安	c=1 d=1.9801e-08 t=1076
+gui dao gong an dao hang 	轨道公安导航	c=1 d=1.9801e-08 t=1076
+gui dao jiao tong 	軌道交通	c=0 d=0.1 t=741
+gui dao jiao tong zhi an 	轨道交通治安	c=1 d=1.9801e-08 t=1076
+gui dao jiao tong zhi an fen ju 	軌道交通治安分局	c=1 d=1 t=742
+gui dao zi xun 	轨道咨询	c=1 d=1.9801e-08 t=1076
+gun dao di liao 	滚到底了	c=1 d=1.9801e-08 t=1076
+gun dong 	滾動	c=2 d=1.96079 t=949
+gun dong lan 	滚动栏	c=1 d=1.9801e-08 t=1076
+gun lun 	滾輪	c=0 d=0.1 t=949
+guo 	過	c=1 d=1 t=923
+guo qi fa 	國旗法	c=1 d=0.995012 t=1076
+guo qu de 	過去的	c=1 d=0.895834 t=1076
+hai 	還	c=0 d=0.099005 t=1076
+hai bu 	還不	c=0 d=0.0404542 t=1076
+hai bu qing chu 	還不清楚	c=1 d=0.40657 t=1076
+hai man you yi si de 	還蠻有意思的	c=1 d=0.99005 t=1076
+hai mei chi a 	还没吃啊	c=1 d=1.9801e-08 t=1076
+hai tu 	骇兔	c=1 d=1.9801e-08 t=1076
+hai yang 	海洋	c=0 d=0.0640825 t=1076
+hai yang ma 	海洋嗎	c=1 d=0.644036 t=1076
+hai you 	還有	c=1 d=0.348193 t=1076
+hai you zhei ge 	还有这个	c=1 d=1.9801e-08 t=1076
+han shu 	函數	c=4 d=1.95332 t=1076
+han shu hou mian 	函數後面	c=1 d=1 t=853
+hang hai 	航海	c=0 d=0.0386741 t=1076
+hang hai wei zhu de 	航海爲主的	c=1 d=0.38868 t=1076
+hang wei 	行尾	c=1 d=0.722527 t=1076
+hang zhou gong an 	杭州公安	c=1 d=1.9801e-08 t=1076
+hao 	好	c=1 d=1.0488 t=1076
+hao de 	好得	c=4 d=2.93116 t=1076
+hao de 	好的	c=0 d=0.060653 t=1076
+hao hen duo 	好很多	c=1 d=0.472367 t=1076
+hao le 	好了	c=2 d=1.54646 t=1076
+hao ma 	號碼	c=2 d=1.82488 t=1076
+hao ma shu ru 	號碼輸入	c=1 d=0.865022 t=1076
+hao xiang 	好像	c=2 d=0.666977 t=1076
+hao xiang bu xian shi 	好像不顯示	c=1 d=1 t=721
+hao xiang ye mei zhe wen ti 	好像也没这问题	c=1 d=1.9801e-08 t=1076
+he 	和	c=5 d=2.49066 t=1076
+he bing 	合併	c=2 d=1.96042 t=1076
+he bing shu zu 	合併數組	c=1 d=0.311923 t=1076
+he ren lei 	和人类	c=1 d=1.9801e-08 t=1076
+hei long jiang sheng gong an ting 	黑龙江省公安厅	c=1 d=1.9801e-08 t=1076
+hen xiang le 	很像了	c=1 d=0.786628 t=1076
+heng xiang nei rong 	横向内容	c=1 d=1.9801e-08 t=1076
+heng xing 	恆星	c=1 d=0.822834 t=1076
+hong lou meng 	紅樓夢	c=1 d=0.759572 t=1076
+hou 	後	c=0 d=0.0557106 t=1076
+hou mian 	後面	c=1 d=0.609571 t=1076
+hou tai 	後臺	c=1 d=0.755784 t=1076
+hou xuan lan 	候选栏	c=1 d=1.9801e-08 t=1076
+hou zhe shuo 	后者说	c=1 d=1.9801e-08 t=1076
+hu nan sheng gong an ting 	湖南省公安厅	c=1 d=1.9801e-08 t=1076
+hua dong 	滑動	c=1 d=1 t=956
+hua jian 	化簡	c=1 d=1 t=1063
+huan jing 	環境	c=2 d=0.981369 t=1076
+huan mo zhe 	唤魔者	c=1 d=1.9801e-08 t=1076
+huan yuan 	還原	c=1 d=0.96079 t=1076
+huang jin 	黃金	c=1 d=0.946485 t=1076
+huang jin fen ge 	黃金分割	c=1 d=0.937067 t=1076
+hui 	回	c=0 d=0.0557106 t=1076
+hui 	會	c=5 d=1.27215 t=1076
+hui diao 	毀掉	c=1 d=1 t=798
+hui he 	會和	c=1 d=0.771052 t=1076
+hui kai tou 	会开头	c=1 d=1.9801e-08 t=1076
+huo 	或	c=1 d=0.694197 t=1076
+huo 	活	c=1 d=0.904837 t=1076
+huo ban men 	活版门	c=1 d=1.9801e-08 t=1076
+huo qu 	獲取	c=1 d=1.08228 t=902
+huo qu yuan su 	獲取元素	c=1 d=1 t=864
+huo zhe 	或者	c=3 d=1.48702 t=1076
+ji ben 	基本	c=1 d=1.07485 t=1076
+ji ben bu quan 	基本補全	c=1 d=0.980199 t=1076
+ji ben bu zu 	基本補足	c=1 d=0.99005 t=1076
+ji ben zi fu 	基本字符	c=1 d=0.99005 t=1076
+ji ci 	幾次	c=0 d=0.099005 t=1076
+ji di da men 	基地大门	c=1 d=1.9801e-08 t=1076
+ji ge 	及格	c=1 d=0.77436 t=1076
+ji lin sheng gong an ting 	吉林省公安厅	c=1 d=1.9801e-08 t=1076
+ji shu 	奇數	c=0 d=0.099005 t=1076
+ji shu shang 	技術上	c=0 d=0.1 t=1015
+ji shu shang de 	技術上的	c=1 d=1 t=1016
+ji xu 	極序	c=1 d=0.985112 t=1076
+jia 	加	c=2 d=1.03844 t=1076
+jia fa 	加法	c=1 d=1 t=1065
+jia qi 	假期	c=0 d=0.0366044 t=1076
+jia shu 	加數	c=1 d=0.697676 t=1076
+jia su du 	加速度	c=1 d=0.559898 t=1076
+jian bian 	漸變	c=2 d=1.90484 t=771
+jian ce 	檢測	c=1 d=0.551563 t=1076
+jian hao 	減號	c=1 d=0.786628 t=1076
+jian hua 	簡化	c=1 d=0.99005 t=1076
+jian ji qi 	剪辑器	c=1 d=1.9801e-08 t=1076
+jian jie 	簡介	c=0 d=0.1 t=732
+jian pan 	鍵盤	c=0 d=0.1 t=913
+jian pan ying she 	鍵盤映射	c=1 d=1 t=914
+jian rong 	兼容	c=6 d=2.07754 t=1076
+jian rong xing 	兼容性	c=1 d=0.737123 t=1076
+jian ting 	監聽	c=0 d=0.1 t=895
+jiang 	將	c=1 d=1 t=926
+jiang lei xing 	将类型	c=1 d=1.9801e-08 t=1076
+jiao ben 	腳本	c=1 d=0.806541 t=1076
+jiao jiang jing wu zhan 	椒江警务站	c=1 d=1.9801e-08 t=1076
+jiao zheng 	校正	c=1 d=0.293758 t=1076
+jie duan 	階段	c=0 d=0.0980199 t=1076
+jie duan yi 	階段一	c=1 d=0.985112 t=1076
+jie gou 	結構	c=0 d=0.0535262 t=1076
+jie ji 	解集	c=1 d=1 t=1069
+jie pa de 	傑帕德	c=1 d=0.99005 t=1076
+jie xia lai 	接下來	c=0 d=0.1 t=870
+jie xia lai de 	接下來的	c=1 d=1 t=871
+jin tian shi 	今天是	c=1 d=0.882497 t=1076
+jin zhan 	進展	c=0 d=0.097531 t=1076
+jin zhan zen me yang le 	進展怎麼樣了	c=1 d=0.980199 t=1076
+jing ling ji hu 	精灵几乎	c=1 d=1.9801e-08 t=1076
+jing que 	精確	c=0 d=0.0644036 t=1076
+jing que shi 	精確式	c=1 d=0.647265 t=1076
+jing yan 	經驗	c=1 d=0.900325 t=1076
+jing yi jie 	静怡姐	c=11 d=2.5877 t=1076
+jiu 	就	c=2 d=1.51929 t=1076
+jiu di ban he qiang 	就地板和墙	c=1 d=1.9801e-08 t=1076
+jiu kai shi 	就開始	c=0 d=0.0501576 t=1076
+jiu shi 	就是	c=2 d=0.818731 t=1076
+jiu zheng 	糾正	c=2 d=1.73438 t=1076
+ju ti ke yi 	具体可以	c=1 d=1.9801e-08 t=1076
+jue de 	覺得	c=0 d=0.0554327 t=1076
+jue qu ling 	绝区零	c=1 d=1.9801e-08 t=1076
+ka fu ka 	卡夫卡	c=1 d=0.99005 t=1076
+kai shi 	開始	c=2 d=0.846109 t=1076
+kan kan 	看看	c=1 d=0.96079 t=1076
+kan qi lai 	看起來	c=1 d=1 t=1006
+kan tu zai chang 	看屠宰场	c=1 d=1.9801e-08 t=1076
+kan wan le 	看完了	c=1 d=0.995012 t=1076
+kao fan yi ruan jian 	靠翻译软件	c=1 d=1.9801e-08 t=1076
+kao ji 	考績	c=1 d=1 t=753
+ke 	課	c=1 d=0.66034 t=1076
+ke fu 	克服	c=1 d=0.802519 t=1076
+ke qing 	刻晴	c=1 d=1.9801e-08 t=1076
+ke yan 	可言	c=1 d=0.516852 t=1076
+ke yi 	刻意	c=1 d=1 t=1029
+ke yi 	可以	c=3 d=1.90758 t=1076
+kong 	空	c=0 d=0.1 t=916
+kong cao 	空槽	c=2 d=1.77105 t=927
+kong han shu 	空函數	c=1 d=1 t=917
+kong jian 	空間	c=2 d=1.1412 t=1076
+kong zhi 	控制	c=1 d=1 t=1076
+kong zhi mian ban 	控制面板	c=2 d=1.86013 t=1076
+kong zhi tai 	控制檯	c=2 d=1.65051 t=852
+kou hao na li 	口号哪里	c=1 d=1.9801e-08 t=1076
+kou hao shi yao 	口号是要	c=1 d=1.9801e-08 t=1076
+kua ping tai 	跨平臺	c=1 d=0.802519 t=1076
+kua zhang a 	夸张啊	c=1 d=1.9801e-08 t=1076
+kuai dian wo ba 	快点我把	c=1 d=1.9801e-08 t=1076
+kuan gao 	寬高	c=1 d=1 t=827
+kun nan 	困難	c=0 d=0.1 t=1011
+kun ya 	昆雅	c=1 d=1.9801e-08 t=1076
+kuo zhan 	擴展	c=0 d=0.1 t=862
+kuo zhan lei 	擴展類	c=1 d=1 t=863
+lai 	來	c=1 d=0.856415 t=1076
+lai zhao ni 	來找你	c=1 d=0.408607 t=1076
+lai zhe bian hou 	来这边后	c=1 d=1.9801e-08 t=1076
+lan deng ma 	蓝灯吗	c=1 d=1.9801e-08 t=1076
+lao shu 	老鼠	c=0 d=0.0357007 t=1076
+lao tian 	老天	c=1 d=0.402525 t=1076
+lao zhan zai 	老站在	c=1 d=1.9801e-08 t=1076
+le 	了	c=3 d=1.75873 t=1076
+le ma 	了嗎	c=1 d=0.506617 t=1076
+lei 	類	c=1 d=0.524662 t=1076
+lei han shu 	类函数	c=1 d=1.9801e-08 t=1076
+leng he 	冷褐	c=1 d=1.9801e-08 t=1076
+leng yue 	愣岳	c=1 d=1.9801e-08 t=1076
+li fang gen 	立方根	c=1 d=1 t=1076
+li ji 	立即	c=0 d=0.1 t=855
+li ji han shu 	立即函數	c=1 d=1 t=856
+li ke jue ding ji a fu jian 	立刻决定急啊附件	c=1 d=1.9801e-08 t=1076
+li lun 	理論	c=0 d=0.0321422 t=1076
+li lun zui da 	理論最大	c=1 d=0.323033 t=1076
+li ru 	例如	c=1 d=1 t=984
+li yu 	鯉魚	c=0 d=0.0937067 t=1076
+lian wang 	聯網	c=1 d=1 t=763
+liang an yuan sheng ti bu zhu 	两岸猿声啼不住	c=1 d=1.9801e-08 t=1076
+liang hao 	良好	c=1 d=0.909373 t=1076
+liang jiao qi 	量角器	c=0 d=0.0965605 t=1076
+liao 	了	c=1 d=1 t=921
+liao liao 	聊聊	c=0 d=0.0465334 t=1076
+lie che ban ci 	列车班次	c=1 d=1.9801e-08 t=1076
+ling yi ge 	另一個	c=1 d=0.394554 t=1076
+liu lan qi 	瀏覽器	c=5 d=2.02216 t=1076
+lo ca 	咯嚓	c=1 d=0.0280154 t=1076
+lu ming 	鹿鳴	c=0 d=0.1 t=790
+lu tian le 	露天了	c=1 d=1.9801e-08 t=1076
+lu tian le ma 	露天了吗	c=1 d=1.9801e-08 t=1076
+lun 	輪	c=1 d=0.748264 t=1076
+lun bo tiao 	轮播条	c=1 d=1.9801e-08 t=1076
+luo ji 	邏輯	c=1 d=0.533032 t=1076
+luo ji jie gou 	邏輯結構	c=1 d=0.537945 t=1076
+ma 	嗎	c=2 d=1.09373 t=1076
+ma 	嘛	c=2 d=1.45943 t=1076
+mai piao 	買票	c=1 d=0.331211 t=1076
+man yan ma 	蔓延吗	c=1 d=1.9801e-08 t=1076
+man you yi si 	蠻有意思	c=0 d=0.099005 t=1076
+mao 	貓	c=0 d=0.0357007 t=1076
+mao he lao shu 	貓和老鼠	c=3 d=1.64251 t=1076
+mao xian 	冒險	c=2 d=1.06217 t=1076
+mao xian ma 	冒險嘛	c=1 d=0.878095 t=1076
+mao xian mo shi 	冒險模式	c=1 d=0.970446 t=1076
+mei fa 	沒法	c=1 d=1 t=837
+mei lai 	沒來	c=0 d=0.0923117 t=1076
+mei ri dong tai 	每日动态	c=1 d=1.9801e-08 t=1076
+mei sha 	沒啥	c=1 d=0.43171 t=1076
+mei wan 	沒玩	c=0 d=0.099005 t=1076
+mei you 	沒有	c=0 d=0.102086 t=1076
+mei you fang xiang jiu 	沒有方向就	c=1 d=0.511708 t=1076
+mei you shen du 	沒有深度	c=1 d=0.514273 t=1076
+mei zhao dao fang fa 	没找到方法	c=1 d=1.9801e-08 t=1076
+meng gong chang 	夢工廠	c=1 d=0.67032 t=1076
+mi ma 	密碼	c=1 d=0.805544 t=1076
+mi ma bu neng xiao yu 	密碼不能小於	c=2 d=1.77833 t=1076
+mi ma ge shi zheng que 	密碼格式正確	c=1 d=0.904837 t=1076
+mian dui 	面對	c=1 d=0.860708 t=1076
+mian ji 	面積	c=1 d=0.726149 t=1076
+mian liang 	面两	c=1 d=1.9801e-08 t=1076
+ming 	朙	c=1 d=0.96079 t=1076
+ming ming 	名命	c=1 d=1.9801e-08 t=1076
+ming yue 	朙月	c=1 d=0.927743 t=1076
+mo 	墨	c=0 d=0.1 t=1046
+mo 	莫	c=0 d=0.0546075 t=1076
+mo ban 	模板	c=1 d=0.31897 t=1076
+mo ban yin yong 	模板引用	c=2 d=0.655839 t=1076
+mo kuai 	模塊	c=1 d=0.980199 t=1076
+mo ren 	默認	c=1 d=0.909373 t=1076
+mo rui ya 	莫瑞亚	c=1 d=1.9801e-08 t=1076
+mo shi 	模式	c=1 d=0.742427 t=1076
+mu 	慕	c=1 d=0.657047 t=1076
+mu ban 	模板	c=1 d=0.856415 t=1076
+mu ke 	慕課	c=1 d=0.860708 t=1076
+mu lu 	目錄	c=1 d=0.546074 t=1076
+na 	那	c=0 d=0.0711771 t=1076
+na bang 	那幫	c=0 d=0.0932394 t=1076
+na bang wo 	那幫我	c=1 d=0.937067 t=1076
+na me gao 	那麼高	c=1 d=1.09851 t=843
+na wo zhi hou 	那我之后	c=1 d=1.9801e-08 t=1076
+na yang de hua 	那樣的話	c=0 d=0.0718924 t=1076
+na ye jiu shi shuo 	那也就是說	c=1 d=0.715338 t=1076
+nan 	男	c=1 d=0.690734 t=1076
+nan dao 	難道	c=0 d=0.0631283 t=1076
+nan dao chu fang 	难道厨房	c=1 d=1.9801e-08 t=1076
+nan dao yao 	難道要	c=1 d=0.634448 t=1076
+nao zhong 	鬧鐘	c=1 d=1 t=1076
+ne 	呢	c=4 d=1.39504 t=1076
+nei bu lian jie 	内部链接	c=1 d=1.9801e-08 t=1076
+nei cun 	內存	c=1 d=1 t=1076
+nei cun fen pei 	内存分配	c=1 d=1.9801e-08 t=1076
+nei cun ye 	内存页	c=1 d=1.9801e-08 t=1076
+nei rong 	內容	c=1 d=1 t=882
+neng 	能	c=1 d=0.935471 t=1076
+neng bei 	能被	c=1 d=0.985112 t=1076
+neng she zhi zi ti 	能設置字體	c=1 d=1 t=789
+neng tiao ma 	能调吗	c=1 d=1.9801e-08 t=1076
+neng zuo dao ne 	能做到呢	c=1 d=1.9801e-08 t=1076
+ng hng 	嗯哼	c=1 d=0.918512 t=1076
+ni 	你	c=1 d=0.351691 t=1076
+ni cai 	你猜	c=0 d=0.0826959 t=1076
+ni cai de shu zi 	你猜的數字	c=1 d=0.831104 t=1076
+ni de 	你的	c=0 d=0.0737123 t=1076
+ni de chu sheng 	你的出生	c=1 d=0.740818 t=1076
+ni hao 	你好	c=1 d=0.918512 t=1076
+ni jin tian 	你今天	c=0 d=0.0923117 t=1076
+ni jin tian mei lai a 	你今天沒來啊	c=1 d=0.927743 t=1076
+ni jue de 	你覺得	c=1 d=0.647265 t=1076
+ni men 	你們	c=1 d=0.628135 t=1076
+ni men gong zuo 	你们工作	c=1 d=1.9801e-08 t=1076
+ni men zhi ye 	你们职业	c=1 d=1.9801e-08 t=1076
+ni shi 	溺尸	c=1 d=1.9801e-08 t=1076
+ni xiang 	你想	c=0 d=0.0806541 t=1076
+ni xiang shu ru 	你想輸入	c=1 d=0.810584 t=1076
+nian 	年	c=2 d=1.34762 t=1076
+nian fen 	年份	c=1 d=0.744532 t=1076
+nin 	您	c=0 d=0.195615 t=1076
+nin ben ci 	您本次	c=1 d=0.786628 t=1076
+nin de 	您的	c=3 d=2.66363 t=1076
+nin de cheng ji 	您的成績	c=2 d=1.6581 t=1076
+nin hai 	您還	c=0 d=0.0895834 t=1076
+nin hai ke yi 	您還可以	c=1 d=0.900325 t=1076
+nin shi yong de 	您使用的	c=1 d=0.625002 t=1076
+nin shu ru de 	您輸入的	c=1 d=0.913931 t=1076
+nin yi 	您已	c=0 d=0.0909373 t=1076
+nin yi chao chu 	您已超出	c=1 d=0.913931 t=1076
+ning ling hun 	宁灵魂	c=1 d=1.9801e-08 t=1076
+ning xia hui zu 	宁夏回族	c=1 d=1.9801e-08 t=1076
+nong huo er 	农活儿	c=1 d=1.9801e-08 t=1076
+nuo ai er 	诺埃尔	c=1 d=1.9801e-08 t=1076
+nv 	女	c=2 d=1.52878 t=1076
+nv pu 	女僕	c=1 d=0.985111 t=1076
+o 	哦	c=2 d=0.932394 t=1076
+ou bu shi 	偶不是	c=1 d=1.9801e-08 t=1076
+ou shu 	偶數	c=0 d=0.0995012 t=1076
+pa e zhi 	怕恶之	c=1 d=1.9801e-08 t=1076
+pa ei se 	怕欸色	c=1 d=1.9801e-08 t=1076
+pan duan 	判斷	c=1 d=0.67032 t=1076
+pei se 	配色	c=3 d=1.94485 t=976
+pei se fang an 	配色方案	c=1 d=1 t=974
+pei zhi 	配置	c=3 d=2.05646 t=1076
+pei zhi wen jian 	配置文件	c=1 d=0.532592 t=1076
+pi pei 	匹配	c=1 d=0.995012 t=1076
+pi pian gao 	皮偏高	c=1 d=1.9801e-08 t=1076
+pin pai xing xiang 	品牌形象	c=0 d=0.0960789 t=1076
+pin pai xing xiang xin xiong xia ai a 	品牌形象心胸狹隘啊	c=1 d=0.965605 t=1076
+pin yin 	拼音	c=2 d=1.90284 t=1076
+ping 	屏	c=1 d=0.56836 t=1076
+ping fang 	平方	c=1 d=1 t=1071
+ping fang gen 	平方根	c=3 d=2.86951 t=1074
+ping jun 	平均	c=1 d=0.927743 t=1076
+ping mu 	屏幕	c=0 d=0.0965605 t=1076
+ping mu liang jiao qi 	屏幕量角器	c=1 d=0.970446 t=1076
+ping tai 	平臺	c=1 d=0.600499 t=1076
+qi 	七	c=0 d=0.099005 t=1076
+qi 	器	c=0 d=0.145612 t=939
+qi cai jie 	亓才孑	c=1 d=0.913931 t=1076
+qi ming qi bu lai le 	起名起不来了	c=1 d=1.9801e-08 t=1076
+qi sui 	七歲	c=0 d=0.0918512 t=1076
+qi ta de 	其他的	c=1 d=1 t=1040
+qi zhong 	其中	c=0 d=0.1 t=988
+qian cheng 	前程	c=0 d=0.0546075 t=1076
+qian chuang ge 	前窗格	c=1 d=1.9801e-08 t=1076
+qian he 	浅褐	c=1 d=1.9801e-08 t=1076
+qian li jiang ling yi ri huan 	千里江陵一日还	c=1 d=1.9801e-08 t=1076
+qian xi nian 	千禧年	c=1 d=0.778801 t=1076
+qiang zhi 	強制	c=1 d=0.285076 t=1076
+qiang zhi shua xin 	强制刷新	c=1 d=1.9801e-08 t=1076
+qie huan 	切換	c=0 d=0.00274607 t=1076
+qie huan jian pan 	切换键盘	c=1 d=1.9801e-08 t=1076
+qie huan shu ru fa 	切換輸入法	c=1 d=0.0275983 t=1076
+qin shi ming yue han shi guan 	秦时明月汉时关	c=1 d=1.9801e-08 t=1076
+qing chu 	清楚	c=0 d=0.0404542 t=1076
+qing shu ru 	請輸入	c=18 d=9.19684 t=1076
+qing shu ru guan jian ci 	請輸入關鍵詞	c=1 d=1 t=754
+qing shu ru guan jian ci sou suo 	请输入关键词搜索	c=1 d=1.9801e-08 t=1076
+qing shu ru shu zi 	請輸入數字	c=1 d=0.99005 t=1076
+qing wen 	請問	c=0 d=0.1 t=1017
+qing wen shi shen me 	請問是什麼	c=1 d=1 t=1018
+qing zai ci chu 	请在此处	c=1 d=1.9801e-08 t=1076
+qing zhi zhong xin 	情指中心	c=1 d=1.9801e-08 t=1076
+qing zuo zi wo jie shao 	请作自我介绍	c=1 d=1.9801e-08 t=1076
+qiu 	求	c=1 d=0.995012 t=1076
+qu 	區	c=1 d=0.985111 t=1076
+qu mo 	祛魔	c=1 d=1.9801e-08 t=1076
+qu shou le 	去收了	c=1 d=1.9801e-08 t=1076
+qu xian 	曲線	c=1 d=1 t=967
+qu yu 	區域	c=2 d=1.91851 t=796
+quan 	圈	c=1 d=0.729789 t=1076
+quan bu 	全部	c=0 d=0.0985111 t=1076
+quan bu zi fu 	全部字符	c=1 d=0.99005 t=1076
+quan guo gong an dao hang 	全国公安导航	c=1 d=1.9801e-08 t=1076
+quan rong le 	全融了	c=1 d=1.9801e-08 t=1076
+quan sheng gong an dao hang 	全省公安导航	c=1 d=1.9801e-08 t=1076
+ran dou 	燃豆	c=1 d=1.9801e-08 t=1076
+ran hou 	然後	c=3 d=1.60558 t=1076
+ran hou wo 	然後我	c=1 d=0.336217 t=1076
+rang ta 	讓它	c=0 d=0.0748264 t=1076
+rang tu xiang 	让图像	c=1 d=1.9801e-08 t=1076
+re jian 	熱鍵	c=1 d=1 t=745
+ren wu 	任務	c=2 d=0.995012 t=1076
+ren wu lan 	任務欄	c=2 d=0.587987 t=1076
+ren yi 	任意	c=1 d=0.806541 t=1076
+ri 	日	c=1 d=0.895834 t=1076
+ri li 	日曆	c=1 d=0.748264 t=1076
+ru guo 	如果	c=1 d=0.640824 t=1076
+ru guo yuan su 	如果元素	c=1 d=1 t=775
+ruan jian xia zai 	軟件下載	c=1 d=1 t=739
+run 	閏	c=1 d=0.774916 t=1076
+run nian 	閏年	c=1 d=0.755784 t=1076
+sai er 	塞爾	c=0 d=0.1 t=965
+san ci 	三次	c=1 d=1.05975 t=1067
+san guo yan yi 	三國演義	c=1 d=0.755784 t=1076
+san jiao 	三角	c=1 d=0.970446 t=1076
+san jiao xing 	三角形	c=1 d=0.78904 t=1076
+san jiao xing de 	三角形的	c=1 d=0.704688 t=1076
+san yue 	三月	c=0 d=0.099005 t=1076
+san yue qi 	三月七	c=1 d=0.99005 t=1076
+shan chu 	刪除	c=1 d=0.718924 t=1076
+shan chu qu 	闪出去	c=1 d=1.9801e-08 t=1076
+shang 	上	c=1 d=0.294622 t=1076
+shang ce shi 	上測試	c=1 d=0.647265 t=1076
+shang ji wen jian 	上级文件	c=1 d=1.9801e-08 t=1076
+shang mian yi ceng 	上面一层	c=1 d=1.9801e-08 t=1076
+shang ping 	上屏	c=1 d=1 t=748
+shang ren mai 	商人买	c=1 d=1.9801e-08 t=1076
+shang yi ge 	上一個	c=1 d=0.752014 t=1076
+shang yue ke liu liang 	上月客流量	c=1 d=1.9801e-08 t=1076
+she ding 	設定	c=0 d=0.060653 t=1076
+she ding hao de 	設定好的	c=1 d=0.609571 t=1076
+she ji 	設計	c=1 d=1 t=1031
+she shi 	設施	c=0 d=0.1 t=887
+she zhi 	設置	c=7 d=1.90099 t=1076
+she zhi biao qian 	设置标签	c=1 d=1.9801e-08 t=1076
+shen du 	深度	c=0 d=0.0511708 t=1076
+shen gao 	身高	c=1 d=0.704688 t=1076
+sheng chan jian she 	生产建设	c=1 d=1.9801e-08 t=1076
+sheng cheng 	生成	c=3 d=0.759572 t=1076
+sheng lve hao 	省略號	c=1 d=1 t=862
+sheng tai 	生態	c=3 d=1.65341 t=1076
+sheng tai xi tong 	生態系統	c=1 d=0.591556 t=1076
+sheng yu 	剩餘	c=4 d=2.39222 t=1076
+shi 	事	c=0 d=0.0546075 t=1076
+shi 	式	c=0 d=0.0644036 t=1076
+shi 	是	c=10 d=3.54747 t=1076
+shi 	時	c=1 d=0.995012 t=1076
+shi ge zhong 	是各种	c=1 d=1.9801e-08 t=1076
+shi ge zhong 	诗歌中	c=1 d=1.9801e-08 t=1076
+shi guo 	試過	c=0 d=0.099005 t=1076
+shi guo ji ci 	試過幾次	c=1 d=0.99005 t=1076
+shi hui fu 	是回复	c=1 d=1.9801e-08 t=1076
+shi ji shu 	是奇數	c=1 d=0.995012 t=1076
+shi jian 	事件	c=3 d=2.74537 t=948
+shi jian 	時間	c=1 d=0.861365 t=1076
+shi jian jian ting 	時間監聽	c=1 d=1 t=896
+shi jie bing bu shi na me de 	世界并不是那么的	c=1 d=1.9801e-08 t=1076
+shi ju 	市局	c=0 d=0.1 t=733
+shi ju kao ji 	市局考绩	c=1 d=1.9801e-08 t=1076
+shi ju shou ye 	市局首頁	c=1 d=1 t=734
+shi ju zhu ye 	市局主页	c=1 d=1.9801e-08 t=1076
+shi liu se 	十六色	c=1 d=1.9801e-08 t=1076
+shi na ge ma 	是那个吗	c=1 d=1.9801e-08 t=1076
+shi nian 	時年	c=0 d=0.0918512 t=1076
+shi nian qi sui 	時年七歲	c=1 d=0.923117 t=1076
+shi ou shu 	是偶數	c=1 d=1 t=1076
+shi shen me 	是什麼	c=1 d=1.09851 t=1020
+shi shi 	試試	c=1 d=0.882497 t=1076
+shi shi kan ba 	試試看吧	c=1 d=0.980199 t=1076
+shi shi shi shi shi 	施氏食狮史	c=1 d=1.9801e-08 t=1076
+shi shu 	實數	c=0 d=0.1 t=1067
+shi shu gen 	實數根	c=1 d=1 t=1068
+shi shu ji 	實數集	c=1 d=1 t=1011
+shi tu 	視圖	c=2 d=1.99005 t=802
+shi tu 	試圖	c=1 d=0.687289 t=1076
+shi wan quan bu tong de 	是完全不同的	c=1 d=0.54064 t=1076
+shi xian 	實現	c=3 d=1.17028 t=1076
+shi yan 	實驗	c=1 d=0.618783 t=1076
+shi yan 	試驗	c=1 d=0.621885 t=1076
+shi yong 	使用	c=1 d=0.187719 t=1076
+shi zhang fa bu 	市长发布	c=1 d=1.9801e-08 t=1076
+shi zhang ma 	市长吗	c=1 d=1.9801e-08 t=1076
+shi zhong 	時鐘	c=1 d=0.362403 t=1076
+shi zuo 	視作	c=1 d=1 t=928
+shou dong geng xin 	手动更新	c=1 d=1.9801e-08 t=1076
+shou ji 	手機	c=2 d=1.35799 t=1076
+shou shen 	瘦身	c=1 d=1 t=1076
+shou xie ti 	手寫體	c=1 d=1 t=1056
+shou yao 	首要	c=0 d=0.0625003 t=1076
+shou yao wen ti shi 	首要問題是	c=1 d=0.628135 t=1076
+shou ye 	首頁	c=1 d=1.09501 t=733
+shu 	數	c=1 d=0.683861 t=1076
+shu biao 	鼠標	c=2 d=2.0605 t=949
+shu biao gun lun 	鼠標滾輪	c=1 d=1 t=950
+shu biao you jian 	鼠標右鍵	c=1 d=1 t=904
+shu chu 	輸出	c=0 d=0.1 t=917
+shu ju liang ma 	数据量吗	c=1 d=1.9801e-08 t=1076
+shu ming sou suo 	署名搜索	c=1 d=1.9801e-08 t=1076
+shu ru 	輸入	c=2 d=1.74011 t=1076
+shu ru de 	輸入的	c=2 d=1.47805 t=1076
+shu ru de shu zi 	輸入的數字	c=1 d=0.955997 t=1076
+shu ru fa 	輸入法	c=1 d=0.941764 t=1076
+shu ru kuang 	輸入框	c=1 d=0.937067 t=1076
+shu xue 	數學	c=1 d=0.955997 t=1076
+shu yu 	屬於	c=0 d=0.0474734 t=1076
+shu yu shi 	屬於是	c=1 d=0.477114 t=1076
+shu zhi 	數值	c=1 d=1 t=946
+shu zhong 	數中	c=0 d=0.0798516 t=1076
+shu zi 	數字	c=4 d=2.10618 t=1076
+shu zu 	數組	c=1 d=0.506782 t=1076
+shua xin ma 	刷新吗	c=1 d=1.9801e-08 t=1076
+shua zi yuan 	刷资源	c=1 d=1.9801e-08 t=1076
+shuang he 	雙核	c=1 d=1 t=780
+shui geng xin 	谁更新	c=1 d=1.9801e-08 t=1076
+shui hu zhuan 	水滸傳	c=1 d=0.767206 t=1076
+shui ping chui zhi 	水平垂直	c=1 d=1.9801e-08 t=1076
+shun chang 	順暢	c=0 d=0.1 t=1046
+si hu 	似乎	c=1 d=1 t=1014
+si mu lin ken 	私募林肯	c=1 d=1.9801e-08 t=1076
+si yuan 	思源	c=1 d=0.554327 t=1076
+sou suo 	搜索	c=2 d=1.71177 t=823
+sou suo tiao 	搜索条	c=1 d=1.9801e-08 t=1076
+suan 	算	c=1 d=0.740819 t=1076
+sui ji 	隨機	c=1 d=0.755783 t=1076
+suo chang song 	所唱诵	c=1 d=1.9801e-08 t=1076
+suo li lue tu 	所里略图	c=1 d=1.9801e-08 t=1076
+suo yi 	所以	c=2 d=1.1553 t=1076
+suo yi wo jue de 	所以我覺得	c=1 d=0.465334 t=1076
+suo yi yao xian 	所以要先	c=1 d=0.509157 t=1076
+suo you de 	所有的	c=1 d=1 t=939
+ta 	它	c=2 d=1.9921 t=1032
+ta men 	它們	c=3 d=2.70133 t=993
+ta shang lv tu 	踏上旅途	c=1 d=1.9801e-08 t=1076
+ta shuo hou tai 	他说后台	c=1 d=1.9801e-08 t=1076
+tai 	態	c=1 d=0.923116 t=1076
+tai zhou 	台州	c=1 d=0.97531 t=1076
+tai zhou huo che zhan 	台州火车站	c=1 d=1.9801e-08 t=1076
+tai zhou shi 	台州市	c=1 d=1 t=740
+tan gang qin 	彈鋼琴	c=1 d=0.355226 t=1076
+tan suo 	探索	c=2 d=0.907415 t=1076
+tan suo shi 	探索是	c=1 d=0.571209 t=1076
+tan xian 	探險	c=1 d=0.597501 t=1076
+tan xing bu ju 	弹性布局	c=1 d=1.9801e-08 t=1076
+tang mu 	湯姆	c=1 d=0.353455 t=1076
+tao lun 	討論	c=1 d=0.410656 t=1076
+tao lun bei 	讨论呗	c=1 d=1.9801e-08 t=1076
+teng ge wa 	腾格瓦	c=1 d=1.9801e-08 t=1076
+ti jiao 	提交	c=1 d=0.761222 t=1076
+ti qu 	提取	c=1 d=0.313486 t=1076
+ti wa te 	提瓦特	c=1 d=1.9801e-08 t=1076
+ti zhong 	體重	c=2 d=1.42356 t=1076
+tian 	天	c=1 d=0.965606 t=1076
+tian hui qu 	填回去	c=1 d=1.9801e-08 t=1076
+tian jia 	添加	c=2 d=1.96561 t=865
+tian qi 	天氣	c=1 d=0.869358 t=1076
+tian qi lai ma 	填起来吗	c=1 d=1.9801e-08 t=1076
+tian wen 	天文	c=1 d=0.839457 t=1076
+tian zai 	天災	c=1 d=0.697676 t=1076
+tiao cha yan jiu 	调差研究	c=1 d=1.9801e-08 t=1076
+tiao guo 	跳過	c=1 d=1 t=880
+tiao qi lai 	调起来	c=1 d=1.9801e-08 t=1076
+tiao tuo yi dian 	跳脱一点	c=1 d=1.9801e-08 t=1076
+tiao zheng 	調整	c=2 d=0.668619 t=1076
+tiao zhuan 	跳轉	c=2 d=1.16556 t=1076
+tong bu 	同步	c=1 d=0.99005 t=1076
+tong xun lu 	通訊錄	c=1 d=1 t=736
+tou ming 	透明	c=2 d=0.349938 t=1076
+tou ming du 	透明度	c=1 d=1 t=811
+tu pian 	圖片	c=3 d=2.92644 t=731
+tu xing jia su 	图形加速	c=1 d=1.9801e-08 t=1076
+tuan jian gong zuo 	团建工作	c=1 d=1.9801e-08 t=1076
+tui chu 	退出	c=3 d=2.34813 t=1076
+tui jian 	推薦	c=0 d=0.1 t=783
+tui jian pei zhi 	推薦配置	c=1 d=1 t=784
+tuo feng 	駝峯	c=1 d=1 t=867
+wa chuan 	挖穿	c=1 d=1.9801e-08 t=1076
+wa cuo le 	挖错了	c=1 d=1.9801e-08 t=1076
+wa di ban 	挖地版	c=1 d=1.9801e-08 t=1076
+wai 	外	c=0 d=0.0390628 t=1076
+wai mian hui 	外面会	c=1 d=1.9801e-08 t=1076
+wan jia 	玩家	c=2 d=1.81405 t=1076
+wan jia de 	玩家的	c=1 d=0.726149 t=1076
+wan jia neng 	玩家能	c=1 d=0.794534 t=1076
+wan li chang zheng ren wei huan 	万里长征人未还	c=1 d=1.9801e-08 t=1076
+wan quan bu tong 	完全不同	c=0 d=0.0537945 t=1076
+wan shan 	完善	c=2 d=0.921106 t=1076
+wang 	網	c=2 d=1.42492 t=1076
+wang cheng nan zhan fang xiang 	王成南站方向	c=1 d=1.9801e-08 t=1076
+wang na ge fang xiang gai ne 	往那个方向改呢	c=1 d=1.9801e-08 t=1076
+wang ye 	網頁	c=1 d=1 t=955
+wei 	位	c=2 d=1.73906 t=1076
+wei 	僞	c=0 d=0.0941765 t=1076
+wei 	爲	c=2 d=1.33677 t=1076
+wei da 	韋達	c=0 d=0.1 t=1043
+wei da ding li 	韋達定理	c=1 d=1 t=1044
+wei han shu 	僞函數	c=1 d=0.946485 t=1076
+wei kong 	爲空	c=1 d=0.97531 t=1076
+wei lei 	僞類	c=1 d=1 t=821
+wei shen me 	爲什麼	c=1 d=1 t=1019
+wei shu 	位數	c=2 d=1.78724 t=1076
+wei xing 	衛星	c=1 d=0.831104 t=1076
+wei yuan su 	僞元素	c=1 d=1 t=820
+wei zhi 	位置	c=1 d=0.29523 t=1076
+wei zhi de 	未知的	c=1 d=0.865022 t=1076
+wei zhu 	爲主	c=0 d=0.0386741 t=1076
+wen 	問	c=0 d=0.0546075 t=1076
+wen dang 	文檔	c=2 d=0.913931 t=1076
+wen dang mo shi 	文檔模式	c=1 d=1 t=781
+wen jian 	文件	c=1 d=0.498595 t=1076
+wen jian jia 	文件夾	c=1 d=0.878095 t=1076
+wen ming 	文明	c=1 d=0.941764 t=1076
+wen ti 	問題	c=1 d=1 t=1017
+wen ti lai de 	问题来的	c=1 d=1.9801e-08 t=1076
+wen ti shi 	問題是	c=0 d=0.0625003 t=1076
+wen zi gun dong 	文字滚动	c=1 d=1.9801e-08 t=1076
+wo 	我	c=4 d=1.91721 t=1076
+wo bu 	我不	c=0 d=0.0554327 t=1076
+wo bu jue de 	我不覺得	c=1 d=0.557106 t=1076
+wo bu shi 	我不是	c=1 d=0.501576 t=1076
+wo bu tai jue ding 	我不太决定	c=1 d=1.9801e-08 t=1076
+wo chang shi 	我嘗試	c=1 d=1 t=999
+wo dao shi 	我倒是	c=1 d=0.496585 t=1076
+wo de 	我的	c=1 d=0.489193 t=1076
+wo de zi ti shi 	我的字体是	c=1 d=1.9801e-08 t=1076
+wo dou bu mai de 	我都不买的	c=1 d=1.9801e-08 t=1076
+wo hai shi 	我還是	c=1 d=0.985111 t=1076
+wo huo xu ke yi bang ni kan kan 	我或许可以帮你看看	c=1 d=1.9801e-08 t=1076
+wo jue de 	我覺得	c=1 d=0.709953 t=1076
+wo shi 	我是	c=0 d=0.0729789 t=1076
+wo shi zi fu chuan 	我是字符串	c=1 d=0.733447 t=1076
+wo wen dang mei kan dong 	我文档没看懂	c=1 d=1.9801e-08 t=1076
+wo xi wang 	我希望	c=0 d=0.0786628 t=1076
+wo xi wang shi 	我希望是	c=2 d=1.63846 t=1076
+wo xiang 	我想	c=1 d=0.82309 t=1076
+wo xiang dao 	我想到	c=1 d=0.657047 t=1076
+wo xiang rang ta 	我想讓它	c=1 d=0.752014 t=1076
+wo xiu hao 	我修好	c=1 d=1.9801e-08 t=1076
+wo yi 	我以	c=0 d=0.0557106 t=1076
+wo yi hou hui 	我以後回	c=1 d=0.559898 t=1076
+wo zhi zhong guo 	我只种过	c=1 d=1.9801e-08 t=1076
+wo zhu yi dao yi xie 	我注意到一些	c=1 d=1 t=969
+wo zi ji 	我自己	c=1 d=0.970446 t=1076
+wu 	無	c=1 d=1 t=1076
+wu bian wu ji 	無邊無際	c=0 d=0.0637628 t=1076
+wu bian wu ji de 	無邊無際的	c=1 d=0.640825 t=1076
+wu bian xing 	五邊形	c=2 d=1.88014 t=1076
+wu fa 	無法	c=2 d=0.930651 t=1076
+wu jiao xing 	五角星	c=1 d=0.985112 t=1076
+wu shi 	五十	c=1 d=0.995012 t=1076
+wu xiao 	無效	c=2 d=0.826959 t=1076
+wu xing hong qi 	五星紅旗	c=1 d=1 t=1076
+wu yang shi 	無样式	c=1 d=1.9801e-08 t=1076
+xi tong 	系統	c=1 d=0.45612 t=1076
+xi tong wen jian jia 	系统文件夹	c=1 d=1.9801e-08 t=1076
+xi wen 	西文	c=1 d=1 t=747
+xi you ji 	西遊記	c=1 d=0.763379 t=1076
+xi zang zang zu zi zhi qu 	西藏藏族自治区	c=1 d=1.9801e-08 t=1076
+xia de 	嚇得	c=0 d=0.0960789 t=1076
+xia de wo 	嚇得我	c=1 d=0.965605 t=1076
+xia mian 	下面	c=1 d=1 t=890
+xia zai 	下載	c=1 d=1 t=769
+xian 	先	c=1 d=0.97531 t=1076
+xian cong 	先從	c=2 d=0.791796 t=1076
+xian de 	顯得	c=1 d=1 t=1004
+xian shi 	顯示	c=1 d=1 t=724
+xian shi hang hao 	显示行号	c=1 d=1.9801e-08 t=1076
+xian shi ju qu dao hang 	县市局区导航	c=1 d=1.9801e-08 t=1076
+xian shi zhong hao xiang 	现实中好像	c=1 d=1.9801e-08 t=1076
+xian zai 	現在	c=3 d=1.41292 t=1076
+xian zai yong gang 	现在用钢	c=1 d=1.9801e-08 t=1076
+xian zuo 	先做	c=0 d=0.0548811 t=1076
+xian zuo ma 	先做嘛	c=1 d=0.551563 t=1076
+xiang 	像	c=1 d=1 t=1007
+xiang 	向	c=0 d=0.0298197 t=1076
+xiang cang 	像仓	c=1 d=1.9801e-08 t=1076
+xiang da di 	向大地	c=1 d=1.9801e-08 t=1076
+xiang mu 	項目	c=1 d=0.790571 t=1076
+xiang shou 	享受	c=0 d=0.0366044 t=1076
+xiang shou jia qi bei 	享受假期唄	c=1 d=0.36788 t=1076
+xiang tong gui ge 	相同规格	c=1 d=1.9801e-08 t=1076
+xiang xiang 	想想	c=1 d=0.369723 t=1076
+xiang ying de 	相應的	c=0 d=0.1 t=885
+xiang zi zu jian 	向子組件	c=1 d=0.299692 t=1076
+xiang zuo 	想做	c=1 d=0.386741 t=1076
+xiao 	小	c=2 d=1.50522 t=1076
+xiao de 	小的	c=1 d=0.380983 t=1076
+xiao jian pan 	小鍵盤	c=1 d=0.634448 t=1076
+xiao li yu 	小鯉魚	c=1 d=0.941765 t=1076
+xiao lv fa 	效率法	c=1 d=1.9801e-08 t=1076
+xiao yu 	小於	c=0 d=0.0878095 t=1076
+xiao yuan 	小圓	c=0 d=0.1 t=924
+xiao yuan dian 	小圓點	c=1 d=1 t=925
+xie 	些	c=1 d=1 t=983
+xie le 	寫了	c=1 d=1 t=846
+xie shen le 	邪神了	c=1 d=1.9801e-08 t=1076
+xie xie 	謝謝	c=2 d=1.55421 t=1076
+xin 	芯	c=1 d=0.965605 t=1076
+xin chuang ge 	新窗格	c=1 d=1.9801e-08 t=1076
+xin hang 	新行	c=1 d=1.9801e-08 t=1076
+xin wen ju jiao 	新闻聚焦	c=1 d=1.9801e-08 t=1076
+xin xi 	信息	c=2 d=0.70822 t=1076
+xin xin 	信心	c=1 d=0.433874 t=1076
+xin xiong xia ai 	心胸狹隘	c=0 d=0.0960789 t=1076
+xing 	性	c=1 d=0.680451 t=1076
+xing 	行	c=0 d=0.0546075 t=1076
+xing bie 	性別	c=2 d=1.36774 t=1076
+xing cheng 	形成	c=1 d=0.711771 t=1076
+xing ming 	姓名	c=1 d=0.951229 t=1076
+xing neng 	性能	c=1 d=1 t=782
+xing qi ri 	星期日	c=2 d=1.74312 t=1076
+xing qiong 	星穹	c=1 d=1.9801e-08 t=1076
+xing qiong tie dao 	星穹铁道	c=1 d=1.9801e-08 t=1076
+xing qiu 	星球	c=1 d=0.677056 t=1076
+xing qu ai hao 	兴趣愛好	c=1 d=1.9801e-08 t=1076
+xing shi 	形式	c=1 d=1.09501 t=987
+xing shi can shu 	形式參數	c=1 d=1 t=988
+xiu gai 	修改	c=1 d=1 t=861
+xiu zheng 	修正	c=1 d=0.860708 t=1076
+xu duo 	許多	c=1 d=1 t=982
+xu ke zheng 	許可證	c=1 d=1 t=761
+xu lie er 	序列二	c=1 d=1.9801e-08 t=1076
+xu ni ji 	虛擬機	c=1 d=1 t=787
+xu ni tian wen guan 	虚拟天文馆	c=1 d=1.9801e-08 t=1076
+xu yao kao lv ma 	需要考虑吗	c=1 d=1.9801e-08 t=1076
+xuan lei bie 	选类别	c=1 d=1.9801e-08 t=1076
+xuan ran 	渲染	c=1 d=0.339017 t=1076
+xuan ran han shu 	渲染函數	c=2 d=0.596758 t=1076
+xuan ze 	選擇	c=1 d=0.562705 t=1076
+xuan ze qi 	選擇器	c=2 d=1.91393 t=801
+xue ju 	雪居	c=1 d=1.9801e-08 t=1076
+xue xi 	學習	c=1 d=0.869358 t=1076
+xun fang da dui 	巡防大队	c=1 d=1.9801e-08 t=1076
+xun huan ne 	循环呢	c=1 d=1.9801e-08 t=1076
+yan he zhi beng 	岩壑之崩	c=1 d=1.9801e-08 t=1076
+yan zheng ma 	驗證碼	c=1 d=0.96079 t=1076
+yang zi 	樣子	c=1 d=0.683861 t=1076
+yao 	要	c=1 d=0.697213 t=1076
+yao bu yao 	要不要	c=1 d=1 t=854
+yao deng lu le 	要登錄了	c=1 d=0.955997 t=1076
+yao kai shi 	要開始	c=1 d=0.444858 t=1076
+yao sai nei bu 	要塞内部	c=1 d=1.9801e-08 t=1076
+yao xian 	要先	c=0 d=0.0506617 t=1076
+yao yi zhe zhong 	要以这种	c=1 d=1.9801e-08 t=1076
+yao zai 	要在	c=1 d=0.644036 t=1076
+ye 	也	c=1 d=1 t=1003
+ye 	野	c=1 d=1 t=762
+ye dou zhao bu dao 	也都找不到	c=1 d=1.9801e-08 t=1076
+ye jiu shi shuo 	也就是說	c=0 d=0.0711771 t=1076
+ye kai le de 	也开了的	c=1 d=1.9801e-08 t=1076
+ye mei she 	也没设	c=1 d=1.9801e-08 t=1076
+ye shi 	也是	c=1 d=1.099 t=842
+ye shi na me gao 	也是那麼高	c=1 d=1 t=841
+ye you xie 	也有些	c=1 d=1 t=1000
+yi 	一	c=3 d=2.3743 t=1076
+yi 	咦	c=1 d=0.932394 t=1076
+yi an se 	一暗色	c=1 d=1.9801e-08 t=1076
+yi ban 	一般	c=1 d=0.927743 t=1076
+yi ban jiao shen me a 	一般叫什么啊	c=1 d=1.9801e-08 t=1076
+yi dong 	移動	c=2 d=1.23041 t=1076
+yi dong duan 	移動端	c=1 d=1 t=954
+yi fu dong hua tu xiang 	一幅动画图象	c=1 d=1.9801e-08 t=1076
+yi lai 	依賴	c=1 d=0.400517 t=1076
+yi mei 	一昧	c=0 d=0.0882497 t=1076
+yi mei de 	一昧的	c=1 d=0.88692 t=1076
+yi nei 	以內	c=0 d=0.0941765 t=1076
+yi nei de 	以內的	c=1 d=0.946485 t=1076
+yi pian liang pian 	一片两片	c=1 d=1.9801e-08 t=1076
+yi shang miao shu 	以上描述	c=1 d=1.9801e-08 t=1076
+yi sheng ming 	已声明	c=1 d=1.9801e-08 t=1076
+yi tiao jie yi tiao 	一条接一条	c=1 d=1.9801e-08 t=1076
+yi wang ju shou 	遗忘巨兽	c=1 d=1.9801e-08 t=1076
+yi xia 	以下	c=0 d=0.190484 t=887
+yi xia ba 	一下吧	c=1 d=0.946485 t=1076
+yi xia han shu 	以下函數	c=1 d=1 t=868
+yi xia she shi 	以下設施	c=1 d=1 t=888
+yi xie 	一些	c=0 d=0.1 t=968
+yi yuan 	一元	c=0 d=0.1 t=964
+yi yuan san ci 	一元三次	c=2 d=1.67032 t=1045
+yi zhi 	已知	c=1 d=0.99005 t=1076
+yin cang 	隱藏	c=2 d=0.304222 t=1076
+yin shan xia 	阴山下	c=1 d=1.9801e-08 t=1076
+yin yong 	引用	c=2 d=0.722944 t=1076
+ying gai 	應該	c=1 d=0.29671 t=1076
+ying hua 	櫻花	c=2 d=0.630906 t=1076
+ying she 	映射	c=1 d=0.540432 t=913
+ying wen 	英文	c=2 d=1.21546 t=1057
+ying yong 	應用	c=1 d=0.625002 t=1076
+ying yong dao hang xi tong 	应用导航系统	c=1 d=1.9801e-08 t=1076
+yong bu liao 	用不了	c=1 d=1 t=810
+yong hu ming 	用戶名	c=3 d=1.9706 t=1076
+you 	優	c=1 d=0.831104 t=1076
+you 	又	c=0 d=0.0332871 t=1076
+you 	有	c=2 d=0.974894 t=1076
+you dian que 	有点缺	c=1 d=1.9801e-08 t=1076
+you ge ai ren 	有个矮人	c=1 d=1.9801e-08 t=1076
+you hua 	優化	c=2 d=1.97516 t=1076
+you ji ge 	有幾個	c=1 d=0.66365 t=1076
+you jie tu ma 	有截图吗	c=1 d=1.9801e-08 t=1076
+you la 	优菈	c=1 d=1.9801e-08 t=1076
+you lou ti 	有楼梯	c=1 d=1.9801e-08 t=1076
+you shi fu 	尤师傅	c=1 d=1.9801e-08 t=1076
+you shui de 	有水的	c=1 d=1.9801e-08 t=1076
+you tiao xian 	有条线	c=1 d=1.9801e-08 t=1076
+you wei shen me 	又为什么	c=1 d=1.9801e-08 t=1076
+you wu 	有誤	c=1 d=0.923116 t=1076
+you xi 	遊戲	c=1 d=0.436253 t=1076
+you xi di 	遊戲第	c=1 d=0.744532 t=1076
+you xi di tu 	遊戲地圖	c=1 d=0.631283 t=1076
+you xie 	有些	c=3 d=2.85662 t=1002
+you xiu 	優秀	c=1 d=0.904837 t=1076
+you yao 	又要	c=0 d=0.0790571 t=1076
+you yao deng lu 	又要登錄	c=1 d=0.794534 t=1076
+you yi 	有意	c=0 d=0.1 t=1027
+you yi de 	有意的	c=1 d=1 t=1028
+you yi quan 	又一圈	c=1 d=1.9801e-08 t=1076
+you you 	呦呦	c=0 d=0.1 t=790
+you you lu ming 	呦呦鹿鳴	c=1 d=1 t=791
+you zhang hao 	有帳號	c=1 d=0.951229 t=1076
+yu 	與	c=2 d=1.9802 t=975
+yu bei 	預備	c=0 d=0.099005 t=1076
+yu bei ti jiao 	預備提交	c=1 d=0.99005 t=1076
+yu zhi 	與之	c=0 d=0.1 t=885
+yu zhi xiang ying de 	與之相應的	c=1 d=1 t=886
+yuan 	原	c=1 d=0.283654 t=1076
+yuan ben 	原本	c=0 d=0.1 t=914
+yuan ben de 	原本的	c=1 d=1 t=915
+yuan fang 	元芳	c=1 d=0.918512 t=1076
+yuan gong 	員工	c=0 d=0.0771052 t=1076
+yuan gong gong zi 	員工工資	c=1 d=0.774916 t=1076
+yuan shen 	原神	c=3 d=0.560262 t=1076
+yuan su 	元素	c=1 d=1.22453 t=863
+yuan su zhou qi 	元素周期	c=1 d=1.9801e-08 t=1076
+yuan xing 	原型	c=1 d=0.852144 t=1076
+yue 	月	c=2 d=1.47704 t=1076
+yue xia feng lai 	月下风来	c=1 d=1.9801e-08 t=1076
+yun cheng 	匀称	c=1 d=1.9801e-08 t=1076
+yun dong 	運動	c=1 d=0.853578 t=1076
+yun dong shi jian 	運動時間	c=1 d=0.790571 t=1076
+yun mo se 	云墨色	c=1 d=1.9801e-08 t=1076
+yun suan fu 	運算符	c=2 d=0.937067 t=1076
+yun zuo gui ze 	运作规则	c=1 d=1.9801e-08 t=1076
+zai 	在	c=3 d=1.90113 t=957
+zai gun 	再滚	c=1 d=1.9801e-08 t=1076
+zai run 	再閏	c=1 d=0.763379 t=1076
+zai wai mao shang 	在外貌上	c=1 d=1.9801e-08 t=1076
+zai xian 	在線	c=1 d=0.88692 t=1076
+zai zhe 	在這	c=0 d=0.057695 t=1076
+zai zhe zhi shang 	在這之上	c=1 d=0.579841 t=1076
+zang song 	葬送	c=0 d=0.0273898 t=1076
+zang song de 	葬送的	c=2 d=0.551921 t=1076
+zao 	早	c=0 d=0.1 t=811
+zao jian ta 	造箭塔	c=1 d=1.9801e-08 t=1076
+zao yi gei chu 	早已给出	c=1 d=1.9801e-08 t=1076
+zao zen me shi xian 	早怎麼實現	c=1 d=1 t=812
+zen me 	怎麼	c=2 d=1.11244 t=1076
+zen me ban 	怎麼辦	c=0 d=0.065377 t=1076
+zen me ban ne 	怎麼辦呢	c=1 d=0.657047 t=1076
+zen me shu chu 	怎麼輸出	c=1 d=1 t=918
+zen me shuo 	怎麼說	c=1 d=0.913931 t=1076
+zen me yang le 	怎麼樣了	c=0 d=0.097531 t=1076
+zha dan 	炸彈	c=1 d=0.822835 t=1076
+zhan yong 	佔用	c=1 d=0.289385 t=1076
+zhang ai 	障礙	c=1 d=1 t=1041
+zhang hao 	帳號	c=0 d=0.0946485 t=1076
+zhang san 	張三	c=3 d=2.14618 t=1076
+zhang xiang jun mei 	长相俊美	c=1 d=1.9801e-08 t=1076
+zhao ci bai di cai yun jian 	朝辞白帝彩云间	c=1 d=1.9801e-08 t=1076
+zhao ni 	找你	c=0 d=0.0465334 t=1076
+zhao ni liao liao 	找你聊聊	c=1 d=0.467667 t=1076
+zhe 	這	c=2 d=1.05906 t=1011
+zhe bian 	這邊	c=0 d=0.089277 t=1076
+zhe bian you bu xing le 	這邊又不行了	c=1 d=0.33454 t=1076
+zhe bing bu kun nan 	這並不困難	c=2 d=1.99501 t=1013
+zhe bu fen 	這部分	c=1 d=0.474734 t=1076
+zhe bu shi 	這不是	c=1 d=0.486752 t=1076
+zhe duan 	遮断	c=1 d=1.9801e-08 t=1076
+zhe ge 	這個	c=4 d=1.78835 t=1076
+zhe ge nian 	这个念	c=1 d=1.9801e-08 t=1076
+zhe ge shi shen me dong xi 	这个是什么东西	c=1 d=1.9801e-08 t=1076
+zhe jian shi 	這件事	c=1 d=1 t=911
+zhe jiang 	浙江	c=1 d=0.970446 t=1076
+zhe li 	這裏	c=2 d=0.600496 t=1076
+zhe li you ge bao cuo 	这里有个报错	c=1 d=1.9801e-08 t=1076
+zhe li zhe ge 	这里这个	c=2 d=0.29671 t=1076
+zhe qi zhong 	這其中	c=1 d=1 t=989
+zhe shi 	這是	c=1 d=1 t=1038
+zhe shi kou hao 	这是口号	c=1 d=1.9801e-08 t=1076
+zhe xie 	這些	c=2 d=1.99005 t=872
+zhe yang 	這樣	c=1 d=1 t=1033
+zhe zhong 	這種	c=1 d=1 t=813
+zhe zu 	這組	c=0 d=0.0798516 t=1076
+zhe zu shu zhong 	這組數中	c=1 d=0.802519 t=1076
+zhen dui 	針對	c=2 d=1.60351 t=829
+zheng chu 	整除	c=1 d=0.980199 t=1076
+zheng ge 	整個	c=2 d=1.26228 t=1076
+zheng que 	正確	c=1 d=0.869358 t=1076
+zheng ze 	正則	c=1 d=0.985112 t=1076
+zhi 	之	c=1 d=1 t=1027
+zhi 	值	c=3 d=1.58825 t=1076
+zhi an 	治安	c=0 d=0.1 t=741
+zhi ban qing kuang 	值班情况	c=1 d=1.9801e-08 t=1076
+zhi chi 	支持	c=1 d=0.985112 t=1076
+zhi ding 	制定	c=1 d=1 t=884
+zhi jie dao yan jiang 	直接到岩浆	c=1 d=1.9801e-08 t=1076
+zhi qian 	之前	c=1 d=1 t=922
+zhi qian di xia 	之前地下	c=1 d=1.9801e-08 t=1076
+zhi shang 	之上	c=0 d=0.057695 t=1076
+zhi shao lian xu 	至少连续	c=1 d=1.9801e-08 t=1076
+zhi wu ji 	植物集	c=1 d=1.9801e-08 t=1076
+zhi xing 	執行	c=1 d=1 t=857
+zhi xue you yong de 	只学有用的	c=1 d=1.9801e-08 t=1076
+zhi ye 	職業	c=1 d=0.491644 t=1076
+zhi zuo 	製作	c=1 d=1 t=807
+zhong duan 	終端	c=1 d=1 t=804
+zhong duan pei zhi 	终端配置	c=1 d=1.9801e-08 t=1076
+zhong jian xian de 	中间线的	c=1 d=1.9801e-08 t=1076
+zhong jian xuan zhe 	中间悬着	c=1 d=1.9801e-08 t=1076
+zhong tian 	種田	c=0 d=0.0390628 t=1076
+zhong tian wai 	種田外	c=1 d=0.392585 t=1076
+zhong wen 	中文	c=1 d=1 t=961
+zhong zi a 	种子啊	c=1 d=1.9801e-08 t=1076
+zhu cang 	貯藏	c=3 d=1.27801 t=1076
+zhu ce biao 	註冊表	c=3 d=1.94831 t=1076
+zhu ling 	猪灵	c=1 d=1.9801e-08 t=1076
+zhu mian guan li 	煮面管理	c=1 d=1.9801e-08 t=1076
+zhu ru 	注入	c=1 d=0.970446 t=1076
+zhu shi 	註釋	c=1 d=1 t=824
+zhu ti 	主題	c=3 d=0.96514 t=1076
+zhu wei cao 	猪尾草	c=1 d=1.9801e-08 t=1076
+zhu yi 	注意	c=0 d=0.1 t=909
+zhu yi dao 	注意到	c=0 d=0.1 t=968
+zhu yi ta men 	注意它們	c=1 d=1 t=910
+zhu zi 	朱紫	c=1 d=1.9801e-08 t=1076
+zhuan 	轉	c=1 d=1 t=968
+zhuan tou zai kan kan 	转头再看看	c=1 d=1.9801e-08 t=1076
+zhuo mian 	桌面	c=1 d=0.97531 t=1076
+zhuo mian feng ge 	桌面风格	c=1 d=1.9801e-08 t=1076
+zi 	子	c=0 d=0.0298197 t=1076
+zi 	字	c=4 d=2.07947 t=1076
+zi fu 	字符	c=2 d=1.53788 t=1076
+zi fu chuan 	字符串	c=0 d=0.0729789 t=1076
+zi ran 	自然	c=1 d=0.70822 t=1076
+zi ran shu 	自然數	c=1 d=0.677057 t=1076
+zi ti 	字體	c=5 d=1.03024 t=1076
+zi ti jian bian 	字体渐变	c=1 d=1.9801e-08 t=1076
+zi yuan su bu shou 	子元素不受	c=1 d=1.9801e-08 t=1076
+zong bu neng 	總不能	c=1 d=0.603506 t=1076
+zong zhi 	總之	c=1 d=0.621885 t=1076
+zu 	足	c=1 d=0.985111 t=1076
+zu jian 	組件	c=2 d=1.2133 t=1076
+zui 	最	c=0 d=0.1 t=776
+zui da 	最大	c=0 d=0.0321422 t=1076
+zui da de 	最大的	c=1 d=0.806541 t=1076
+zui hao neng 	最好能	c=1 d=0.666977 t=1076
+zui xiao de 	最小的	c=0 d=0.0814647 t=1076
+zui xiao de zhi 	最小的值	c=1 d=0.818731 t=1076
+zui xin de 	最新的	c=1 d=0.873716 t=1076
+zui zuo bian 	最左邊	c=1 d=1 t=777
+zun shou 	遵守	c=1 d=0.891367 t=1076
+zuo 	作	c=1 d=0.904837 t=1076
+zuo bian 	左邊	c=1 d=1.09094 t=795
+zuo biao 	坐標	c=1 d=0.729789 t=1076
+zuo biao xi 	座標系	c=1 d=0.965605 t=1076
+zuo cheng 	做成	c=1 d=0.637628 t=1076
+zuo hao 	做好	c=1 d=0.377192 t=1076
+zuo le 	做了	c=1 d=0.346456 t=1076
+zuo ri ke liu liang 	昨日客流量	c=1 d=1.9801e-08 t=1076
+zuo shou 	左手	c=1 d=0.960789 t=1076
+zuo yong 	作用	c=1 d=1 t=850

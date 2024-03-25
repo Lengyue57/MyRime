@@ -28,6 +28,7 @@ extended_charset: 1
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: "'"
+  initals: "zyxwtsqpmlkjfdcb"
   algebra:
     __patch:
       - pinyin:/abbreviation
@@ -47,7 +48,8 @@ speller:
     - derive/^yuan$/yuen/
     - derive/^yu/v/
     - derive/^([jqx])i(.+)$/$1$2/
-    - derive/^yi?(?![i])/i/
+    - derive/^yi?(?![iuv])/i/
+    - derive/^you$/iu/
 
 translator:
   dictionary: luna_pinyin
@@ -55,6 +57,8 @@ translator:
     - "^啊*$"
   preedit_format:
     # 简化输入
+    - xform/(^|')iu($|')/$1you$2/
+    - xform/(^|')i($|['n])/$1yi$2/
     - xform/(^|')i/$1y/
     - xform/([jqx])n/$1in/
     - xform/([jqx])e/$1ie/

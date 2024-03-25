@@ -19,6 +19,7 @@ patch:
     hilited_candidate_text_color: 0xffffff
     hilited_text_color: 0x808080
     label_color: 0xffffff
-  style/font_face: "Source Han Sans SC, Microsoft YaHei, UbuntuMono Nerd Font"
+  style/font_face: "Source Han Sans SC, UbuntuMono Nerd Font"
   style/font_point: 12
+  # style/label_format: '%s'
   style/inline_preedit: true
