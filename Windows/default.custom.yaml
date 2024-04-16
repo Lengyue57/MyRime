@@ -8,15 +8,14 @@ patch:
   schema_list:
     - {schema: luna_pinyin}
     - {schema: my_schema}
-    - {schema: colemak}
     - {schema: ipa_xsampa}
     - {schema: ipa_yunlong}
-  
+
   menu/page_size: 7
 
   switcher/hotkeys:
     - F4
-    
+
   ascii_composer/good_old_caps_lock: true
   ascii_composer/switch_key:
     Caps_Lock: commit_code
@@ -26,10 +25,9 @@ patch:
   key_binder:
     bindings:
       - { when: composing, accept: KP_Enter, send: Return }
+      - { when: has_menu, accept: Tab, send: space }
       # commonly used paging keys
       - { when: has_menu, accept: ISO_Left_Tab, send: Page_Up }
-      - { when: has_menu, accept: Shift+Tab, send: Page_Up }
-      - { when: has_menu, accept: Tab, send: Page_Down }
       - { when: has_menu, accept: minus, send: Page_Up }
       - { when: has_menu, accept: equal, send: Page_Down }
       - { when: paging, accept: comma, send: Page_Up }
