@@ -1,0 +1,50 @@
+patch:
+  extended_charset: 1
+  pin_cand_filter: null
+
+  # 拼写设定
+  speller:
+    # 如果不想让什么标点直接上屏，可以加在 alphabet，或者编辑标点符号为两个及以上的映射
+    alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`
+    # initials 定义仅作为始码的按键，排除 ` 让单个的 ` 可以直接上屏
+    initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+    delimiter: "'"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
+    algebra:
+      __patch:
+        - pinyin:/abbreviation
+    algebra:
+      - derive/^([bpmf])o$/$1uo/
+      - xform/^([jqx])u/$1v/   # 明确区分 u 和 ü 的输入
+      - xform/^yu/v/           # 用 v 替代 yu 用
+      - derive/un$/uen/
+      - derive/ui$/uei/
+      - derive/iu$/iou/
+      - derive/ing$/ieng/
+      - derive/^ying$/yeng/
+      - derive/ian$/ien/
+      - derive/^yan$/yen/
+      - derive/^yuan$/yuen/
+      - derive/^([jqx])i(.+)$/$1$2/ # 省略 jqx 后面的 i
+      - derive/^yi?(?!i)/i/         # 可以直接将 i 当 y 或 yi 用
+      - derive/^you$/iu/            # 简化 iou 为 iu
+
+
+  translator/disable_user_dict_for_patterns:
+      - "^.*$"
+  translator/preedit_format:
+      - xform/(^|')iu($|')/$1you$2/
+      - xform/(^|')i($|['n])/$1yi$2/
+      - xform/(^|')i/$1y/
+      - xform/([jqx])([en])/$1i$2/
+      - xform/yuen($|')/yuan$1/
+      - xform/([yi])en($|')/$1an$2/
+      - xform/ieng/ing/
+      - xform/yeng/ying/
+      - xform/(^|')v/$1yu/
+      - xform/([jqx])v/$1u/
+      - xform/([nl])v/$1ü/
+
+  recognizer/patterns/punct: "^V([0-9]|10|[A-Za-z]+)$"
+
+  punctuator/symbols:
+    __include: symbols_caps_v:/symbols

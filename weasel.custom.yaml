@@ -1,0 +1,46 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri Feb 21 09:29:30 2025"
+  rime_version: 1.11.5
+patch:
+  __include: "hot_keys:/patch"
+  style/color_scheme: WindowsDark
+  style/font_face: "IosevkaSlab Nerd Font, Segoe UI Emoji, Source Han Sans SC, SF Pro, Noto Color Emoji"
+  style/label_font_face: "Source Han Sans SC"
+  style/comment_font_face: "Source Han Sans SC"
+  style/font_point: 12
+  style/label_font_point: 12
+  style/comment_font_point: 10
+
+  style/horizontal: false
+
+  style/layout/border_width: 0
+  style/layout/margin_x: 10
+  style/layout/margin_y: 6
+  style/layout/candidate_spacing: 10
+  style/layout/hilite_spacing: 8
+  style/layout/hilite_padding: 2
+  style/layout/hilite_padding_x: 6
+  style/layout/corner_radius: 10
+  style/layout/hilited_corner_radius: 6
+  style/layout/shadow_radius: 4
+  style/layout/shadow_offset_x: 2
+  style/layout/shadow_offset_y: 2
+
+  preset_color_schemes/WindowsDark:
+    name: "Microsoft Dark"
+    author: ["Leng_yue57 <1210625283@qq.com>"]
+    text_color: 0xFFFFFF
+    shadow_color: 0xB4000000
+    label_color: 0xFFFFFF
+    comment_text_color: 0x808080
+    back_color: 0x2C2C2C
+    candidate_text_color: 0xFFFFFF
+    candidate_back_color: 0x2C2C2C
+    hilited_mark_color: 0xE6BBBD
+    hilited_label_color: 0xFFFFFF
+    hilited_comment_color: 0xFFFFFF
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0x383838
