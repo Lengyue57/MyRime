@@ -1,0 +1,33 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Feb 20 17:15:41 2025"
+  rime_version: 1.11.2
+patch:
+  schema_list:
+    - schema: luna_pinyin
+    - schema: rime_ice
+    - schema: ipa_xsampa
+    - schema: ipa_yunlong
+
+  menu/page_size: 7
+
+  switcher/hotkeys:
+    - F4
+
+  ascii_composer/good_old_caps_lock: true
+  ascii_composer/switch_key:
+    Caps_Lock: commit_code
+    Shift_L: commit_code
+    Shift_R: commit_code
+
+  key_binder:
+    bindings:
+      __patch:
+        - key_bindings:/paging_with_brackets
+        - key_bindings:/paging_with_minus_equal
+        - key_bindings:/paging_with_comma_period
+    bindings:
+      - { when: composing, accept: KP_Enter, send: Return }
+      - { when: has_menu, accept: Tab, send: space }

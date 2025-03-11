@@ -1,0 +1,10 @@
+.DS_Store
+**/.idea/
+.vscode/
+dist/
+
+build/
+sync/
+*.userdb/
+installation.yaml
+user.yaml

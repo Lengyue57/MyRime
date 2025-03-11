@@ -1,0 +1,54 @@
+patch:
+  switches:
+    - name: ascii_mode
+      reset: 1
+      states: ["中", "Ａ"]
+    - name: full_shape
+      states: ["半", "全"]
+    - name: simplification
+      states: ["繁", "简"]
+    - name: ascii_punct
+      reset: 0
+      states: ["¥", "$"]
+
+  extended_charset: 1
+
+  speller:
+    alphabet: zyxwvutsrqponmlkjihgfedcba
+    delimiter: "'"
+    algebra:
+      __patch:
+        - pinyin:/abbreviation
+    algebra:
+      - derive/^([bpmf])o$/$1uo/
+      - xform/^([jqx])u/$1v/   # 明确区分 u 和 ü 的输入
+      - xform/^yu/v/           # 用 v 替代 yu 用
+      - derive/un$/uen/
+      - derive/ui$/uei/
+      - derive/iu$/iou/
+      - derive/ing$/ieng/
+      - derive/^ying$/yeng/
+      - derive/ian$/ien/
+      - derive/^yan$/yen/
+      - derive/^yuan$/yuen/
+      - derive/^([jqx])i(.+)$/$1$2/ # 省略 jqx 后面的 i
+      - derive/^yi?(?!i)/i/         # 可以直接将 i 当 y 或 yi 用
+      - derive/^you$/iu/            # 简化 iou 为 iu
+
+
+  translator:
+    dictionary: luna_pinyin
+    disable_user_dict_for_patterns:
+      - "^.*$"
+    preedit_format:
+      - xform/(^|')iu($|')/$1you$2/
+      - xform/(^|')i($|['n])/$1yi$2/
+      - xform/(^|')i/$1y/
+      - xform/([jqx])([en])/$1i$2/
+      - xform/yuen($|')/yuan$1/
+      - xform/([yi])en($|')/$1an$2/
+      - xform/ieng/ing/
+      - xform/yeng/ying/
+      - xform/(^|')v/$1yu/
+      - xform/([jqx])v/$1u/
+      - xform/([nl])v/$1ü/
